@@ -1,0 +1,70 @@
+# On the duties and qualities of a master and teacher
+
+A teacher’s first duty is to exercise power of discernment. By this we mean that
+he will need, firstly, to determine a person’s physical capacity in the light of
+the fact that there are different somatic types and that some people have longer
+or shorter limbs than others, and, secondly, to detect a pupil’s natural
+intelligence or obtuseness and his ability, or lack of it, to assimilate what he
+is taught.
+
+979His next step will be to subject the novice to a religious test if he is an
+adult; for if he is a boy the permission of his parents? will be required. Once
+he is satisfied that he is a Muslim, he should extract from him an undertaking
+that he will shoot no other Muslim, nor any non-Muslim enjoying treaty rights,
+nor any dog, nor any four-footed animal, except in hunting or unless it be
+something which must of necessity be destroyed, nor anything that will involve
+him in an act of injustice.  Once he is sure that his pupil will accept all
+these conditions and is satisfied with his religious qualifications, he should
+take him and endeavour to instruct him according to the requirements of his
+physique as indicated above and should counsel him once he is sure that he is
+worthy of instruction. For it has been transmitted from an authoritative source
+thar to withhold learning from one who is worthy of it is not lawful. Such a one
+must be granted a share thereof as of right, especially if he appreciates the
+value of learning, longs for it, and seeks God's good pleasure and not vainglory
+and vanity. In this connexion experts on archery quote religious scholars as
+their authority for the maxim: ‘Neither withhold advantage from those who are
+worthy of it, and thereby do them wrong, nor grant it to those who are unworthy
+and, thus squandering it, do advantage wrong.’
+
+As to a master’s duties, he should train his pupils, bring them together in
+unity and concord, spur them on to work, reprimand them only in private, and
+labour to the end that they may strive to learn and ever? reverence the place
+dedicated to archery, wherein none should be allowed to utter any profanity,
+inasmuch as it is a place of worship, and places of worship belong to God.
+
+980Proceedings should be opened with the formula ‘In the name of God’. Upon
+loosing, the for- mula ‘God is greatest’ should be pronounced, and, after that,
+God's blessing upon the Messenger of God, his family, and his Companions? should
+be invoked. Where it is mcrited, the master should compliment a shooter to
+encourage him. He should teach his pupils all that is good and at the same time
+restrain them from all that is bad.
+
+A master should be taciturn and of dignified bearing and commanding presence,
+yet not haughty. He should be stable and patient and not too hasty with his
+answers, All kinds of learning may be observed in all mankind, and there is no
+one who does not have some share in God's bounty. It is desirable that a master
+should have the strength of an elephant, the spring of a lion, the boldness of a
+leopard, and the cunning of a fox; that he should have for his colleagues the
+affection that a dog has for its master;* that he should exercise the patience
+of a cat. He should make the sword his companion, the lance his friend, the
+shicld his fortress, the dagger his secret weapon. He should display great
+tolerance and be indulgent. The beginning of all things is piety,
+
+981
+157
+
+
+I58 Fee Ces. erere Bree le OF re ort a which is a man’s capital stock.> These,
+then, are some of the qualities which a teaching master
+
+982
+should possess.  As regards the qualities required of a novice, some of these
+have already been mentioned, The
+
+
+foundations upon which they all rest are humility, hearing attentively and
+obeying that which is
+
+983
+pleasing to God Almighty and His Messenger — may God bless him, his house and
+his Companions, and grant them peace !

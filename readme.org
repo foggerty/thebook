@@ -1,0 +1,21 @@
+* The plan....
+At some point, contact the publisher to get contact info for the authors' estates.  Then, contact the estates and erm, beg.
+
+- [ ] First, just typeset the translation.  Ignore the comments, as they will often reference figures, and these ALL need to be replaced.
+  - [ ] Setup a build script.
+  - [ ] Lookup [[https://pandoc.org/MANUAL.html#epubs][ePub extras provided by Pandoc]], "index/forward" etc.
+  - [ ] Styles
+    - [ ] Page header / footer.
+    - [ ] Make a reasonable [[https://pandoc.org/MANUAL.html#epub-styling][.css file]].
+    - [ ] Translator comments in a shaded block.
+- [ ] Add the errata.
+- [ ] Then, add notes (groan).
+- [ ] Publish - i.e. hand out to the community.
+- [ ] Ask Bede if he wants to join in, and either update based on more recent research, or add new findings to expand on what's already contained.
+- [ ] Add comments, and prefex with "Translator Comments" so its obvious (see below re comments).
+- [ ] Publish.
+- [ ] Videos?
+- [ ] New images?
+- [ ] Add the authors' introduction and leading notes.
+- [ ] Publish
+- [ ] Index?  Dear god....
