@@ -1,18 +1,47 @@
 * The plan....
 At some point, contact the publisher to get contact info for the authors' estates.  Then, contact the estates and erm, beg.
 
-- [ ] First, just typeset the translation.  Ignore the comments, as they will often reference figures, and these ALL need to be replaced.
-  - [ ] Setup a build script.
-  - [ ] Lookup [[https://pandoc.org/MANUAL.html#epubs][ePub extras provided by Pandoc]], "index/forward" etc.
-  - [ ] Styles
-    - [ ] Page header / footer.
-    - [ ] Make a reasonable [[https://pandoc.org/MANUAL.html#epub-styling][.css file]].
-    - [ ] Translator comments in a shaded block.
+- [ ] Setup a github repo.
+- [ ] The original title can be translated as "Essential Archer for beginners" or "Essential Archery For The Fighting Archer, Or All That the Toiler Desires." Use this!
+- [-] Introduction and everything pertaining to shooting.
+  - [ ] Dates
+  - [ ] Transliteration and Pronunciation
+  - [X] Chapter 1
+  - [X] Chapter 2
+  - [X] Chapter 6
+  - [X] Chapter 7
+  - [ ] Chapter 8
+  - [ ] Chapter 9
+  - [ ] Chapter 10
+  - [ ] Chapter 11
+  - [ ] Chapter 12
+  - [ ] Chapter 13
+  - [ ] Chapter 14
+  - [ ] Chapter 17
+  - [ ] Chapter 18
+  - [ ] Chapter 20
+  - [ ] Chapter 21
+  - [ ] Chapter 22
+  - [ ] Chapter 23
+  - [ ] Chapter 24
+  - [ ] Chapter 25
+  - [ ] Appendix 4
+- [ ] Setup a build script.
+- [ ] Lookup [[https://pandoc.org/MANUAL.html#epubs][ePub extras provided by Pandoc]], "index/forward" etc.
+- [ ] Styles
+  - [ ] Make a reasonable [[https://pandoc.org/MANUAL.html#epub-styling][.css file]].
+  - [ ] Page header / footer.
+  - [ ] Translator comments in a shaded block.
 - [ ] Add the errata.
+- [ ] Find all instances of ~===~ and replace with an explanation of what manuscript it came from.
 - [ ] Then, add notes (groan).
+- [ ] Photos for chapter 8, along with a (simplified) hand diagram.
+- [ ] Add inches to cm conversions
+- [ ] Run a spell check over everything.
 - [ ] Publish - i.e. hand out to the community.
 - [ ] Ask Bede if he wants to join in, and either update based on more recent research, or add new findings to expand on what's already contained.
-- [ ] Add comments, and prefex with "Translator Comments" so its obvious (see below re comments).
+- [ ] Remaining chapters on bow-building, strings, arrows etc.
+- [ ] Rest of the indexes.
 - [ ] Publish.
 - [ ] Videos?
 - [ ] New images?

@@ -1,13 +1,3 @@
 # Dates
 
-Since there are some who may not know that Muslims have their own calendar, we
-draw attention to the fact that dates in Muslim Arab sources are normally given
-according to the lunar years of the Hegira (hijrah) era (indicated by the
-abbreviation A.H.) which is reckoned from 16 July, 4.D. 622. Since it is rare
-for a Muslim year to fall wholly within a single Christian solar year, it is not
-possible, unless an author specifies the day and month, to indicate which of two
-possible Gregorian years is involved. It is for this reason that the reader will
-find, for instance, that the Muslim years 764—78 are expressed as
-A.H. 764~78/1362-3—1376-7. All dates without any indication to the contrary are
-to be taken as A.D., and, where an oblique stroke intervenes between any two
-dates, the first is that of the Muslim year.
+Since there are some who may not know that Muslims have their own calendar, we draw attention to the fact that dates in Muslim Arab sources are normally given according to the lunar years of the Hegira (hijrah) era (indicated by the abbreviation A.H.) which is reckoned from 16 July, 4.D. 622. Since it is rare for a Muslim year to fall wholly within a single Christian solar year, it is not possible, unless an author specifies the day and month, to indicate which of two possible Gregorian years is involved. It is for this reason that the reader will find, for instance, that the Muslim years 764—78 are expressed as A.H. 764~78/1362-3—1376-7. All dates without any indication to the contrary are to be taken as A.D., and, where an oblique stroke intervenes between any two dates, the first is that of the Muslim year.
