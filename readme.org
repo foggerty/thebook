@@ -1,8 +1,7 @@
 * The plan....
 At some point, contact the publisher to get contact info for the authors' estates.  Then, contact the estates and erm, beg.
 
-- [ ] Setup a github repo.
-- [ ] The original title can be translated as "Essential Archer for beginners" or "Essential Archery For The Fighting Archer, Or All That the Toiler Desires." Use this!
+- [X] Setup a github repo.
 - [-] Introduction and everything pertaining to shooting.
   - [ ] Dates
   - [ ] Transliteration and Pronunciation
@@ -26,6 +25,7 @@ At some point, contact the publisher to get contact info for the authors' estate
   - [ ] Chapter 24
   - [ ] Chapter 25
   - [ ] Appendix 4
+- [ ] The original title can be translated as "Essential Archer for beginners" or "Essential Archery For The Fighting Archer, Or All That the Toiler Desires." Use this!
 - [ ] Setup a build script.
 - [ ] Lookup [[https://pandoc.org/MANUAL.html#epubs][ePub extras provided by Pandoc]], "index/forward" etc.
 - [ ] Styles

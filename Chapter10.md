@@ -1,285 +1,63 @@
 # On locking and counting
 
-. "The act of locking the fingers on the bowstring and about the arrow's nock is
-termed ‘agd, which also denotes the act of reckoning by the use of different
-finger positions! (Appendix 4).  The method "which I recommend! consists in
-locking your fingers in the position in which they would be for the purpose of
-representing sixty-nine. Some allege that my lock of ‘69’ is that of ‘63°, but
-in fact you conceal the finger-nails, and when you do that, you reckon nine,
-‘not three!.  We have gone into this point with those who are conversant with
-finger-reckoning and found it to be a fact. Those who use the system differ
-about the manner jn which three should be reckoned, but as regards nine there is
-no disagreement.!
+[The act of locking the fingers on the bowstring and about the arrow's nock is termed *'aqd*, which also denotes the act of reckoning by the use of different finger positions] (Appendix 4).  The method [which I recommend] consists in locking your fingers in the position in which they would be for the purpose of representing sixty-nine. Some allege that my lock of ‘69’ is that of ‘63’, but in fact you conceal the finger-nails, and when you do that, you reckon nine, [not three].  We have gone into this point with those who are conversant with finger-reckoning and found it to be a fact. Those who use the system differ about the manner jn which three should be reckoned, but as regards nine there is no disagreement.
 
-442What you doto obtain the lock of ‘69’ is to gather the little finger, the
-ring-finger, and the middle finger of the drawing hand! into the centre of the
-palm and then to conceal the finger-nails.  This gives you nine. You next place
-the tip of the thumb in the centre of the middle phalanx of the middle finger
-and wrap the end of the index finger over the base of the thumb-nail. You will
-then have reckoned sixty-nine. This is the right and proper lock which ‘all
-good! archers use. 1
+2What you do to obtain the lock of ‘69’ is to gather the little finger, the ring-finger, and the middle finger of [the drawing hand] into the centre of the palm and then to conceal the finger-nails.  This gives you nine. You next place the tip of the thumb in the centre of the middle phalanx of the middle finger and wrap the end of the index finger over the base of the thumb-nail. You will then have reckoned sixty-nine. This is the right and proper lock which [all good] archers use.
 
-When drawing the bow, lodge the string in the crease of the thumb, or, to be
-more precise, in the proximal margin of the joint between the two phalanges of
-the thumb. By so doing you will provide the string with a rest (magarr) from
-which it will not slip when the bow is drawn. This rest is the place in which
-the string? should always be lodged, for it is the right and proper place
-(Le. if a bare thumb or simple leather guard is used, for with a ring the string
-is positioned above the joint). If the little finger, ring-finger, and middle
-finger are strongly pressed home, an extremely firm lock will follow, Such
-treatment is essential because it is upon the pressure of these three fingers
-‘with concealment of the nails’ that a good strong lock depends.
+When drawing the bow, lodge the string in the crease of the thumb, or, to be more precise, in the proximal margin of the joint between the two phalanges of the thumb. By so doing you will provide the string with a rest (*maqarr*) from which it will not slip when the bow is drawn. This rest is the place in which the string? should always be lodged, for it is the right and proper place (i.e. if a bare thumb or simple leather guard is used, for with a ring the string is positioned above the joint). If the little finger, ring-finger, and middle finger are strongly pressed home, an extremely firm lock will follow. Such treatment is essential because it is upon the pressure of these three fingers [with concealment of the nails] that a good strong lock depends.
 
-443After pressing home the said three fingers, put the tip of the thumb on the
-centre of the middle phalanx of the middle finger and keep it there the whole of
-the time from the very moment you loose. Next, cover the base of the thumb-nail
-with the middle phalanx of the right index finget, the base of the thumb-nail
-being the point from which it commences growth, or the end opposite to that
-which is cut when it is too long. What you do is to place the middle phalanx of
-the right index finger on the junction of the nail and flesh "of the thumb!. See
-that some of the thumb-nail remains visible—don't conceal it completely. An
-archer, incidentally, when paring his nails, should take care not to be too hard
-on his thumb-nail* "because it protects the flesh at the end!.5 It is, in fact,
-better to leave the nail alone in times of war or when there is a lot of
-shooting to be done. i
+After pressing home the said three fingers, put the tip of the thumb on the centre of the middle phalanx of the middle finger and keep it there the whole of the time from the very moment you loose. Next, cover the base of the thumb-nail with the middle phalanx of the right index finget, the base of the thumb-nail being the point from which it commences growth, or the end opposite to that which is cut when it is too long. What you do is to place the middle phalanx of the right index finger on the junction of the nail and flesh [of the thumb]. See that some of the thumb-nail remains visible—don't conceal it completely. An archer, incidentally, when paring his nails, should take care not to be too hard on his thumb-nail [because it protects the flesh at the end]. It is, in fact, better to leave the nail alone in times of war or when there is a lot of shooting to be done.
 
-The real art of locking lies in pressing the end of the right index finger on
-the thumb without too much bending, for if the right index finger bends and
-curls around the thumb, the finger will not respond as it should upon
-release. With archers this is a common fault, the term for which is kuzzaz
-(i.e. ‘spasm’, which, strictly speaking, is the result of a fault rather than
-the fault itself). It will result in the string’s rapping the end of the right
-index finger because it is bent
+The real art of locking lies in pressing the end of the right index finger on the thumb without too much bending, for if the right index finger bends and curls around the thumb, the finger will not respond as it should upon release. With archers this is a common fault, the term for which is *kuzzāz* (i.e. ‘spasm’, which, strictly speaking, is the result of a fault rather than the fault itself). It will result in the string’s rapping the end of the right index finger because it is bent too far around the thumb. It is, then, not only a fault, but also a cause of injury, so do beware of it.
 
-444
-51
+You may also use the pillion lock (*'aqd ar-radif'*) which is well suited to bows that are strong, stiff, and powerful, but it gives a slow release. What you do in this case is to lock as already indicated above, but then to mount the middle finger on the right index finger and place it on the thumb beside the index finger.
 
+You may also use the lock of ‘63’, which is the same as that of ‘69’, except that the nails are visible in this case, but are concealed in the other. Then again, there is the lock of '73' and that of ‘22’. The latter is called the ‘clinging’ lock and applies to the left hand when holding the arrow in place along with the grip of the bow during the nocking operation.
 
-52 | . SARACEN ARCHERY
+There is also the Slav ('*agd ag-Saqālibah*) lock in which the archer puts his three middle fingers on the string and extends the index finger along the shaft of the arrow. The thumb has no place in this lock, for which they make finger guards of gold, silver, iron, and copper.  With this lock the bow is held in the vertical position (*wāqifah*).
 
-445
+Finally, you have the ancient Arab lock of pre-Islamic times. With this you draw with the four fingers minus the thumb. Some would draw in this manner holding the bow in a horizontal position (rāqidah), The arrow was placed between the middle finger and the ring-finger and they would draw to the breast.
 
+‘Apart from the ‘69’, the ‘pillion’, and the ‘63’, none of these locks is of any advantage, but it may happen that they could be required for some contingency or special purpose - for which reason they are mentioned here.
 
+A straight lock (*al-istiaā*) will give a steadier draw, and an oblique (*at-tahrif*) a speedier . dispatch to your arrow (i.e. result in a faster loose, which will add a little velocity to the arrow; it is achieved by the greater speed at which the thumb will disengage from the string). Some archers place the string a little in front of the crease of the thumb-joint in the direction of the tip.  This is a good technique giving a fast loose (*sari al-iflās*) and good cast (jārid li-s-sahm).
 
-446
+The main principle behind these observations is that for every type of finger there is a particular lock, just as for every type of palm there is a particular grasp. The lock of Bahāam (*al-‘aqd al-Bahrāmi*), for example, involves lengthening the short, that is, the thumb, and shortening the long, that is, the right index finger. Chosroes’ lock (*al-‘aqd al-Khusrawāni*) is the reverse of that of Bahrām - it involves lengthening the long and shortening the short. []The lock may be varied, then, to suit the individual, but] the nock of the arrow may not be shortened [to suit the lock].  It is a great fault, so beware. (His meaning is: if as a result of the kind of lock which you adopt, you find the end of the nock pressing against any part of your thumb or index finger, you must not shorten the nock to remove this pressure, You must either take a different lock or accept the pressure.)
 
+## Translators' Comment
 
-S
+### The Lock: Terminology
 
-447
-c. 69 (oblique) d. 63
+**Arabic**
+As indicated in the introduction, the string of the Asiatic composite bow was drawn and held by the thumb, which in turn was held by the index finger to give what is known as a ‘thumb-lock’, After careful consideration of such evidence as has been available to us - much of it in manuscript - we have come to the conclusion that, whatever extension of meaning it may later have had (e.g. *Arab Archery*, p. 49), the verb *qafala*, ‘to make secure, close, lock’ (noun, *qaflah*), which some authors use in connection with the thumb-lock, originally expressed only the basic action of confining the string with the thumb and index finger. It is difficult to see how it could possibly have been used to indicate the relative positions of the index finger and thumb, to say nothing of the three remaining fingers. This being the case, it is our suggestion that the need to describe the various positions in which the fingers, taken as a whole, could be arranged in order to achieve the thumb-lock imposed the necessity of introducing the verb ‘*aqada* (noun: '*aqd*, plural, *uqūd*) into the archer's vocabulary. The word had the twofold advantage of meaning not only ‘to fasten’, but also ‘to reckon with the fingers’ according to a highly developed and precise system whereby configurations of the fingers of a single hand were employed to convey numerical values (Appendix 4). It could, therefore, be used in conjunction with numerals to communicate exact information about the configuration to be assumed by the fingers when putting a lock on a bowstring. In most contexts, however, *qaflah* - never used by Taybughā - is synonymous with ‘*aqd*, and *qafala*, like '*aqada*, functions with numerals to convey precisely the same information.
 
+**English**
+Ever since Morse described the various methods of drawing a bowstring as ‘releases’ many English and American authors have applied the term ‘release’ or ‘loose’ to what is in fact a ‘lock’ (hence ‘Fisher loose’, ‘Mediterranean loose’, ‘Flemish loose’, etc.). As the same word is also used in archery to denote the release of the string, it is obvious that ‘lock’ is a more precise and appropriate term so far as the act of holding it is concerned.  Lest the layman be misled, Morse’s ‘Mongolian release’ is none other than the thumb-lock.
 
+### The Locks of ‘63’ and ‘69’
 
-448
+Although Taybughā has obviously taken the trouble to verify the method of communicating the values of sixty-three and sixty-nine these numbers are transposed in
+===MSS of the C group===
+so that the lock given in the foregoing chapter as ‘69’ is described as '63' and vice versa. When transposed in this way, the locks of ‘63’ and ‘69’ will be found to be identical with those given in *Arab Archery*, p. 43, in which it will be observed that nine is reckoned with the nails of the middle finger, ring-finger, and little finger exposed (p. 20) so that the tips of the fingers rest on the palmar surface near the heel of the hand instead of being pressed into the palm.
 
-e.lockofBahràm — — f. 22
+There is no doubt that the lock in which the middle finger, ring-finger and little finger are clenched into the palm so that the nails are concealed is the strongest of all locks. We may conclude, therefore, that when the author of the *Nihāyah* asserts that ‘63’ is the strongest, his view of the manner in which it is reckoned is the same as that of the author of Arab Archery, with whom Mustafā Kāni is also in agreement. Practical trials prove that '63' and ‘69 are the two most effective locks, and, although there is evident disagreement about which is which, there is absolutely no doubt about the configurations with which we are dealing.
 
-449
+### Other Locks
 
+According to the author of *Arab Archery*, the locks ‘agreed upon by experts’ numbered six: the '63’, ‘69’, ‘73, ‘83’, ‘24’ (called the *Khusruwāni*, or *Chosroes'* lock) and ‘72'.(p. 43).
 
+### ON LOCKING AND COUNTING
 
-450Fic. 22. LOCKING AND COUNTING
+From the description that he gives of the last-mentioned lock it cannot be that of ‘72? (Arab Archery, p. 43, n. 20). It is, however, our ‘pillion’ lock, or *aqd ar-radif*, otherwise termed *aqd at-tārdif*, and there can be little doubt that Faris and Elmer's ‘reserve draw’ is a translation of *'aqd ar-radīf*; for one meaning which *radif* certainly has, but which is inappropriate in the present context, is ‘reserve’. The pillion lock admitted of variations such as those described, for instance, in the *Tabsirah and the *Nihāyah* (Ch. viii, p. 65), but it seems to have been regarded by most, if not all, authorities as a lock which was awkward or gave s slow loose, and it is even asserted that it resulted in a loose that mainly launched flirting arrows (*sihām mudtaribah*). It is of interest to note that it was the lock used by Japanese archers.
 
+As regards the Chosroes’ lock, it should be noted that to reckon twenty-four amounts to much the same thing as ‘lengthening the long and shortening the short’. The view that it was ‘worthless except in drawing supple bows employed in trick shots’ (*Arab Archery*, p. 43) is not shared by the author of the *Nihāyah* who maintains that it gave a most powerful loose and was extremely good for the arrow.
 
-ON LOCKING AND COUNTING $3
+Among other locks of which we find mention are those of ‘20', used edgewise for shooting a number of arrows simultaneously (*Arab Archery*, p. 149), ‘23’, '30' and ‘37'. Yet others could be enumerated, but enough has been said to illustrate the interesting fact that the number of variations of the thumb-lock used in the East was relatively large, Small variations in forming the lock would be determined partly by personal preference and partly by the relative lengths of the archer’s finger and thumb. It is important that an archer, once having decided which lock is best suited to his needs, should never vary the form as even the slightest alteration will affect the direction of his shots.
 
-451
-» too far around the thumb. It is, then, not only a fault, but also a cause of
-injury, so do beware of it.
+### The Position of the String
 
-You may also use the pillion lock ('agd ar-radif) which is well suited to bows
-that are strong, stiff, and powerful, but it gives a slow release. What you do
-in this case is to lock as already indicated above, but then to mount the middle
-finger on the right index finger and place it on the thumb beside the index
-finger.
+In discussing the position in which the string should rest against the thumb Taybughā is assuming that the archer is not wearing a ring. There seem to have been as many views on the position of the string in relation to the thumb as there were opinions on how the bow should be grasped and the string locked. The three positions indicated in our text seem to have been the most important, though here again there is considerable disagreement from one writer to another about the persons or schools to whom they should be attributed. We need only say here that the author of *Arab Archery* ascribes the oblique position - said to have been the oldest and that used by expert Persian archers - to Abū Hāshim, the straight position to Tāhir, and the third position - said to give a quicker release than the straight and a greater range than either of the other two - to Ishāq.
 
-452You may also use the lock of ‘63’, which is the same as that of ‘69’, except
-that the nails are visible in this case, but are concealed in the other. Then
-again, there is the lock of *73' and that of ‘22’. The latter is called the
-‘clinging’ lock and applies to the left hand when holding the arrow in place
-along with the grip of the bow during the nocking operation (Fig. 22f).
+Slow and quick releases are related to the speed at which the thumb disengages from the string. A quick release such as can be achieved by the oblique lock adds slightly more velocity to the arrow and can therefore have its advantages. Our author's oblique lock is analogous to the Fisher loose intended for use with the three-finger, or Mediterranean, loose.
 
-There is also the Slav ('agd ag-Sagálibah) lock in which the archer puts his
-three middle fingers on the string and extends the index finger along the shaft
-of the arrow.’ The thumb has no place? in this lock, for which they make finger
-guards of gold, silver, iron, and copper (Plate 9).  With this lock the bow is
-held in the vertical position (toagifaA).
-
-453Finally, you have the ancient Arab lock of pre-Islamic times." With this you
-draw with the four fingers minus the thumb. Some would draw in this manner
-holding the bow in a horizontal position (rdgidak), The arrow was placed between
-the middle finger and the ring- and they would draw to the breast.
-
-‘Apart from the ‘69’, the ‘pillion’, and the ‘63’, none of these locks is of any
-advantage, but it may happen that they could be required for some contingency or
-special purpose—for which
-
-454
-reason they are mentioned here.
-
-
-
-455
-
-Fic. 23. SASANID Lock
-
-456
-From a silver plate, item No. 7700, Archaeological Muscum, Teheran, This—and
-similar cvidence—suggests that the locks supposedly used by Bahrüm and Chosroes
-were not as stated.
-
-
-A straight lock (al-istima’) will give a steadier draw, and an oblique
-(at-tahrif) a speedier . dispatch to your arrow (Le. result in a faster loose,
-which will add a little velocity to the arrow;
-
-457it is achieved by the greater speed at which the thumb will disengage from the
-string). Some archers place the string a little in front of the crease of the
-thumb-joint in the direction of the tip.  This is a good technique giving a fast
-loose (sarf al-ifidr) and good cast (sdrid li-s-sahm).
-
-The main principle behind these observations is that for every type of finger
-there is a particular Jock, just as for every type of palm there is a particular
-grasp. The lock of Bahram (a/-‘agd al-Bahrami), for example, involves
-lengthening the short, that is, the thumb, and shortening the long, that is, the
-right index finger.?° Chosroes’ lock (al-‘agd al-KhusrawGni) is the reverse of
-that of Bahram—it involves lengthening the long and shortening the short." The
-lock may be varied, - then, to suit the individual, but! the nock of the arrow
-may not be shortened 'to suit the lock!.  It is a great fault, so beware. (His
-meaning is: if as a result of the kind of lock which you adopt, you find the end
-of the nock pressing against any part of your thumb or index finger, you must
-not shorten the nock to remove this pressure, You must either take a different
-lock or accept the
-
-458
-pressure.)
-
-
-54 SARACEN ARCHERY COMMENT 1, The Lock: Terminology
-
-459
-(a) Arabic. As indicated in the introduction, the string of the Asiatic
-composite bow was drawn and held by the thumb, which in turn was held by the
-index finger to give what is known as a ‘thumb-lock’, After careful
-consideration of such evidence as has been available to us— much of it in
-manuscript—we have come to the conclusion that, whatever extension of meaning it
-may later have had (e.g. Arab Archery, p. 49), the verb gafala, ‘to make secure,
-close, lock’ (noun, gaflak), which some authors use in connexion with the
-thumb-lock, originally expressed only the basic action of confining the string
-with the thumb and index finger. Ic is difficult to see how it could possibly
-have been used to indicate the relative positions of the index finger and thumb,
-to say nothi of the three remaining fingers. This being the case, it is our
-suggestion that the need to describe the various positions in which the fingers,
-taken as a whole, could be arranged in order to achieve the thumb-lock imposed
-the necessity of introducing the verb ‘agada (noun: 'agd, plural, *ugüd) into
-the archer's vocabulary. The word had the twofold advantage of meaning not only
-‘to fasten’, but also ‘to reckon with the fingers’ according to a highly
-developed and precise system whereby configurations of the fingers of a single
-hand were employed to convey numerical values (Appendix 4). It could, therefore,
-be used in conjunction with numerals to communicate exact information about the
-configuration to be assumed by the fingers when putting a lock on a
-bowstring. In most contexts, however, gaflak—never used by Taybughà—is
-synonymous with ‘agd, and qofala, like 'agada, functions with numerals to convey
-precisely the same information. i
-
-(b) English. Ever since Morse (see Bibliography) described the various methods
-of drawing a bowstring as ‘releases’ many English and American authors have
-applied the term ‘release’ or ‘loose’ to what is in fact a ‘Jock’ (hence ‘Fisher
-loose’, ‘Mediterranean loose’, ‘Flemish loose’, etc.). As the same word is also
-used in archery to denote the release of the string, it is obvious that ‘lock’
-is a more precise and appropriate term so far as the act of holding it is
-concerned.  Lest the layman be misled, Morse’s ‘Mongolian release’ is none other
-than the thumb-lock.
-
-460
-2, The Locks of ‘63’ and ‘69’
-
-Although Taybugha has obviously taken the trouble to verify the method of
-communicating the values of sixty-three and sixty-nine these numbers are
-transposed in MSS of the C group so that the lock given in the foregoing chapter
-as ‘69’ is described as “63° and vice versa. When transposed in this way, the
-locks of ‘63’ and ‘69’ will be found to be identical with those given in Arab
-Archery, p. 43, in which it will be observed that nine is reckoned with the
-nails of the middle finger, ring-finger, and little finger exposed (p. 20) so
-that the tips of the fingers rest on the palmar surface near the heel of the
-hand instead of being pressed into the palm.
-
-461There is no doubt that the lock in which the middle finger, ring-finger and
-little finger are clenched into the palm so that the nails are concealed is the
-strongest of all locks. We may conclude, therefore, that when the author of the
-Nihayah (Ch. viii, p. 65) asserts that ‘63’ is the strongest, his view of the
-manner in which it is reckoned is the same as that of the author of Arab
-Archery, with whom Mustafa Kini is also in agreement. (Hein, Isl., XV, p. 65;
-Klopsteg, P- 95.) Practical trials prove that '63' and ‘69 are the two most
-effective locks, and, although there is evident disagreement about which is
-Which, there is absolutely no doubt about the configurations with which we are
-dealing.
-
-
-5 AC 3. Other Locks According to the author of Arab Archery, the locks ‘agreed
-upon by experts’ numbered six: the “63’, ‘69’, ‘73, ‘83’, ‘24’—called the
-Khusruwént, or *Chosroes'" lock—and ‘72”.(p. 43).
-
-462
-ON LOCKING AND COUNTING 55
-
-
-From the description that he gives of the last-mentioned Jock it cannot be that
-of ‘72? (cf.  Arab Archery, p. 43, n. 20). It is, however, our ‘pillion’ lock,
-or ‘agd ar-radif, otherwise termed ‘agd at-tardif (Tabsirak, 62b), and there can
-be little doubt that Faris and Elmer's ‘reserve draw’ is a translation of ‘agd
-ar-radif; for one meaning which radif certainly has, but which is in-
-appropriate in the present context, is ‘reserve’. ‘The pillion lock admitted of
-variations such as those described, for instance, in the Tabsirak (loc. cit.)
-and the Nihayah (Ch. viii, p. 65), but it seems to have been regarded by most,
-if not all, authorities as a lock which was awkward or gave . &slow loose, and
-it is even asserted that it resulted in a loose that mainly launched flirting
-arrows (stham mudtaribah) (D!, 30b; D4, 58a). It is of interest to note that it
-was the lock used by Japanese archers.
-
-463As regards the Chosroes’ lock, it should be noted that to reckon twenty-four
-amounts to much the same thing as ‘lengthening the long and shortening the
-short’. The view that it was ‘worthless except in drawing supple bows employed
-in trick shots’ (Arab Archery, p. 43) is not shared by the author of the Nkd@yah
-who maintains that it gave a most powerful loose and was extremely good for the
-arrow (Ch. ix, p. 65). i
-
-Among other locks of which we find mention are those of ‘20°, used edgewise for
-shooting a number of arrows simultaneously (Arab Archery, p. 149), ‘23’ (D, 30b;
-D*, 58a); ‘30° and ‘37° (Nihayah, Ch. viii, p. 65). Yet others could be
-enumerated, but enough has been said to illustrate the interesting fact that the
-number of variations of the thumb-lock used in the East was relatively large,
-Small variations in forming the lock would be determined partly by personal
-preference and partly by the relative lengths of the archer’s finger and thumb,
-It is important that an archer, once having decided which lock is best suited to
-his needs, should never vary the form as even the slightest alteration will
-affect the direction of his shots.
-
-464
-4. The Position of the String
-
-
-In discussing the position in which the string should rest against the thumb
-Taybughd is assuming that the archer is not wearing a ring. There seem to have
-been as many views on the position of the string in relation to the thumb as
-there were opinions on how the bow should be grasped and the string locked. The
-three positions indicated in our text seem to have been the most important,
-though here again there is considerable disagreement from one writer to another
-about the persons or schools to whom they should be attributed. We need only say
-here that the author of Arab Archery ascribes the oblique position—said to have
-been the oldest and that used by expert Persian archers—to Abii Hashim, the
-straight position to Tahir, and the third position —said to give a quicker
-release than the straight and a greater range than either of the other two— to
-Ishaq (pp. 45-46). For different opinions on the subject, see in particular
-Tabsirah, 592—642.
-
-465Slow and quick releases are related to the speed at which the thumb disengages
-from the string. A quick release such as can be achieved by the oblique lock
-adds slightly more velocity to the arrow and can therefore have its
-advantages. Our author's oblique lock is analogous to the Fisher loose intended
-for use with the three-finger, or Mediterranean, loose ( Archery (Badminton),
-P. 377). |
-
-Archers will be well aware that to develop a clean and unvarying loose is one of
-the most difficult facets of technique to achieve. - i |
+Archers will be well aware that to develop a clean and unvarying loose is one of the most difficult facets of technique to achieve.
