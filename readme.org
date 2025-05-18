@@ -9,9 +9,9 @@ At some point, contact the publisher to get contact info for the authors' estate
   - [X] Chapter 2
   - [X] Chapter 6
   - [X] Chapter 7
-  - [ ] Chapter 8
-  - [ ] Chapter 9
-  - [ ] Chapter 10
+  - [X] Chapter 8
+  - [X] Chapter 9
+  - [X] Chapter 10
   - [ ] Chapter 11
   - [ ] Chapter 12
   - [ ] Chapter 13
@@ -33,6 +33,8 @@ At some point, contact the publisher to get contact info for the authors' estate
   - [ ] Page header / footer.
   - [ ] Translator comments in a shaded block.
 - [ ] Add the errata.
+- [ ] Replace 'xxx' with ‛xxx’ (make an eLisp function?)
+- [ ] Put the i, ii, iii etc sections back.
 - [ ] Find all instances of ~===~ and replace with an explanation of what manuscript it came from.
 - [ ] Then, add notes (groan).
 - [ ] Photos for chapter 8, along with a (simplified) hand diagram.
