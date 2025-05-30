@@ -12,23 +12,34 @@ At some point, contact the publisher to get contact info for the authors' estate
   - [X] Chapter 8
   - [X] Chapter 9
   - [X] Chapter 10
-  - [ ] Chapter 11
-  - [ ] Chapter 12
-  - [ ] Chapter 13
-  - [ ] Chapter 14
-  - [ ] Chapter 17
-  - [ ] Chapter 18
-  - [ ] Chapter 20
-  - [ ] Chapter 21
-  - [ ] Chapter 22
-  - [ ] Chapter 23
-  - [ ] Chapter 24
-  - [ ] Chapter 25
+  - [X] Chapter 11
+  - [X] Chapter 12
+  - [X] Chapter 13
+  - [X] Chapter 14
+  - [X] Chapter 15
+  - [X] Chapter 16
+  - [X] Chapter 17
+  - [X] Chapter 18
+  - [X] Chapter 20
+  - [X] Chapter 21
+  - [X] Chapter 22
+  - [X] Chapter 23
+  - [X] Chapter 24
+  - [X] Chapter 25
+  - [X] Chapter 26
+  - [X] Chapter 27
+  - [X] Chaper 28
+  - [ ] Appendix 1
+  - [ ] Appendix 2
+  - [ ] Appendix 3
   - [ ] Appendix 4
+  - [ ] Appendix 5
+  - [ ] Appendix 6
 - [ ] Find out what (/sic/) means...
 - [ ] The original title can be translated as "Essential Archer for beginners" or "Essential Archery For The Fighting Archer, Or All That the Toiler Desires." Use this!
 - [ ] Setup a build script.
 - [ ] Lookup [[https://pandoc.org/MANUAL.html#epubs][ePub extras provided by Pandoc]], "index/forward" etc.
+- [ ] Add the authors' introduction and leading notes.
 - [ ] Styles
   - [ ] Make a reasonable [[https://pandoc.org/MANUAL.html#epub-styling][.css file]].
   - [ ] Page header / footer.
@@ -48,6 +59,5 @@ At some point, contact the publisher to get contact info for the authors' estate
 - [ ] Publish.
 - [ ] Videos?
 - [ ] New images?
-- [ ] Add the authors' introduction and leading notes.
 - [ ] Publish
 - [ ] Index?  Dear god....
