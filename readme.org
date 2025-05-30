@@ -25,6 +25,7 @@ At some point, contact the publisher to get contact info for the authors' estate
   - [ ] Chapter 24
   - [ ] Chapter 25
   - [ ] Appendix 4
+- [ ] Find out what (/sic/) means...
 - [ ] The original title can be translated as "Essential Archer for beginners" or "Essential Archery For The Fighting Archer, Or All That the Toiler Desires." Use this!
 - [ ] Setup a build script.
 - [ ] Lookup [[https://pandoc.org/MANUAL.html#epubs][ePub extras provided by Pandoc]], "index/forward" etc.
