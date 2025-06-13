@@ -2,62 +2,144 @@
 At some point, contact the publisher to get contact info for the authors' estates.  Then, contact the estates and erm, beg.
 
 - [X] Setup a github repo.
-- [-] Introduction and everything pertaining to shooting.
-  - [ ] Dates
-  - [ ] Transliteration and Pronunciation
-  - [X] Chapter 1
-  - [X] Chapter 2
-  - [X] Chapter 6
-  - [X] Chapter 7
-  - [X] Chapter 8
-  - [X] Chapter 9
-  - [X] Chapter 10
-  - [X] Chapter 11
-  - [X] Chapter 12
-  - [X] Chapter 13
-  - [X] Chapter 14
-  - [X] Chapter 15
-  - [X] Chapter 16
-  - [X] Chapter 17
-  - [X] Chapter 18
-  - [X] Chapter 20
-  - [X] Chapter 21
-  - [X] Chapter 22
-  - [X] Chapter 23
-  - [X] Chapter 24
-  - [X] Chapter 25
-  - [X] Chapter 26
-  - [X] Chapter 27
-  - [X] Chaper 28
-  - [ ] Appendix 1
+- [-] PAIN
+  - [X] Acknowledgements
+  - [X] Preface
+  - [X] Transliteration and Pronunciation
+  - [X] Dates
+  - [-] Introduction
+    - [X] Text
+    - [ ] Comments
+  - [-] Chapter 1
+    - [X] Text
+    - [ ] Comments
+  - [-] Chapter 2
+    - [X] Text
+    - [ ] Comments
+  - [-] Chapter 6
+    - [X] Text
+    - [ ] Comments
+  - [-] Chapter 7
+    - [X] Text
+    - [ ] Comments
+  - [-] Chapter 8
+    - [X] Text
+    - [ ] Comments
+  - [-] Chapter 9
+    - [X] Text
+    - [ ] Comments
+  - [-] Chapter 10
+    - [X] Text
+    - [ ] Comments
+  - [-] Chapter 11
+    - [X] Text
+    - [ ] Comments
+  - [-] Chapter 12
+    - [X] Text
+    - [ ] Comments
+  - [-] Chapter 13
+    - [X] Text
+    - [ ] Comments
+  - [-] Chapter 14
+    - [X] Text
+    - [ ] Comments
+  - [-] Chapter 15
+    - [X] Text
+    - [ ] Comments
+  - [-] Chapter 16
+    - [X] Text
+    - [ ] Comments
+  - [-] Chapter 17
+    - [X] Text
+    - [ ] Comments
+  - [-] Chapter 18
+    - [X] Text
+    - [ ] Comments
+  - [-] Chapter 20
+    - [X] Text
+    - [ ] Comments
+  - [-] Chapter 21
+    - [X] Text
+    - [ ] Comments
+  - [-] Chapter 22
+    - [X] Text
+    - [ ] Comments
+  - [-] Chapter 23
+    - [X] Text
+    - [ ] Comments
+  - [-] Chapter 24
+    - [X] Text
+    - [ ] Comments
+  - [-] Chapter 25
+    - [X] Text
+    - [ ] Comments
+  - [-] Chapter 26
+    - [X] Text
+    - [ ] Comments
+  - [-] Chapter 27
+    - [X] Text
+    - [ ] Comments
+  - [-] Chapter 28
+    - [X] Text
+    - [ ] Comments
+  - [X] Appendix 1
   - [ ] Appendix 2
   - [ ] Appendix 3
   - [ ] Appendix 4
   - [ ] Appendix 5
   - [ ] Appendix 6
-- [ ] Find out what (/sic/) means...
+- [X] Find out what (/sic/) means...
 - [ ] The original title can be translated as "Essential Archer for beginners" or "Essential Archery For The Fighting Archer, Or All That the Toiler Desires." Use this!
 - [ ] Setup a build script.
 - [ ] Lookup [[https://pandoc.org/MANUAL.html#epubs][ePub extras provided by Pandoc]], "index/forward" etc.
-- [ ] Add the authors' introduction and leading notes.
 - [ ] Styles
   - [ ] Make a reasonable [[https://pandoc.org/MANUAL.html#epub-styling][.css file]].
   - [ ] Page header / footer.
   - [ ] Translator comments in a shaded block.
 - [ ] Add the errata.
-- [ ] Replace 'xxx' with ‛xxx’ (make an eLisp function?)
+- [ ] Double-check all Ṭ and ṣ etc.
 - [ ] Put the i, ii, iii etc sections back.
 - [ ] Find all instances of ~===~ and replace with an explanation of what manuscript it came from.
 - [ ] Then, add notes (groan).
 - [ ] Photos for chapter 8, along with a (simplified) hand diagram.
 - [ ] Add inches to cm conversions
 - [ ] Run a spell check over everything.
-- [ ] Publish - i.e. hand out to the community.
 - [ ] Ask Bede if he wants to join in, and either update based on more recent research, or add new findings to expand on what's already contained.
-- [ ] Remaining chapters on bow-building, strings, arrows etc.
-- [ ] Rest of the indexes.
 - [ ] Publish.
 - [ ] Videos?
 - [ ] New images?
 - [ ] Publish
-- [ ] Index?  Dear god....
+- [X] No need for an index, when the document can be searched :-)
+
+* Elisp
+#+begin_src elisp
+(defvar arabic-letters
+  '(("a" . "ā")
+    ("e" . "ē")
+    ("i" . "ī")
+    ("o" . "ō")
+    ("u" . "ū")
+    ("d" . "ḍ")
+    ("h" . "ḥ")
+    ("s" . "ṣ")
+    ("T" . "Ṭ")
+    ("t" . "ṭ")
+    ("z" . "ẓ")
+    ("`" . "‛")
+    ("'" . "’")))
+
+(defun foggerty-map-character (map)
+  (interactive)
+  (let* ((char (char-to-string (read-key)))
+         (test (assoc char map))
+         (replacement (if test (cdr test) char)))
+    (insert replacement)
+    replacement))
+
+(defun foggerty-map-arabic-letter ()
+  "Maps d, h, s, t and z etc. to arabic equivalencies."
+  (interactive)
+  (foggerty-map-character arabic-letters))
+
+(global-set-key (kbd "<f5>") 'foggerty-map-arabic-letter)
+#+end_src
