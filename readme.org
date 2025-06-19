@@ -1,87 +1,40 @@
 * The plan....
 At some point, contact the publisher to get contact info for the authors' estates.  Then, contact the estates and erm, beg.
 
-- [X] Setup a github repo.
+- [-] Setup a github repo.
 - [-] PAIN
   - [X] Acknowledgements
   - [X] Preface
   - [X] Transliteration and Pronunciation
   - [X] Dates
-  - [-] Introduction
-    - [X] Text
-    - [ ] Comments
-  - [-] Chapter 1
-    - [X] Text
-    - [ ] Comments
-  - [-] Chapter 2
-    - [X] Text
-    - [ ] Comments
-  - [-] Chapter 6
-    - [X] Text
-    - [ ] Comments
-  - [-] Chapter 7
-    - [X] Text
-    - [ ] Comments
-  - [-] Chapter 8
-    - [X] Text
-    - [ ] Comments
-  - [-] Chapter 9
-    - [X] Text
-    - [ ] Comments
-  - [-] Chapter 10
-    - [X] Text
-    - [ ] Comments
-  - [-] Chapter 11
-    - [X] Text
-    - [ ] Comments
-  - [-] Chapter 12
-    - [X] Text
-    - [ ] Comments
-  - [-] Chapter 13
-    - [X] Text
-    - [ ] Comments
-  - [-] Chapter 14
-    - [X] Text
-    - [ ] Comments
-  - [-] Chapter 15
-    - [X] Text
-    - [ ] Comments
-  - [-] Chapter 16
-    - [X] Text
-    - [ ] Comments
-  - [-] Chapter 17
-    - [X] Text
-    - [ ] Comments
-  - [-] Chapter 18
-    - [X] Text
-    - [ ] Comments
-  - [-] Chapter 20
-    - [X] Text
-    - [ ] Comments
-  - [-] Chapter 21
-    - [X] Text
-    - [ ] Comments
-  - [-] Chapter 22
-    - [X] Text
-    - [ ] Comments
-  - [-] Chapter 23
-    - [X] Text
-    - [ ] Comments
-  - [-] Chapter 24
-    - [X] Text
-    - [ ] Comments
-  - [-] Chapter 25
-    - [X] Text
-    - [ ] Comments
-  - [-] Chapter 26
-    - [X] Text
-    - [ ] Comments
-  - [-] Chapter 27
-    - [X] Text
-    - [ ] Comments
-  - [-] Chapter 28
-    - [X] Text
-    - [ ] Comments
+  - [X] Introduction
+  - [X] Chapter 1
+  - [X] Chapter 2
+  - [ ] Chapter 3
+  - [ ] Chapter 4
+  - [ ] Chapter 5
+  - [ ] Chapter 6
+  - [ ] Chapter 7
+  - [ ] Chapter 8
+  - [ ] Chapter 9
+  - [ ] Chapter 10
+  - [ ] Chapter 11
+  - [ ] Chapter 12
+  - [ ] Chapter 13
+  - [ ] Chapter 14
+  - [ ] Chapter 15
+  - [ ] Chapter 16
+  - [ ] Chapter 17
+  - [ ] Chapter 18
+  - [ ] Chapter 20
+  - [ ] Chapter 21
+  - [ ] Chapter 22
+  - [ ] Chapter 23
+  - [ ] Chapter 24
+  - [ ] Chapter 25
+  - [ ] Chapter 26
+  - [ ] Chapter 27
+  - [ ] Chapter 28
   - [X] Appendix 1
   - [ ] Appendix 2
   - [ ] Appendix 3
