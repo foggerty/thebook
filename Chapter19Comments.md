@@ -1,6 +1,6 @@
+# Translators’ comment
 
-
-COMMENT 1. Flight Shooting: General Considerations
+## 1. Flight Shooting: General Considerations
 
 688 Flight shooting is a sport in which the archer strives for maximum distance, accuracy being of minor importance, Maximum distance depends on the design of the arrow and its attainment of maximum initial velocity. The latter is, in turn, dependent upon the highest rate of recovery of which the flight shooter’s bow is capable. Rate of recovery, i.e. the relative speed with which the bow’s limbs spring back to assume the form that they had before the commencement of the draw, can, as Taybugha correctly observes, be increased by shortening the working part of the limb, The point can be simply illustrated: if a short stick is bent and allowed to fly back, it will
 

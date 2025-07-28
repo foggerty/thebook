@@ -14,7 +14,7 @@ The Khorasanians adhere to the principle that [the length of] the lower siyah sh
 
 The Turks, Persians, and Iraqis are for their part agreed on the principle that the longer the siyahs and the shorter the limbs and the more rigid and slender the handle, the better the cast (*aṭrad li-s-sahm*). Better cast is in particular achieved by the slender bow (i.e. the flight bow; Ch. 19), in which, by their rule, the limbs must fall back (? *mustalqi*; see Glossary) and the grip be short.
 
-The best and most useful hand bows are those composed of wood, sinew, horn, and glue. Its composite character displays profound wisdom and august and sublime workmanship, for it is produced after the formation of a human being and is of comparable structure. For even as man is built on four foundations, namely, bone, flesh, arteries, and blood, so is the [composite] bow formed in like manner inasmuch as the wood corresponds to bone in man, the horn to flesh, the sinews, which are intricately disposed throughout its members, to the arteries, which are intricately disposed throughout man's members, and the glue to the blood by which the whole is held together. Like man, bows are provided with a back and a belly and can bend bellywise like man. When they are bent backwards, they will snap, as would be the case with man.
+    The best and most useful hand bows are those composed of wood, sinew, horn, and glue. Its composite character displays profound wisdom and august and sublime workmanship, for it is produced after the formation of a human being and is of comparable structure. For even as man is built on four foundations, namely, bone, flesh, arteries, and blood, so is the [composite] bow formed in like manner inasmuch as the wood corresponds to bone in man, the horn to flesh, the sinews, which are intricately disposed throughout its members, to the arteries, which are intricately disposed throughout man's members, and the glue to the blood by which the whole is held together. Like man, bows are provided with a back and a belly and can bend bellywise like man. When they are bent backwards, they will snap, as would be the case with man.
 
 Authorities on archery agree that in our time the best bows of this type are those manufactured in Syria, the finest of them being the excellent weapon known as the ‘superb’ (*fahlah*), which is the handiwork of the most highly esteemed masters (*ustādin*) of the bowyer’s art. This is because they have power, strength, speed of recovery (*as-sur'ah fi d-dawarān*) suppleness, liveliness, and efficiency of performance.  Furthermore, they have beauty and grace, give a smooth and comfortable draw (*salas al-jadhb wa-ḥalāwatuhu*), and are light and elegant to carry.  They shoot further and launch more effective shafts (*ankā sihām*) than any other kind of hand bow.  These are facts which could be denied by no one but a person unacquainted with a bow of this type or someone who had failed to get a really good specimen. If he has one, the archer should look after it well and keep it under constant supervision.
 
@@ -40,9 +40,7 @@ So far as the power of the bow is concerned, authorities on archery are agreed t
 
 ## Translator's Comment
 
-There is a striking omission in the preceding text: our author offers no glossary of the terminology applicable to the anatomy of the bow, such as is to be found, for example, in *Arab Archery*, pp. 13-16. In the CD groups of MSS the subject is discussed, but we suspect the relevant section to have been drawn from some other literary source and inserted for the sake of completeness, Since we have reason to doubt whether *all* the terms listed were valid for the time and place with which we are here concerned - indeed some may well have been unknown to Ṭaybughā - we relegate them to Appendix 2.
-
-===SERIOUSLY, WTF DOES CD MSS MEAN ABOVE?===
+There is a striking omission in the preceding text: our author offers no glossary of the terminology applicable to the anatomy of the bow, such as is to be found, for example, in *Arab Archery*, pp. 13-16. In the C * D groups of manuscripts the subject is discussed, but we suspect the relevant section to have been drawn from some other literary source and inserted for the sake of completeness, Since we have reason to doubt whether *all* the terms listed were valid for the time and place with which we are here concerned - indeed some may well have been unknown to Ṭaybughā - we relegate them to Appendix 2.
 
 ### Old Arab Bows
 
@@ -72,9 +70,7 @@ This brief account will give a rough idea of the more common variations that can
 
 The various sections of the composite bow were united by means of single fish-tail, or V-form, spliced and glued together. At the junctions between the grip and the *dustārs*, and the *dustārs* and the *siyahs*, the abutting surfaces of the wood were smoothly tapered in depth so that each section merged into the other, thus making it difficult to detect the end of one section and the beginning of the next in the finished article. In bows that have been stripped down dissection has revealed such joints extending over a length of about 3 in. (7.62 cm). Hence, although the actual grip might only be 5 in. (12.7 cm) long, the piece of wood on which it was built could be about 12 in. (30.48 cm) in length from point to point of the two 'V's to which it was tapered for fitting into the fish-tails cut in the dustars. Some splices exceed 5 in. (12.7 cm.) in length, but a measurement of this order is unusual,
 
-== CD MSS===
-
-In MSS of the CD group and also in *Arab Archery*, pp. 11-12, it is clearly indicated that the wooden core was to be in five sections, viz. the grip, the two *dustārs*, and the two *siyahs*.
+In manuscripts of the C & D groups, and also in *Arab Archery*, pp. 11-12, it is clearly indicated that the wooden core was to be in five sections, viz. the grip, the two *dustārs*, and the two *siyahs*.
 
 The width of all known composite bows increases at the place where the knots at the ends of the bowstring are intended to rest, the purpose being to avoid any risk of the string's slipping around the *siyah*, thereby causing the bow to capsize. Too long a string, for instance, might well slip in this way and cause the bow to spring violently back into its unbraced position. Such an occurrence would shock both bow and archer and could easily do serious harm to one or both. It was essential, therefore, that that part of the bowstring which ran from knot to knot of the end loops should not touch the *siyah*. If the design of the bow required *siyahs* so shaped as to predispose to this hazard, string-bridges were often fitted to support the loop-knots at the points where they would normally rest. Those from the Middle East were usually of bone, ivory, or horn. Disc-shaped and measuring about 3/4 in. (1.91 cm.) in diameter, they were scooped or hollowed in such a way that the sides rose towards the outer edges of the bow to form small cradles for the loop-knots. Since no mention of such a fitting has been found in any MS that we have examined, the recurve of the tips of the braced bow would seem to have been such that this device was not needed.
 
@@ -94,24 +90,18 @@ When the glue had thoroughly set, the impregnated sinew was hard enough to be sh
 
 In the last stages of manufacture the sinew backing of the bow was veneered with tree bark applied diagonally in strips so as to prevent it from splitting when the bow was drawn. To make it waterproof, it was varnished and then painted for the sake of appearance. A sinew binding beside the nocks strengthened the wood against any danger of its splitting under the impact of the string’s loops at these points when the bow was shot. Turkish and Persian bows are usually found to have a strip of horn let into the tip to strengthen the ear, but we have come across no mention of this.
 
-===CD MSS?===
-
-From our text, as it stands in AB, one is apt to conclude merely that a composite bow took a year or so to make, but the wording of the CD MSS is such that we are left in no doubt that each of the various processes had its own particular season and that each and every one of the four seasons of the year was involved. In other words, our ‘full year’ need have nothing whatever to do with the time taken to produce a bow, though it could certainly be completed within that period. What, in our view, is implied is that each process had to be carried out only at the correct time of the year, otherwise the result would be unsatisfactory.
+From our text, as it stands in the A & B manuscripts, one is apt to conclude merely that a composite bow took a year or so to make, but the wording of the C & D manuscripts is such that we are left in no doubt that each of the various processes had its own particular season and that each and every one of the four seasons of the year was involved. In other words, our ‘full year’ need have nothing whatever to do with the time taken to produce a bow, though it could certainly be completed within that period. What, in our view, is implied is that each process had to be carried out only at the correct time of the year, otherwise the result would be unsatisfactory.
 
 ### The Painting of Bows
 
-=== D ===
-
-Our author says nothing whatever about the painting of bows, but in D*, 108b, there is an addendum to the text giving instructions for the painting of bows with *ṣandarūs* - presumably, sandarac, a colourless resin from the tree of that name. The directions may be summarized as follows:
+Our author says nothing whatever about the painting of bows, but in the D manuscript, there is an addendum to the text giving instructions for the painting of bows with *ṣandarūs* - presumably, sandarac, a colourless resin from the tree of that name. The directions may be summarized as follows:
 
 Mix any desired colour with liquid sandarac, Apply and allow to dry off. Next, apply a varnish of pure sandarac and dry off. Now coat the surface with strong (? text uncertain) ox-gall. Apply paint of another colour to give, for instance, white on black, or red on green, or blue on red, and then place in the hot sun. When appropriate, sprinkle carefully with wine vinegar to bring up the colours in the design and dry off. Next wash off the gall and dry. Now apply sandarac by itself and leave. If desired, apply another colour in similar fashion.
-
-=== CD ===
 
 ### Dimensions of Bows
 
 The measurements given for parts of the bow are summarized below. Those for the grip do not include the tapered portions fitting into the dustars.
-* Column 1 shows the normal measurements as given by our author.  * Column 2 shows the variations which he records. (A different set of variations is to be found in CD (c.g. C*, 392; C*, 152), but since they are liable to confuse we omit them.)
+* Column 1 shows the normal measurements as given by our author.  * Column 2 shows the variations which he records.
 
 | Upper *siyah*  | 6.55 in.  | 5.73 in.  |
 | Upper *dustār* | 16.36 in. | 16.40 in. |
@@ -142,9 +132,7 @@ To illustrate these differences, we have drawn up a table of detailed measuremen
 
 The Khorasanian bow to which our text refers would at the most have been only 37 in. long, which is short even by comparison with the Ottoman flight bow.
 
-=== D ===
-
-The following additional information occurs in D+, 15b and is of some interest:
+The following additional information occurs in one of the D manuscripts, and is of some interest:
 
 > ‛They (sc. the Turks, Persians and Iraqis) divide the bow into half at the halfway mark on the grip so that whichever limb is the weaker is taken by them to be the shooting limb (i.e. the upper). The Khorasanians do not believe in applying [too much] sinew to their bows . . . and accordingly use less of this material than any other. With the Iraqis, on the other hand, sinew and horn are used in equal proportions. This is because of climatic differences in these countries.  Experts say that if you are in a very hot country, you should soak the sinew with good, pure, well-prepared parchment glue because it gives moisture and suppleness suited to such a country and excessive heat...
 
@@ -154,7 +142,6 @@ Specifications given by other authors cannot always be directly compared as they
 
 The mention of long necks in connection with the flight bow probably implies that the ridged section of the *siyah* in the kind of bow with which the author was familiar extended a few inches further towards the grip than in the case of the war bow, thereby shortening the dustár. That in its turn would give a higher speed of recovery to the tips of the bow when the string was loosed. This would normally result in a lower degree of accuracy, since the two limbs of the bow might not travel forward exactly together. Such an effect, however, would be of no consequence in flight shooting where discharge velocity is the all-important factor. Far greater stress would also be thrown on to the shorter working part of the limb, making such a bow less suitable for warfare.
 
-
 ### Crossbows
 
 In Arabic the crossbow is termed ‘foot-bow’ (*qaws ar-rijl*). The origin of the term is simply explained in Marḍi ṭ-Ṭarsūsi's description of the type of crossbow with which he was familiar in the reign of Saladin: ‛... [crossbows] are drawn by applying the pressure of both feet together with the strength of the back, for, in order to pull, one must fasten around the waist a well-tanned and toughened belt of ox-hide, at the end of which arc two hooks to take the string.  One then puts the feet inside the bow . . . and with the back pulls the belt at the point where the two hooks are until the string reaches the catch (*qaff*) located in the stock...’
@@ -163,11 +150,11 @@ Another type of crossbow - possibly a later development - required the use of on
 
 Because of the relative instability of nomenclature and technical and semantic developments, it would be unwise to be dogmatic about the meaning of certain terms used by our author in connection with crossbows. Some information on Middle Eastern crossbows and arbalests may be derived from Reinaud, Huuri, Cahen, and others, but there is insufficient technical detail to enable us to determine their construction.
 
-* *Jarkh*: From Ch. 16 and glosses in CD it is clear that, so far as our author is concerned, this was the stirrup bow. It shot a bolt.
+ * *Jarkh*: From Ch. 16 and glosses in CD it is clear that, so far as our author is concerned, this was the stirrup bow. It shot a bolt.
 
-* *Zanbūrak*: ‘little wasp’. What meaning the term had for our author we cannot say. It appears, at some stage or another, to have been a weapon which shot a strong, heavy bolt of the same name closely resembling the Western quarrel.
+ * *Zanbūrak*: ‘little wasp’. What meaning the term had for our author we cannot say. It appears, at some stage or another, to have been a weapon which shot a strong, heavy bolt of the same name closely resembling the Western quarrel.
 
-* *Bandūg* (more correctly *bundug*). This was the *qaws al-bunduc*, a type of crossbow that shot pellets (*bunduq*) of metal of that name. In the present context the term is not to be understood as the firearm of the same name. (Nor in the case of *zanbūrak*.)
+ * *Bandūg* (more correctly *bundug*). This was the *qaws al-bunduc*, a type of crossbow that shot pellets (*bunduq*) of metal of that name. In the present context the term is not to be understood as the firearm of the same name. (Nor in the case of *zanbūrak*.)
 
 ### The Naval Crossbow
 

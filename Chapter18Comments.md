@@ -1,5 +1,4 @@
-
-102 SARACEN ARCHERY COMMENT
+# Translators’ comment
 
 672 Strict adherence to the Arabic text would require our chapter to be entitled ‘On Standing and Sitting Before the Target’, but, as none of the MSS of the A group deals with the second of these two subjects, we have excluded ‘and Sitting’ from our English title. The subject will be taken up in section 2 below.
 

@@ -1,6 +1,6 @@
 # 1 - Doxology and Ṭaybughā's Introduction
 
-## Dogology
+### Dogology
 
 > In the name of God, the Merciful, the Compassionate. > My Lord, ease my task for me, O Thou who art-bountiful.
 
@@ -22,7 +22,7 @@ To Him be praise for that He has rendered the company of His supporters victorio
 
 The blessing and peace of God be upon our lord Muhammad, the Chosen, Bearer of the Un-chailengeably Truthful Message and Incisively Manifest Discourse, Head of the Pious House and Unsullied Line, whom God sent as Prophet and Messenger that he might be a pathway to His knowledge and a pilot to the paths of His guidance, so that at the last he caused Truth to prevail and be followed, and falsehood to be vanquished and repulsed — a blessing to include his godly Family and his excellent Companions!
 
-## Introduction
+### Introduction
 
 Since archery and riding are enjoined by authentic command of the Prophet himself and as I knew of no treatise by any previous author on the subject of shooting from horseback, I felt I should like to accord the excellent accomplishments of archery and riding joint treatment in a single work. My aim is so doing would be to comply with the command of God and His Messenger  and to assist those of my Muslim brethren who campaign and fight in the Holy War. [This I could do] by virtue of such knowledge of the subject as Almighty God had imparted to me over a long period of painstaking care and endeavour and after acquiring familiarity with most of the information on record regarding the primary and secondary bases.of archery as expounded in time past by men of repute and distinction who ranked among the authorities of their day and who lived in, and hailed from, all countries. I therefore wrote the exposition of theory and practice of the art to both infantry and cavalry. When my poem was finished and proved to be a comprehensive basic work on this art and a full, perfect, and useful authority worthy to be placed at their service, I supplemented it wit a commentary and [introduced] a number of principles [not previously enunciated] and [added new] sections to put the finishing touches to the content of the poem and to elucidate difficult points. By so doing, it has been my intention to explain modes of expression and throw light on allusions, so that the rarities of its contents might be brought within the grasp of him who would seck them out. May God, therefore, have mercy upon any man who views my work with approval and makes good any imperfections which it may contain! In order to carry out my task I went into seclusion and, far from my homeland and handicapped by an inability to express myself well because of my barbarous Arabic, produced my poem.
 

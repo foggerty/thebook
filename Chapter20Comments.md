@@ -1,4 +1,4 @@
-COMMENT
+# Translators’ comment
 
 733 Points of tension and relaxation are of vital importance to good shooting. The requirements vary with the archer’s technique, which, in turn, varies with the purpose to which the bow is put.  The style of shooting known as the zension method was that of the longbow both in the days when it was still a weapon of war and long after it had ceased to be such and archery had become a pastime. The emphasis lay on firmness in all actions and a tight grip on the bow (Archery (Badminton), Ch. xx, pp. 331-83). With the improvement of bow design a major change in technique followed the development of modern target bows, and the relaxed method, in which every possible tension was avoided, became the vogue. In particular, the archer was to grasp loosely, relax the wrist of his bow-hand, and keep his knees at ease. In more recent years, however, there has been a tendency to attach greater importance to tension. A straight wrist, for instance, is now widely favoured, and archers in general have adopted a semi-tension method. There are, of course, many individual variations (on which, see Elmer, Target Archery, pp. 415-21).
 

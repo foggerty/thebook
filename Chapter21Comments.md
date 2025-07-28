@@ -1,4 +1,4 @@
-COMMENT I. The List of Faults and Injuries
+## Translators’ comment
 
 768 Dreary reading though it may be, a methodical list of faults and injuries such as that arranged above is useful to the archer who lacks the tutored eye of a master to spot the cause of some injury or misplaced shot. To check each of the possible causes of his trouble against the list would be a relatively simple task which could be followed by attempts to remedy the fault.
 

@@ -12,10 +12,10 @@ At some point, contact the publisher to get contact info for the authors' estate
   - [X] Chapter 2
   - [-] Chapter 3
     - [X] Text
-    - [ ] Inches to cm conversions
+    - [ ] Conversions
   - [-] Chapter 4
     - [X] Text
-    - [ ] Weights conversion
+    - [ ] Conversions
   - [-] Chapter 5x
     - [X] Text
     - [ ] Conversions
@@ -28,18 +28,29 @@ At some point, contact the publisher to get contact info for the authors' estate
   - [X] Chapter 10
   - [X] Chapter 11
   - [X] Chapter 12
-  - [ ] Chapter 13
-  - [ ] Chapter 14
-  - [ ] Chapter 15
-  - [ ] Chapter 16
-  - [ ] Chapter 17
-  - [ ] Chapter 18
-  - [ ] Chapter 20
-  - [ ] Chapter 21
-  - [ ] Chapter 22
-  - [ ] Chapter 23
-  - [ ] Chapter 24
-  - [ ] Chapter 25
+  - [X] Chapter 13
+  - [X] Chapter 14
+  - [-] Chapter 15
+    - [X] Text
+    - [ ] Conversions
+  - [-] Chapter 16
+    - [X] Text
+    - [ ] Conversions
+  - [-] Chapter 17
+    - [X] Text
+    - [ ] Conversions
+  - [X] Chapter 18
+  - [-] Chapter 19
+    - [X] Text
+    - [ ] Conversions
+  - [X] Chapter 20
+  - [X] Chapter 21
+  - [X] Chapter 22
+  - [X] Chapter 23
+  - [X] Chapter 24
+  - [-] Chapter 25
+    - [X] Text
+    - [ ] Conversions
   - [ ] Chapter 26
   - [ ] Chapter 27
   - [ ] Chapter 28

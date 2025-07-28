@@ -1,4 +1,4 @@
-COMMENT
+## Translators’ comment
 
 557 The foregoing chapter may well be considered the most important part of our book, for although there is no lack of eye-witness accounts of the oriental horse-archer’s skill and pro- ficiency, we know of no record of his techniques that is as detailed and instructive as that of
 
