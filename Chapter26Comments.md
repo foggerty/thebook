@@ -1,4 +1,4 @@
-COMMENT
+## Trannslators’ comment
 
 939 I. General
 

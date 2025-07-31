@@ -51,17 +51,17 @@ At some point, contact the publisher to get contact info for the authors' estate
   - [-] Chapter 25
     - [X] Text
     - [ ] Conversions
-  - [ ] Chapter 26
-  - [ ] Chapter 27
-  - [ ] Chapter 28
-  - [X] Appendix 1
+  - [-] Chapter 26
+    - [X] Text
+    - [ ] Conversions
+  - [X] Chapter 27
+  - [X] Chapter 28
+  - [ ] Appendix 1
   - [ ] Appendix 2
   - [ ] Appendix 3
   - [ ] Appendix 4
   - [ ] Appendix 5
   - [ ] Appendix 6
-- [X] Find out what (/sic/) means...
-- [ ] The original title can be translated as "Essential Archer for beginners" or "Essential Archery For The Fighting Archer, Or All That the Toiler Desires." Use this!
 - [ ] Setup a build script.
 - [ ] Lookup [[https://pandoc.org/MANUAL.html#epubs][ePub extras provided by Pandoc]], "index/forward" etc.
 - [ ] Styles
@@ -69,10 +69,6 @@ At some point, contact the publisher to get contact info for the authors' estate
   - [ ] Page header / footer.
   - [ ] Translator comments in a shaded block.
 - [ ] Add the errata.
-- [ ] Double-check all Ṭ and ṣ etc.
-- [ ] Put the i, ii, iii etc sections back.
-- [ ] Find all instances of ~===~ and replace with an explanation of what manuscript it came from.
-- [ ] Replace all MSS with "manuscripts".
 - [ ] Quick function to replace all:
   - [ ] <char>'<char> with <char>’<char>
   - [ ] <space>'<char> with ‘
@@ -80,13 +76,18 @@ At some point, contact the publisher to get contact info for the authors' estate
   - [ ] Add a link to the glossary for all words that appear in it.
 - [ ] Then, add notes (groan).
 - [ ] Photos for chapter 8, along with a (simplified) hand diagram.
-- [ ] Add inches to cm conversions
-- [ ] Run a spell check over everything.
+- [ ] Run a spell check over everything, after having deleted custom dict.
 - [ ] Ask Bede if he wants to join in, and either update based on more recent research, or add new findings to expand on what's already contained.
 - [ ] Publish.
 - [ ] Videos?
 - [ ] New images?
 - [ ] Publish
+- [ ] The original title can be translated as "Essential Archer for beginners" or "Essential Archery For The Fighting Archer, Or All That the Toiler Desires." Use this!
+- [X] Replace all MSS with "manuscripts".
+- [X] Find all instances of ~===~ and replace with an explanation of what manuscript it came from.
+- [X] Put the i, ii, iii etc sections back.
+- [X] Find out what (/sic/) means...
+- [X] Double-check all Ṭ and ṣ etc.
 - [X] No need for an index, when the document can be searched :-)
 
 * Elisp
