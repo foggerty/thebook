@@ -1,7 +1,5 @@
 # Pronunciation guide
 
-=== Note that the exxamples need to have body-indent, but not first line.===
-
 In conformity with modern scholarly practice Arabic words and phrases are transliterated according to a system which will be meaningful to all Arabists and familiar to most other serious students of Islamic civilization and culture in the Middle East. The complete layperson will be grateful for the following hints:
 
 ## Short Vowels
@@ -40,6 +38,6 @@ The same applies *dh, kh,* and *th*. On occasions *h* may also have: to be prono
 
 *The Arabic Article* (*al*, *l*). This is assimilated to a following *d, ḍ, dh, n, r, s, sh, ṣ, t th, z, ẓ*. Example: *adh-dhirā* (not *al-dhirā*’), *ar-radif* (not *al-radif*). When a proceeding word ends in a vowel, the 'l' form is used, the antecedent vowel replacing the *a* in *al*. Thus, *wa-l-bayt*, not *wal-al-bayt*.
 
-*The Feminine Ending -ah*. When followed by a noun in the genitive, the feminine form ending *-ah* becomes *-āt*. Thus *'uqdat al-ibhām* (not *'uqdah al-ibhām*) 'the joint of the thunb'. the *h* is not pronounced and, in fact, many writers omit it altogether.
+*The Feminine Ending -ah*. When followed by a noun in the genitive, the feminine form ending *-ah* becomes *-at*. Thus *‘uqdat al-ibhām* (not *‘uqdah al-ibhām*) 'the joint of the thunb'. the *h* is not pronounced and, in fact, many writers omit it altogether.
 
 In Turkish there are two “i”s, one dotted the other not.

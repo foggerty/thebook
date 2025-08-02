@@ -374,7 +374,7 @@ cusps of the nock; on the occurrence of the same expression (?) w. ref, to the b
 
 1136DAKHIL, DAKHILI: sce NAZAR.
 
-*Dastcau [Pers.]: basically, a kind of slotted board used to adjust a bow to its proper curvature.  (See Klopsteg, Fig. 22.)
+*Dastcau [Perssian: “*dast -āl (cf. changāl, danbāl, &c.) ‘arm’, or”]: basically, a kind of slotted board used to adjust a bow to its proper curvature.  (See Klopsteg, Fig. 22.)
 
 1137DAWARAN: 1. act of turning, whence HASAN AD-D.: rotating evenly (arrows when spun to test for trueness, see p. 30); 2. (of a bow) act of springing back into its unbraced or undrawn position, whence SUR'AT AD-D.: speed of recovery.
 

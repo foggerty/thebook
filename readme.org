@@ -1,7 +1,7 @@
 * The plan....
 At some point, contact the publisher to get contact info for the authors' estates.  Then, contact the estates and erm, beg.
 
-- [-] Setup a github repo.
+- [X] Setup a github repo.
 - [-] PAIN
   - [X] Acknowledgements
   - [X] Preface
@@ -54,41 +54,42 @@ At some point, contact the publisher to get contact info for the authors' estate
   - [-] Chapter 26
     - [X] Text
     - [ ] Conversions
-  - [X] Chapter 27
+  - [ ] Chapter 27
   - [X] Chapter 28
-  - [ ] Appendix 1
-  - [ ] Appendix 2
+  - [X] Appendix 1
+  - [-] Appendix 2
+    - [X] Text
+    - [ ] Links to notes
   - [ ] Appendix 3
-  - [ ] Appendix 4
-  - [ ] Appendix 5
-  - [ ] Appendix 6
+  - [-] Appendix 4
+    - [X] Text
+    - [ ] Finger images
+  - [X] Appendix 5
+  - [X] Appendix 6
+  - [ ] Guide to English terminology
+  - [ ] Arabic English glossary
+    - [ ] Script to find all terms, and add links from all chapters.
 - [ ] Setup a build script.
 - [ ] Lookup [[https://pandoc.org/MANUAL.html#epubs][ePub extras provided by Pandoc]], "index/forward" etc.
 - [ ] Styles
   - [ ] Make a reasonable [[https://pandoc.org/MANUAL.html#epub-styling][.css file]].
   - [ ] Page header / footer.
-  - [ ] Translator comments in a shaded block.
-- [ ] Add the errata.
-- [ ] Quick function to replace all:
-  - [ ] <char>'<char> with <char>’<char>
-  - [ ] <space>'<char> with ‘
-  - [ ] <char>'<space> with ’
-  - [ ] Add a link to the glossary for all words that appear in it.
 - [ ] Then, add notes (groan).
-- [ ] Photos for chapter 8, along with a (simplified) hand diagram.
 - [ ] Run a spell check over everything, after having deleted custom dict.
+- [ ] New images, like, every-fucking-where.  Fuck.  Appendix 5 references plate 18 (reproduction of Taybgha's bow) and if I only include one set of pics, it needs to be this one.
 - [ ] Ask Bede if he wants to join in, and either update based on more recent research, or add new findings to expand on what's already contained.
+- [ ] The original title can be translated as "Essential Archer for beginners" or "Essential Archery For The Fighting Archer, Or All That the Toiler Desires." Use this!
 - [ ] Publish.
 - [ ] Videos?
-- [ ] New images?
-- [ ] Publish
-- [ ] The original title can be translated as "Essential Archer for beginners" or "Essential Archery For The Fighting Archer, Or All That the Toiler Desires." Use this!
+- [X] Add the errata.
 - [X] Replace all MSS with "manuscripts".
 - [X] Find all instances of ~===~ and replace with an explanation of what manuscript it came from.
 - [X] Put the i, ii, iii etc sections back.
 - [X] Find out what (/sic/) means...
 - [X] Double-check all Ṭ and ṣ etc.
 - [X] No need for an index, when the document can be searched :-)
+
+*
 
 * Elisp
 #+begin_src elisp
