@@ -54,7 +54,7 @@ At some point, contact the publisher to get contact info for the authors' estate
   - [-] Chapter 26
     - [X] Text
     - [ ] Conversions
-  - [ ] Chapter 27
+  - [X] Chapter 27
   - [X] Chapter 28
   - [X] Appendix 1
   - [-] Appendix 2

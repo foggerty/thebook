@@ -63,6 +63,6 @@ Quite apart from drill, discipline, and orderliness, the commendable theme of po
 
 The standards of conduct laid down in our text are ageless and, religious aspects apart, are as closely followed today as they must have been a thousand years ago.
 
-### 4. The *Ghunyah* and a Passage in Al-Jabartī’s *'Ajā'ib*
+### 4. The *Ghunyah* and a Passage in Al-Jabartī’s *‘Ajā’ib*
 
 Between the code of ethics and behaviour communicated by our author and that laid down in an *ijāzah*, or licence, granted to a Cairene bowyer of the eighteenth century there is a striking similarity which will not elude those intimately acquainted with al-Jabartī’s chronicle, ‘*Ajā’ib al-āthār, in which the second is recorded. In tone and phraseology the text of the Egyptian *ijāzah* is, as a whole, so reminiscent of Ṭaybughā's treatise that there can be little doubt that the latter is the source of its inspiration.  By comparison with examples of *ijāzahs* known to us from our manuscript sources, that quoted by al-Jabartī is an elaborate affair and cannot be regarded as typical of the period which directly concerns us. It does, however, testify to the currency and authority of Ṭaybughā’s work.
