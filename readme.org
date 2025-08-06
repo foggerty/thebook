@@ -61,6 +61,8 @@ At some point, contact the publisher to get contact info for the authors' estate
     - [X] Text
     - [ ] Links to notes
   - [ ] Appendix 3
+    - [ ] Text
+    - [ ] Links to notes
   - [-] Appendix 4
     - [X] Text
     - [ ] Finger images
