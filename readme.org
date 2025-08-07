@@ -1,7 +1,7 @@
 * The plan....
 At some point, contact the publisher to get contact info for the authors' estates.  Then, contact the estates and erm, beg.
 
-- [X] Setup a github repo.
+- [ ] Setup a build script.
 - [-] PAIN
   - [X] Acknowledgements
   - [X] Preface
@@ -60,18 +60,16 @@ At some point, contact the publisher to get contact info for the authors' estate
   - [-] Appendix 2
     - [X] Text
     - [ ] Links to notes
-  - [ ] Appendix 3
-    - [ ] Text
+  - [-] Appendix 3
+    - [X] Text
     - [ ] Links to notes
   - [-] Appendix 4
     - [X] Text
     - [ ] Finger images
   - [X] Appendix 5
   - [X] Appendix 6
-  - [ ] Guide to English terminology
   - [ ] Arabic English glossary
     - [ ] Script to find all terms, and add links from all chapters.
-- [ ] Setup a build script.
 - [ ] Lookup [[https://pandoc.org/MANUAL.html#epubs][ePub extras provided by Pandoc]], "index/forward" etc.
 - [ ] Styles
   - [ ] Make a reasonable [[https://pandoc.org/MANUAL.html#epub-styling][.css file]].
@@ -87,9 +85,10 @@ At some point, contact the publisher to get contact info for the authors' estate
 - [X] Replace all MSS with "manuscripts".
 - [X] Find all instances of ~===~ and replace with an explanation of what manuscript it came from.
 - [X] Put the i, ii, iii etc sections back.
-- [X] Find out what (/sic/) means...
 - [X] Double-check all Ṭ and ṣ etc.
+- [X] Find out what (/sic/) means...
 - [X] No need for an index, when the document can be searched :-)
+- [X] Setup a github repo.
 
 *
 

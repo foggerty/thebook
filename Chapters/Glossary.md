@@ -2,259 +2,249 @@
 
 ## English
 
-In the following list of selected words and phrases we are mainly concerned to furnish the comprehensive glossary in Target Archery (pp. 482-524) we nevertheless recommend as an authoritative source.
+*Anchor*: to lodge the drawing hand in a firm and constant position at full draw so as to ensure accuracy of aim.
 
-1045 ANCHOR, v.: to lodge the drawing hand in a firm and constant position at full draw so ag to ensure accuracy of aim,
+*Anchor-Point*: point on the body, usually part of the face, where the drawing hand is lodged at full draw.
 
-ANCHOR-POINT: point on the body, usually part of the face, where the drawing hand is lodged at full draw.
+*Arm*: (ofthe bow) upper limb,
 
-1046ARM: (ofthe bow) upper limb,
+*Arrow, Parts Of*: *Breast*, *Fletching*, *Foor*, *Foreshaft*, *Head*, *Heel*, *Nock*, *Shaft/Stele*, *Shaftment.
 
-ARROW, Parts of: Breast, FLETCHING, Foor, FORESHAFT, Heap, Heer, Nocx, SHAFT/STELE, SHAFTMENT, qq.v.
+*Arrow-Guide*: device by which short arrows or darts may be shot from inside the grip of a full-drawn bow of greater draught than that otherwise permitted by the length of the missiles.
 
-1047ARROW-GUIDE: device by which short arrows or darts may be shot from inside the grip of a full-drawn bow of greater draught than that otherwise permitted by the length of the missiles.
+*Arrowhead*: striking end of an arrow made of a piece of hard material fitted separately to the front of a shaft.
 
-ARROWHEAD: striking end of an arrow made of a piece of hard material fitted separately to the front of a shaft.
+*Arrow-Pass*: the point at the top of a bow's grip agaiust which the arrow rests when nocked and in place for shooting.
 
-1048ARROW-PASS: the point at the top of a bow's grip agaiust which the arrow rests when nocked and in place for shooting.
+*Back.*: convex surface of a braced bow.
 
-BACK, n.: convex surface of a braced bow.
+*Backed*: (bow) having material attached to its back so as to strengthen it or improve cast.
 
-1049BACKED: (bow) having material attached to its back so as to strengthen it or improve cast.
+*Barrelled*: (arrow) tapering from the centre towards each end.
 
-BARRELLED: (arrow) tapering from the centre towards each end.
+*Belly*: concave surface of a braced bow.
 
-1050BELLY: concave surface of a braced bow.
+*Belt-And-Claw*: see *Drawing-Strap*.
 
-BELT-AND-CLAW: see DRAWING-STRAP.
+*Blunt*: (arrowhead) having a blunt, flat tip, designed to prevent penetration.
 
-1051BLUNT: (arrowhead) having a blunt, flat tip, designed to prevent penetration.
+*Bolt*: short, and usually heavy, arrow for use with a crossbow, See also Quarrel.
 
-Bort: short, and usually heavy, arrow for use with a crossbow, See also QUARREL.
+*Bow, Parts Of*: *Back*, *Belly*, *Limb*, *Neck*, *Nock*, *Tip*.
 
-1052Bow, Parts of: BACK, BELLY, Lima, NECK, Nock, Tir, qq.v.
+*Bow-Case*: holder, usually of leather, in which a bow is carried.
 
-Bow-case: holder, usually of leather, in which a bow is carried,
+*Bow-Hand/Arm*: hand/arm which holds the bow's grip when shooting (left in the case of a right-handed archer).
 
-1053BOW-HAND/ARM: hand/arm which holds the bow's grip when shooting (Jeft in the case of a right-handed archer),
+*Bow-Weight*: see Draw-weight.
 
-BOW-WEIGHT: see DRAW-WEIGHT,
+*Brace*: to fit the string to a flexed bow; synon, with *String*.
 
-1054BRACE, v.: to fit the string to a flexed bow; synon, with STRING.
+*Bracing-Board*: device to facilitate the bracing of strong or difficult bows.
 
-BRACING-BOARD: device to facilitate the bracing of strong or difficult bows.
+*Bracing Height*: see *Height of a Bowstring*.
 
-1055BRACING HEIGHT: see HEIGHT OF A BOWSTRING,
+*Breast*: (of an arrow) the shaft immediately in front of the feathers or fletching, but on the sense in Arabic, see *Sadar* in Arabic Glossary.
 
-BREAST: (of an arrow) the shaft immediately in front of the feathers or fletching, but on the sense in Arabic, see Glossary s.v. SADR.
+*Breasted*: (arrow) thickest at the breast. On the sense in Arabic see *Musaddar* in the Arabic Glossary.
 
-1056BREASTED: (arrow) thickest at the breast. On the sense in Arabic see Glossary s.v. MUSADDAR.
+*Broadhead*: flat, pointed arrowhead with sharp edges.
 
-BROADHEAD: flat, pointed arrowhead with sharp edges.
+*Cast*: capacity of a bow to discharge its missile.
 
-1057 174
+*Clean*: (the loose) characterized by correct disengagement of the thumb from the bowstring so that the passage of the latter is in no way obstructed or retarded.
 
+*Composite*: bow, the construction of which is based on the union of different materials. The Asiatic composite was formed of horn and sinew bonded with glue on a wooden core.
 
-GUIDE TO ENGLISH TECHNICAL TERMINOLOGY 175
+*Creep*: slight nosing forward of the arrow at full draw just before the loose.
 
-1058 Cast: capacity of a bow to discharge its missile.
+*Crossbow*: bow fitted to a stock and drawn by the archer, with or without mechanical assistance, but held and released by a mechanism.
 
-CLEAN: (the loose) characterized by correct disengagement of the thumb from the bowstring so that the passage of the latter is in no way obstructed or retarded.
+*Dart*: 1. arrow used with an arrow-guide; 2. short arrow-like missile.
 
-1059CoMPOSITE: bow, the construction of which is based on the union of different materials, The Asiatic composite was formed of horn and sinew bonded with glue on a wooden core.
+*Draught*: (of bow, arrow) amount or length drawn.
 
-Creep: slight nosing forward of the arrow at full draw just before the loose.
+*Draw, verb*: to pull back the string of a bow, usually for the purpose of shooting it.
 
-1060Crosspow: bow fitted to a stock and drawn by the archer, with or without mechanical assistance, but held and released by a mechanism.
+*Draw, description.*: 1. act, manner, technique, of drawing; 2. distance between the back of a bow and its string at the moment of shooting (also called the bow’s *draw-length*).
 
-DART: 1. arrow used with an arrow-guide; 2. short arrow-like missile.
+*Draw-weight*: force in pounds required to draw a bow to the length of its appropriate arrow.
 
-1061DRAUGHT: (of bow, arrow) amount or length drawn.
+*Drawing hand/arm*: hand/arm which draws the bowstring (right, in the case of a right-handed archer).
 
-Draw, v.: to pull back the string of a bow, usually for the purpose of shooting it,
+*Drawing-strap*: looped strap with a two-hooked claw; it is normally belted around the waist to enable one to draw the string of certain types of crossbow.
 
-1062Draw, o.: 1. act, manner, technique, of drawing; 2. distance between the back of a bow and its string at the moment of shooting,
+*Ear*: the rod-like tip of an Oriental bow containing the nock, It is not synonymous with siyah since it does not apply to the ridged portion, but it is often used loosely as such.
 
-DRAW-WEIGHT: force in pounds required to draw a bow to the length of its appropriate arrow.
+*Fisher loose*: three-finger lock with string held obliquely.
 
-1063DRAWING HAND/ARM: hand/arm which draws the bowstring (right in the case of a tight-handed archer). :
+*Fletching*: 1. feathers, or vanes, attached to an arrow’s shaft to enable it to fly steadily and head first; 2, feather, or vane, used for this purpose.
 
-DRAWING-STRAP: looped strap with a two-hooked claw; it is normally belted around the waist to enable one to draw the string of certain types of crossbow. (See Fig. 29.)
+*Flight arrow*: arrow designed for flight shooting.
 
-1064Ear: the rod-like tip of an Oriental bow containing the nock, It is nor synonymous with siyah since it does not apply to the ridged portion, but it is often used loosely as such.
+*Flight bow*: bow designed to impart the highest possible velocity to an arrow for the purpose of achieving the greatest possible distance.
 
-FISHER LOOSE: three-finger lock with string held obliquely.
+*Flight shooting*: shooting for the purpose of attaining the greatest possible distance with an arrow.
 
-1065FLETCHING: 1. feathers, or vanes, attached to an arrow’s shaft to enable it to fly steadily and head first; 2, feather, or vane, used for this purpose.
+*Flirt*: for the arrow to jump suddenly from the correct line of flight.
 
-FLIGHT ARROW: arrow designed for flight shooting, q.v.
+*Follow through*: to continue the act and tension of Shooting from the moment the arrow leaves the string until it has sped.
 
-1066FLIGHT BOW: bow designed to impart the highest possible velocity to an arrow for the purpose of achieving the greatest possible distance.
+*Foot*: (of arrow shaft) the few inches or so adjacent to the head.
 
-FLIGHT SHOOTING: shooting for the purpose of attaining the greatest possible distance with an arrow.
+*Foreshaft*: front half of an arrow's shaft.
 
-1067FLIRT: to jump suddenly from the correct line of flight (arrow).
+*Full draw*: normal maximum length to which an arrow is drawn in its appropriate bow.
 
-FOLLOW THROUGH, V.: to continue the act and tension of Shooting from the moment the atrow leaves the string until it has sped. (See pp. 68-70.)
+*Gan*: for an arrow to fly erratically, unsteadily, as a result of some fault in equipment or technique.
 
-1068Foot: (of arrow shaft) the few inches or so adjacent to the head.
+*Grasp / grip*: 1. handle of bow; 2. grasp of bow-hand on handle; 3. manner of grasping the handle.
 
-FoRESHAFT: front half of an arrow's shaft.
+*Group*: to place arrows close together in a target.
 
-1069FULL DRAW: normal maximum length to which an arrow is drawn in its appropriate bow.
+*Guide*: see *Arrow-Guide*,
 
-Gan: to fly erratically, unsteadily, as a result of some fault in equipment or technique (arrow).
+*Hand bow*: bow drawn, held, and released entirely by the strength of the archer (as distinct from a crossbow, for instance).
 
-1070GRASP: see GRIP, 2 and 3, and remark in parenthesis.
+*Handle*: part of the bow grasped by the hand during shooting, grip.
 
-Grip: 1. handle of bow; 2. grasp of bow-hand on handle; 3. manner of grasping the handle.  (Because of the danger of ambiguity we tend to avoid the use of the word in senses 2 and 3.)
+*Head*: see *Arrowhead*.
 
-1071GROUP, v.: to place arrows close together in a target. :
+*Heavy*: (a bow) having a relatively high weight. See *Draw-Weight*.
 
-GUIDE: see ARROW-GUIDE,
+*Heel*: (of an arrow) that section of the shaft which lies between the rear end of the fletching and the beginning of the nock.
 
-1072HAND BOW: bow drawn, held, and released entirely by the strength of the archer (as distinct from a crossbow, for instance).
+*Height of a Bowstring*: the distance between the grip and string of a braced bow.  Note: not everyone measures from the same place.  Most measure from the back of the grip, some from the belly, and some from the middle of the grip.
 
-HANDLE: part of the bow grasped by the hand during shooting, grip.
+*Hold*: to pause at full draw before releasing.
 
-1073HEAD: see ARROWHEAD.
+*Knee*: the relatively sharp recurve in the ridged section of the siyah found in certain types of Oriental bow.
 
-Heavy: (bow) having a relatively high weight. See DRAW-WEIGHT.
+*Leg*: (of the bow) lower limb.
 
-1074Hee: (of an arrow) that section of the shaft which lies between the rear end of the fletching and the beginning of the nock.
+*Light*: (bow) having a relatively low weight. See *Draw-Weight*.
 
-HEIGHT OF A 8OWSTRING: the distance between the grip and string of a braced bow.
+*Limb*: that part of a bow which extends from the grip to the tip, there being two limbs distinguished as ‘upper’ and ‘lower’.
 
-1075HoLp, v.: to pause at full draw before releasing.
+*Lock*: 1. the manner in which the thumb and/or fingers are applied to the bowstring in order to draw the bow; 2. (of a crossbow) the mechanism which holds the draw-string and releases it when the trigger is operated.
 
+*Longbow*: the traditional old English wooden bow of 6 ft. or more in length. Note that ‘long bow’ in Arabic denotes a bow which shoots full-length arrows.
 
-176 GUIDE TO ENGLISH TECHNICAL TERMINOLOGY
+*Loose, noun.*: act of releasing a drawn bowstring. Note: the word is often, but erroneously, used to denote the *Lock*.
 
-1076 Knee: the relatively sharp recurve in the ridged section of the siyah found in certain types of Oriental bow.
+*Loose, verb.*: to release a drawn bowstring.
 
-Lec: (of the bow) lower limb.
+*Mediterranean loose*: the European lock in which the first three finger-tips lie on the string with the nock between the first and second.
 
-1077LieHr: (bow) having a relatively low weight. See DRAw-WEIGHT.
+*Neck*: see Arabic Glossary *‘Ung*.
 
-LiwB: that part of a bow which extends from the grip to the tip, there being two limbs distin- guished as ‘upper’ and ‘lower’,
+*Nock, noun*: 1. (of a bow) the notch in the tip into which the loop of the string fits; 2. (of an arrow) the notch in the rear end into which the bowstring fits.
 
-1078Lock: r. the manner in which the thumb and/or fingers are applied to the bowstring in order to draw the bow; 2. (of a crossbow) the mechanism which holds the draw-string and releases it when the trigger is operated.
+*Nock, verb*: to fit an arrow on to the string.
 
-LowcBOow: the traditional old English wooden bow of 6 ft. or more in length. N.B. ‘long bow?  in Arabic denotes a bow which shoots full-length arrows (see Glossary s.v. SAHM Tawit).
+*Nockpiece*: section of hard material containing the notch which is separately fitted to the butt of an arrow's shaft.
 
-1079Loose, n.: act of releasing a drawn bowstring. N.B.: the word is often, but erroneously, used to denote the Jock, q.v.
+*Nocking-point*: point on the bowstring where the arrow should be nocked.
 
-Loose, v.: to release a drawn bowstring.
+*Nut*: (of a crossbow) rotating cylindrical device extensively found in the stocks of crossbows.  One part of the circumference is shaped to hold the drawn string, and an opposite part notched to take the sere of the trigger mechanism.
 
-1080MEDITERRANEAN LOOSE: the European lock in which the first three finger-tips lie on the string with the nock between the first and second.
+*Quarrel*: heavy bolt for a crossbow, having, as a rule, a head that is square or triangular in cross-section and a tip which, when viewed from the side, presents the shape of a roughly equilateral triangle; there are a number of kinds.
 
-NECK: see Glossary s.v. ‘Ung.
+*Recover*: 1. (limbs of a drawn bow) to spring back into the position occupied before the draw; 2. (limbs of a bow unbraced after use) to regain the reflexed form which they had before bracing.
 
-1081NOCK,n.: I. (ofa bow) the notch in the tip into which the loop of the string fits; 2. (of an arrow) the notch in the rear end into which the bowstring fits.
+*Recovery, rate of recovery*: time taken by a bow to recover.
 
-Nock, v.: to fit an arrow on to the string.
+*Recurve*: (in a bow) curvature in the opposite direction to that taken by the drawn bow.  Usually it denotes the end of a limb where the recurve can be either rigid or ‘working’ i.e.  losing some of its bend when the bow is drawn.
 
-1082NOCKPIECE: section of hard material containing the notch which is separately fitted to the butt of an arrow's shaft.
+*Recurved*: curving in the opposite direction to that taken by the drawn bow.
 
-NOCKING-POINT: point on the bowstring where the arrow should be nocked.
+*Reflex*: (in the working part of the limb and/or grip of a bow) curvature in the opposite direction to that to which the bow is flexed for bracing. It is seen in the unstrung bow.
 
-1083Nut: (ofa crossbow) rotating cylindrical device extensively found in the stocks of crossbows.  One part of the circumference is shaped to hold the drawn string, and an opposite part notched to take the sere of the trigger mechanism, (See Fig. 4.)
+*Self bow*: bow made of a single stave of wood.
 
-QUARREL: heavy bolt for a crossbow, having, as a rule, a head that is square or triangular in cross-section and a tip which, when viewed from the side, presents the shape of a roughly equilateral triangle; there are a number of kinds,
+*Shaft*: main body of an arrow.
 
-1084RATE OF RECOVERY: see RECOVERY.
+*Shaftment*: [Anglo-Saxon: *sceaft* (shaft) + *mund* (hand)] that part of an arrow’s shaft to which.  the fletchings are fitted.
 
-RECOVER, instrans. v.: 1. (limbs of a drawn bow) to spring back into the position occupied before the draw; 2. (limbs of a bow unbraced after use) to regain the reflexed form which they had before bracing.
+*Sharp*: (the loose) clean and quick without loss of tension caused by creep.
 
-1085RECOVERY, RATE OF RECOVERY: time taken by a bow to recover.
+*Siyah*: see Arabic Glossary.
 
-RECURVE, n.: (in a bow) curvature in the opposite direction to that taken by the drawn bow.  Usually it denotes the end of a limb where the recurve can be either rigid or ‘working’ i.e.  losing some of its bend when the bow is drawn.
+*Slash, v.*: to accomplish a swift, uninterrupted, and clean loose.
 
-1086RECURVED: curving in the opposite direction to that taken by the drawn bow. .
+*Sluggish*: (the loose) dead, i.e. slow with possible loss of tension.
 
-REFLEX: (in the working part of the limb and/or grip of a bow) curvature in the opposite direction to that to which the bow is flexed for bracing. It is seen in the unstrung bow.
+*Snatch*: to increase the draw as the loose is made. (*In Ṭaybughā’s vocabulary : to accomplish the loose with a brief pause immediately followed by an imperceptible snatch as one comes to full draw.*)
 
-1087SELF BOW: bow made of a single stave of wood.
+*Stele*: synon. with *Shaft*.
 
-Snuarr: main body of an arrow.
+*String*: synon. with *Brace*.
 
-1088SHAFTMENT: [Anglo-Saxon: sceaft (shaft) + mund (hand)] that part of an arrow’s shaft to which.  the fletchings are fitted.
+*Tang*: (of an arrowhead) the ‘tongue’, i.e. shank for insertion into the shaft.
 
-SHarp; (the loose) clean and quick without ioss of tension caused by creep.
+*Target head*: arrow-head used for target shooting, ogival or triangular in silhouette, circular or polygonal in cross-section.
 
-1089SrvaH: sce Glossary s.v.
+*Target spot*: any specified point on a target face which the archer aims to hit.
 
-SrasH, v.: to accomplish a swift, uninterrupted, and clean loose.
+*Tiller*: wooden stave used by a bowyer, one end of which is hollowed to fit against the grip of a bow, while notches cut into the surface of the stave permit the string to be drawn and held at varying distances, so that the form and curvature of the bow may be studied.
 
-1090SLUGGISH: (the loose) dead, i.c. slow with possible loss of tension.
+*Tillering*: process of adjusting, with the aid of a tiller, the width and thickness of the limbs of a bow so that the correct curvature and balance may be achieved when the bow is drawn.
 
-SNATCH: to increase the draw as the loose is made. (in 7"s vocabulary : to accomplish the loose with a brief pause immediately followed by an imperceptible snatch as one comes to full drat.)
+*Tip*: (of a bow) extremity.
 
-1091 GUIDE TO ENGLISH TECHNICAL TERMINOLOGY 177
+*War head*: arrowhead for use in war; commonly a triangular spike, square or triangular in cross-section.
 
+*Weigh*: to ascertain the draw-weight of a bow.
 
-STELE: synon. with SHAFT, q.v.
+*Weight*: see *Draw-Weight*.
 
-1092STRING: synon. with BRACE, q.v.
-
-TANG: (of an arrowhead) the ‘tongue’, i.e. shank for insertion into the shaft.
-
-1093TARGET: a bounded surface serving as a mark at which to shoot.
-
-TARGET HEAD: head used for target shooting, ogival or triangular in silhouette, circular or polygonal in cross-section.
-
-1094‘TARGET SPOT: any specified point on a target face which the archer aims to hit.
-
-TILLER, n.: wooden stave used by a bowyer, one end of which is hollowed to fit against the grip of a bow, while notches cut into the surface of the stave permit the string to be drawn and held at varying distances, so that the form and curvature of the bow may be studied. (See Plate 18.)
-
-1095TILLERING: process of adjusting, with the aid of a tiller, the width and thickness of the limbs ofa bow so that the correct curvature and balance may be achieved when the bow is drawn.
-
-Tir: (of a bow) extremity.
-
-1096WAR HEAD: arrowhead for use in war; commonly a triangular spike, square or triangular in cross-section.
-
-WEIGH, trans. v.: to ascertain the draw-weight of a bow.
-
-1097WEIGHT: see DRAW-WEIGHT.
-
-WORKING (PART OF THE) LIMB: that section of a bow’s limb which takes the bend when the bow is drawn (as opposed to the siyah, which remains rigid).
-
+*Working (part of the) limb*: that section of a bow’s limb which takes the bend when the bow is drawn (as opposed to the siyah, which remains rigid).
 
 ## Arabic
 
 This glossary is principally intended to supply definitions which are valid for our text, and, in the interests of simplicity and economy of space, it is only in exceptional cases that reference is made to any additional or different meaning(s) which a given term may have elsewhere in archery literature.  Attention is drawn to the following points:
 
-(i) For the benefit of non-Arabists the terms are arranged alphabetically, not according to roots.  In a few cases where vowels are uncertain we have had to supply them on the basis of our own judgement,
+i) For the benefit of non-Arabists the terms are arranged alphabetically, not according to roots.  In a few cases where vowels are uncertain we have had to supply them on the basis of our own judgement,
 
-ii) Because they are of special interest to the archer a small proportion of terms from other sources are incorporated. These are marked with an asterisk (*};
+ii) Because they are of special interest to the archer a small proportion of terms from other sources are incorporated. These are marked with an asterisk (*).
 
-(iii) The language from which a term, if not of Arabic origin, is borrowed or derived is indicated in square brackets ( ]. Details are only given where the etymology will not be obvious to the orientalist or differs from that given elsewhere.
+(iii) The language from which a term, if not of Arabic origin, is borrowed or derived is indicated in square brackets []. Details are only given where the etymology will not be obvious to the orientalist or differs from that given elsewhere.
 
-(iv) The term ‘bow’ is to be taken as meaning ‘COMPOSITE bow’ unless there is any indication to the contrary.
+(iv) *The term ‘bow’ is to be taken as meaning* ‘Composite bow’ *unless there is any indication to the contrary*.
 
 (v) Left-handed archers should exercise caution where mention is made of ‘left’ and ‘right’.
 
 
-ABBREVIATIONS adj. adjective Pers, Persian advbl. adverbial phr. phrase Ar. Arabic pl. plural coll. collective prep. preposition compar, comparative q.v. quod vide (wbich, see) descr. described, description sing. singular disc'd discussed S.V. sub verbo (under the word) disc'n discussion synon. synonymous fem, feminine T Taybugha fr. from tr, transitive intr. intransitive Turk. Turkish masc, masculine v. verb n, noun v.n. verbal noun opp. opposite w. ref. to with reference to
+### ABBREVIATIONS
 
-1103 ADARA: 1. to flex (the limbs of a bow to brace it); 2. to spin (an arrow horizontally on the finger-nails to test its shaft for trueness; sce p. 30).
+| adj.    | adjective              |   | Pers.      | Persian                    |
+| advbl.  | adverbial              |   | phr.       | phrase                     |
+| Ar.     | Arabic                 |   | pl.        | plural                     |
+| coll.   | collective             |   | prep.      | preposition                |
+| compar. | comparative            |   | q.v.       | quod vide (which, see)     |
+| descr.  | described, description |   | sing.      | singular                   |
+| disc'd  | discussed              |   | s.v.       | sub verbo (under the word) |
+| disc'n  | discussion             |   | synon.     | synonymous                 |
+| fem.    | feminine               |   | Ṭ          | Taybugha                   |
+| fr.     | from                   |   | tr.        | transitive                 |
+| intr.   | intransitive           |   | Turk.      | Turkish                    |
+| masc.   | masculine              |   | v.         | verb                       |
+| n.      | noun                   |   | v.n.       | verbal noun                |
+| opp.    | opposite               |   | w. ref. to | with reference to          |
 
-AFLATA: 1. to loose, release (an arrow); by the end of the fourtcenth century the use of the v.  in this sense was probably an archaism in Egypt and Syria; T's v. is almost invariably ATLAQ4; 2. to slip (the reins of one’s horse when shooting or about to shoot).
+*Adāra*: 1. to flex (the limbs of a bow to brace it); 2. to spin (an arrow horizontally on the finger-nails to test its shaft for trueness; sce p. 30).
 
-1104 178
+*Aflata*: 1. to loose, release (an arrow); by the end of the fourtcenth century the use of the v.  in this sense was probably an archaism in Egypt and Syria; T's v. is almost invariably ATLAQ4; 2. to slip (the reins of one’s horse when shooting or about to shoot).
 
+*Aḥwal*: 'askant, squint-eyed’, a method of binocular aiming (pp. 58, 61).
 
-ARABIC-ENGLISH GLOSSARY 179
+*A'Immah*: sce *Imām*.
 
-1105 AHWAL: 'askant, squint-eyed’, a method of binocular aiming (pp. 58, 61).
+*Ajrā*: ‘to run’ an arrow over some part of the thumb of the drawing hand (so as to give the arrow a natural guide (majra) along which to travel at the loosc).
 
-A'IMMAH; sce IMAM.
+*Akhaffa r-rijl*: to take one's weight off the [left] foot (in the flight shooting stance).
 
-1106ÁJRÀ: ‘to ron’ an arrow over some part of the thumb of the drawing hand (so as to give the arrow a natural guide (majra) along which to travel at the loosc).
-
-AKHAFFAR-RUL: to take one's weight off the [left] foot (in the flight shooting stance).
-
-1107AKHYTA'A: to miss the mark.
+Akḥta'a: to miss the mark.
 
 AXTAF(?): see p. 26 & dise’n, p. 32.
 
@@ -303,10 +293,6 @@ ATRAD LI-S-SAHM: improving cast (a bowstring, thumb-guard, etc.). The use of thi
 *Awsàr (pL): the different sections from which the framework of the bow is  formed (limbs,
 
 1119siyah, grip). (See Appendix 2.)
-
-
-
-1120
 
 meme a acre 4A Sed Ned ees, SEL OUI
 
