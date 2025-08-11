@@ -12,27 +12,29 @@ The business of nocking that has just been described should be executed with rap
 
 Nocking is treated, to a greater or lesser extent, by different authors in different ways. Here is not the place to assemble all the material we have discovered on the subject and to enter into a comparative study. One or two points, however, do call for some comment, and for this purpose *Arab Archery* may be used to most advantage, It should be noted that, in order to avoid vexatious repetition of references, it is to pp. 40-42 of this work that we refer,
 
-### Taking Hold of the Arrow
+### 1. Taking Hold of the Arrow
 
-**The ‘Turkish’ method** This is identical with that said in Arab Archery to have been advocated by the school of Ṭāhir al-Balkhi. It was ‘easier than other methods and a speedier way of drawing an arrow from the quiver when in hot pursuit of game or an adversary’.  Hence its appeal to Ṭaybughā, the exponent of military techniques.
+**The ‘Turkish’ method**\
+This is identical with that said in Arab Archery to have been advocated by the school of Ṭāhir al-Balkhi. It was ‘easier than other methods and a speedier way of drawing an arrow from the quiver when in hot pursuit of game or an adversary’.  Hence its appeal to Ṭaybughā, the exponent of military techniques.
 
-**The ‘pen’ method** This is identical with that said in *Arab Archery* to have been advocated by the school of Abū Hashim. Ṭaybughā omits to indicate that the little finger and ring-finger were folded into the palm.
+**The ‘pen’ method**\
+This is identical with that said in *Arab Archery* to have been advocated by the school of Abū Hashim. Ṭaybughā omits to indicate that the little finger and ring-finger were folded into the palm.
 
 There is no mention in our treatise of the method said in *Arab Archery* to have been preferred by the school of Isḥāq. This consisted in picking up the arrow with the index finger and the middle finger at one span’s distance away from the arrowhead just as a bird would pick up a piece of straw in its beak. It is ignored by our author presumably because it had no place in combat.
 
-### Supporting the Arrow at the Grip
+### 2. Supporting the Arrow at the Grip
 
 On this point the author of *Arab Archery* is more informative than Ṭaybughā and offers two basic methods. The archer could either (a) place the arrow at one fist’s distance from its head between the left thumb, index finger, and middle finger which had already been released from the grip for that purpose, or (b) keep the said three fingers closed on the grip until the right and left hands came together, at which moment he would open them (ie. the left fingers) and put a lock on the arrow at one span from the head while running his right hand over the remainder of the stele as far as the nock to detect any faults there might be in his shaft. This second method is said to have been that of Ṭāhir’s school. From careful reading of the text it would seem to have differed from the first only in two points, viz. the manner in which the fingers took the arrow, and the distance at which the stele was held from the head.
 
-### The Position of the Nock against the Fingers
+### 3. The Position of the Nock against the Fingers
 
 According to *Arab Archery*, the nock prior to insertion of the string into the notch should rest against the fingers in one of three positions, which differ fractionally from those given by Ṭaybughā. They are, however, worth mentioning if only to illustrate the wide divergence of opinion on the subject. After running his hand down the stele the archer could hold the nock (a) between the index finger and the thumb with the notch against the distal phalanx of the middle finger (Abū Hāshim), or (b) with the middle phalanx of the index finger, the fore part of the thumb, and the tip of the middle finger (Ṭāhir), or (c) between the index finger and thumb with the notch between the first two phalanges of the middle finger (Isḥāq).
 
-### Insertion of the String
+### 4. Insertion of the String
 
 Two basic methods are advocated in Arab Archery, When the stele is against the string the archer may (a) quickly and forcefully push the arrow forward and bring the nock back on to the string (Abū Hāshim), or (b) push forward without clearing the string and then open the fingers to nock as soon as string and nock make contact (Tāhir, Ishāq).
 
-### The Nocking-point
+### 5. The Nocking-point
 
 This is the part of the bowstring to which the nock of the arrow is set. Since it tends to be taken for granted by many Islamic authors it is worth while to note the following remarks:
 

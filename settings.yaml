@@ -1,0 +1,62 @@
+---
+
+# Document settings.
+
+from: markdown
+to: epub3
+epub-metadata: ${.}/epub-metadata.xml
+output-file: ${.}/Release/EssentialArcheryForBeginners.epub
+fail-if-warnings: true
+standalone: true
+
+# Document source.
+
+input-files:
+  - ${.}/Chapters/Acknowledgements.md
+  - ${.}/Chapters/Preface.md
+  - ${.}/Chapters/PronunciationGuide.md
+  - ${.}/Chapters/Dates.md
+  - ${.}/Chapters/Introduction.md
+  - ${.}/Chapters/Chapter1.md
+  - ${.}/Chapters/Chapter2.md
+  - ${.}/Chapters/Chapter3.md
+  - ${.}/Chapters/Chapter4.md
+  - ${.}/Chapters/Chapter5.md
+  - ${.}/Chapters/Chapter6.md
+  - ${.}/Chapters/Chapter7.md
+  - ${.}/Chapters/Chapter8.md
+  - ${.}/Chapters/Chapter9.md
+  - ${.}/Chapters/Chapter10.md
+  - ${.}/Chapters/Chapter11.md
+  - ${.}/Chapters/Chapter12.md
+  - ${.}/Chapters/Chapter13.md
+  - ${.}/Chapters/Chapter14.md
+  - ${.}/Chapters/Chapter15.md
+  - ${.}/Chapters/Chapter16.md
+  - ${.}/Chapters/Chapter17.md
+  - ${.}/Chapters/Chapter18.md
+  - ${.}/Chapters/Chapter19.md
+  - ${.}/Chapters/Chapter20.md
+  - ${.}/Chapters/Chapter21.md
+  - ${.}/Chapters/Chapter22.md
+  - ${.}/Chapters/Chapter23.md
+  - ${.}/Chapters/Chapter24.md
+  - ${.}/Chapters/Chapter25.md
+  - ${.}/Chapters/Chapter26.md
+  - ${.}/Chapters/Chapter27.md
+  - ${.}/Chapters/Chapter28.md
+  - ${.}/Chapters/Appendix1.md
+  - ${.}/Chapters/Appendix2.md
+  - ${.}/Chapters/Appendix3.md
+  - ${.}/Chapters/Appendix4.md
+  - ${.}/Chapters/Appendix5.md
+  - ${.}/Chapters/Appendix6.md
+  - ${.}/Chapters/Glossary.md
+
+# Document layout.
+
+template: ${.}/template.html
+epub-cover-image: ${HOME}/Pictures/ArchLinux.jpeg
+table-of-contents: true
+
+...

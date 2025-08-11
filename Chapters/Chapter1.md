@@ -1,14 +1,15 @@
 # 1 - Doxology and Ṭaybughā's Introduction
 
-### Dogology
+### Doxology
 
-> In the name of God, the Merciful, the Compassionate. > My Lord, ease my task for me, O Thou who art-bountiful.
+> In the name of God, the Merciful, the Compassionate.\
+> My Lord, ease my task for me, O Thou who art-bountiful.
 
 Praise be to God, whose judgement is just, whose knowledge is complete, whose dominion is almighty, whose proof shines forth with overwhelming light;
 
 Who protects and safeguards His friends, who plucks out and shatters His foes;
 
-Who grants victory and succour to the Faith (i.e. Islam), who subdues and scatters Unbelief;
+Who grants victory and succour to the Faith, who subdues and scatters Unbelief;
 
 Who unleashes His might and affliction [against those who reject His authority, who brings in] all His servants beneath His sovereign power!
 

@@ -22,7 +22,7 @@ Do take care lest the ends of the fingers touch the heel of the hand when graspi
 
 ## Translators' comment
 
-### The *Matn*
+### 1. The *Matn*
 
 From our author's definition of the term *matn* as the ‘middle of the back of the grip’ (*wasṭ ẓahr al-qabḍah*) it is not immediately clear what meaning the term ‘middle’ is intended to convey.  When he goes on to speak of the ‘middie of the back of the *matn*’ we are confronted with the bewildering problem of determining what is meant by ‘the middle of the back of “the middle of the back” of the grip’. One’s first reaction is to suspect a pleonasm. Careful reading of the text, however, shows that this is not the case. It will be seen that the *matn* has a side (*janb*) and a back (*ẓahr*) and that if the archer places the side of the *matn* in the proximal crease, ‘the middle of the matn’s back’ will lie in the centre of the proximal phalanges of his fingers. From this it is evident that the ‘middle of the *matn*’s back’ is the mid-line longitudinally dividing the dorsal surface of the grip. The *matn*’s ‘back’ is, as it were, its backbone, or spine, and might be taken as a strip about 1/2 an inch wide running down the centre of the handle.
 
@@ -32,24 +32,24 @@ To sum up, the *matn* is the ‘body’ or ‘centre section’ of the handle ab
 
 It cannot be overemphasized that both *matn* and *ẓahr al-qabḍah* are frequently used quite loosely and that the meaning can only be exactly determined by context. Later in the work our author uses *matn* without any qualifications to mean ‘mid-line of that part of the dorsal surface which is held when shooting’.
 
-### Grasping the Bow
+### 2. Grasping the Bow
 
 The choice of grasp to suit any particular archer mainly depends on the length of their fingers.  A variety of different grasps could be enumerated to confirm the pronouncement: ‘Expert archers have disagreed on the exact manner of holding the grip’ (*Arab Archery*, p. 46). At the same time a good deal of conflicting evidence could be presented from medieval Islamic sources, but to little purpose. We therefore confine ourselves merely to directing attention to three basic grasps later discussed by Ṭaybughā:
 
-**The square grasp (*al-qabḍah al-murabba'ah*)**
+**The square grasp (*al-qabḍah al-murabba'ah*)**\
 Attributed to Abū Hāshim. However, some of the manuscripts ascribe it to another; ‘This is the method of Isḥāq ar-Raffā and the reason for it is that if one's fingers are long (sc. like Isḥāq's), they will turn on the grip.’
 
-**The intermediate grasp**
+**The intermediate grasp**\
 Attributed to Isḥāq, or possibly the teaching of Abū Hāshim, Bahrām Gūr, and aṭ-Tabarī. Whoever it was, almost all other authors consulted by us agree that Isḥāq's grasp was intermediate. (*Arab Archery*, p. 47)
 
-**The oblique grasp (al-qabḍah al-muḥarrafah)**
+**The oblique grasp (al-qabḍah al-muḥarrafah)**\
 Attributed to Ṭāhir. ‘This is Ṭāhir’s method ... Which is suitable for persons with a small palm and short fingers... A man with short fingers should put the back of the handle in the first crease between palm and fingers to give him control over his grip-fingers.’ (*qubbād*).
 
 It should be noted that the grasp attributed to Ṭāhir in the second paragraph of the chapter is at variance with what our author has to say later. Irrespective of the assertions of other writers, we are justified in supposing that either Ṭaybughā or some scribe hes made a slip; for he himself tells us later not only that Ṭāhir had short fingers, for which he recommends, even in the present chapter; that the *matn* be placed in the proximal crease, but also that Ṭāhir did in fact place the *matn* in that crease formed by the joints of the little finger, ring-finger, and middle finger.
 
 A wide range of opinion on the manner in which the grip should be held and conflicting views on the persons to whom particular grasps should be attributed may be derived from a number of sources, notably *Tabsirah*, *Wādih* and Nihāyah. See also *Arab Archery*, pp. 46-49. Some translations should be read with caution as corruption in the text used as the basis for translation has passed unrecognised, and there is also some misinterpretation.
 
-### The 'Falcon's Talons’
+### 3. The 'Falcon's Talons’
 
 The name of this grasp is spelled and pointed in manuscript A as *jinkilbāz*. The expression is Persian as indicated in the text. It is conceivable, but less likely, that we have to do with an arabicized form with the same meaning, viz. *chang al-bāz*. That our etymology and spelling are correct is - in spite of the variety of forms in which the expression occurs in other manuscripts - almost certain, for the manner of gripping described in our text strongly resembles that of a falcon's talons, and in a society familiar with falconry such a comparison would be undeniably meaningful.  Muṣṭafā Kāni compares the configuration of the fist of the flight shooter to the shape of the head of a harp, but since *chang* can mean not only ‘harp’, but also ‘talons’, his statement is suspect, especially if we take into account his need to explain that the harp is a ‘Frankish (i.e. European) stringed instrument'.
 

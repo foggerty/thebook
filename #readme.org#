@@ -2,9 +2,9 @@
 At some point, contact the publisher to get contact info for the authors' estates.  Then, contact the estates and erm, beg.
 
 - [-] Setup a build script.
+  - [ ] Let Pandoc author know what ePub metadata like 'title' is being ignored by the compiler: [INFO] This document format requires a nonempty <title> element.
   - [X] 'Debug' vs release build?
   - [ ] Make sure metadata is showing correctly.
-  - [ ] Let Pandoc author know what ePub metadata like 'title' is being ignored by the compiler: [INFO] This document format requires a nonempty <title> element.
   Defaulting to 'Acknowledgements' as the title.
   To specify a title, use 'title' in metadata or --metadata title="...".
 - [-] PAIN
