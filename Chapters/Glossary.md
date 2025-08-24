@@ -539,7 +539,7 @@ auy amana RARE NAT AAN SE AADAL LUODON X
 
 1180 JaRAD (coll): 1. ‘Locusts’, name of a class of darts for use with arrow-guide and ranging from 2j in. to 73 in. in length; 2. name of an arrow-guide (from which, presumably, the latter were shot).
 
-JankH [Pers. charkh]: a type of crossbow fitted with a stirrup (in A! only; in all other MSS Jarkh is replaced by gaws ar-rijl, ‘crossbow’; see p. 19). Although the connexion with the basic meaning of the Pers. charkh, ‘wheel’, has puzzled scholars (see Huuri, Gesch., pp. 94- 95), it should be noted that one simple method of drawing a medieval crossbow consisted in using a straightforward pulley mechanism which entailed the use of a small wheel (Fig. 11).
+JankH [Pers. charkh]: a type of crossbow fitted with a stirrup (in A! only; in all other manuscripts Jarkh is replaced by gaws ar-rijl, ‘crossbow’; see p. 19). Although the connexion with the basic meaning of the Pers. charkh, ‘wheel’, has puzzled scholars (see Huuri, Gesch., pp. 94- 95), it should be noted that one simple method of drawing a medieval crossbow consisted in using a straightforward pulley mechanism which entailed the use of a small wheel (Fig. 11).
 
 1181JanMaki (?) [Ar. adj. in -i fr. Turk. adj. çarpık (>jarbak) 'awry'?]: name ofa form of shooting from horscback in which the archer, having the bowstring on the inside or outside of his bow-arm, anchors in the nape of the neck. See pp. 75, 82.
 

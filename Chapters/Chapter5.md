@@ -1,12 +1,12 @@
 # 5 - On arrows
 
-### i
+### i. Shaft
 
 The best arrows should possess the following characteristics. They should be roundly hewn, be of hard, solid wood, and be entirely devoid of knots, splinters, and pitting. They should be free from distortion and rotate quite evenly when twirled on the finger nail, especially when you spin them [with right finger and thumb] as they rest upright on their heads [in the centre of the right palm]. The swiftest arrows are those of slim contour with low fletchings and thick fore-shaft (*muṣaddar*; see Glossary). An arrow of this description is termed a [candle-form] (*qālib ash-sham'ah*). It should be thickest at the arrowhead and then gradually taper until it reaches its narrowest at the base of the nock. The nock (*fūq*) should be circular and of the same size as the thickest part (*badan*) of the shaft. The most accurate arrows are of the ‘barley-grain’ contour (*qālib ash-sha'frah*) with a middle thicker than the ends. They should be equipoised when balanced without head or fletchings. Straight-hewn (*mustawi n-naḥt*) arrows are those of uniform thickness from end to end. As long arrows they are inferior to the other two types, but as short they are better than either. (Short arrows are presumably those for use with an arrow-guide or with a crossbow as opposed to the normal ‘long’ arrows.)
 
 The nock should be of medium size, for a thick nock will slap the grip, and you will then spoil your shot. The thin nock, on the other hand, is weak (and will readily break). For short arrows the archer should put a thread around the circumference of the string and then, dividing it into three, make the nock the size of one of these thirds. It follows from this observation that as every bow has its own particular string, the arrow nock should in each individual case be one-third of its circumference. In the same way you also determine the size of a crossbow nut (*jawzah*) and its aperture (i.e. in the crossbow). This will be dealt with later. *Khart* arrows (?) are useless.
 
-### ii
+### ii. Arrowheads
 
 Specialists say that the most suitable heads for both *maydāni* arrows and *yaghliq*, or war, arrows are those with a weight one-seventh of that of the whole shaft plus its head (*naṣl*). Anything short of, or in excess of, this specification is wrong. For, if the head is too heavy, the arrow will gad (*taḥarraka*) on its descent to the mark, while if it is too light it will gad as soon as it leaves the string. This is quite apparent in the case of crossbow bolts. The heavier the head, the more effective it is at short range, [but at long range it will topple and do little damage].
 
@@ -16,7 +16,7 @@ The most reliable and effective arrowheads are those which are either triangular
 
 The art of mounting the arrowhead lies in observing the following rules, The head should be evenly rounded on all sides, no one side being heavier than another. It must be so made that it is perfectly straight from its point to the end of its tang (*silān*), the end of the tang being narrower than its base. The wood of the shaft should be bored [right in the centre] to a distance that is less than the length of the tang of the arrowhead so that its end can be inserted into un-bored wood in its natural state (*khām*) (and so fit tightly). The war head, and indeed any arrowhead designed to penetrate iron, should be made of steel. In these cases the tip must be tempered, and a fraction snipped off if it is intended to pierce laminae of armour. This technique is a well-guarded secret, and the result a weapon capable of piercing armour plates and shoulder-guards. The heavier it is, the greater its power of penetration. This is well known.
 
-### iii
+### iii. Fletchings
 
 As regards fletchings (*rish*), there are different types. The best and most serviceable are vulture feathers, after which come those of the eagle. Right-handed feathers make more accurate arrows and are suitable for *maydānis*. Left-handed feathers, on the other hand, give a swifter arrow and are suitable for flight and war arrows. The way to distinguish the right-handed from the left-handed is to put the nock of the arrow to your breast, and if the feathers lean over to the right, they are right-handed, whereas if they lean over to your left, they are left-handed (the converse is the case in English practice). It is wrong to fletch the one arrow with both types.  It should be fletched either wholly with right-handed feathers or vice versa. The rule for a set (*nadab*) of *maydāni* arrows is to have them all exactly alike. For when feathers differ in kind none of the arrows are any good. The most useful fletchings are the *makyūl* or ‘balance pan’ (?) variety closely followed by ‘gazelles’. The longest fletchings should be no more than six finger-widths and the shortest three. Fletchings that are long and low (*lāṭi*) are better than those which are short and high (*'ālt*). At their highest they should be no more than a finger-width. Four feathers hold a truer course and give better grouping and greater accuracy, but three are faster and give greater range (*asbaq*). There are some archers who use six feathers, three low and small and three high and long, but too many feathers retard an arrow.  For best results there should be one-half of a finger-width between the feather and (the beginning of) the nock. The feather should be cut from the base, and the tips left like those of a swallow’s wings. On a flight arrow you fit only three fletchings.
 
@@ -28,17 +28,17 @@ The centre portion of a feather gives a better fletching than either of its two 
 
 In one of the Maghrebi manuals [on archery] the author says that the skilful archer should fletch some of his arrows from the right wing and some from the left so that if he is shooting and the wind then comes in from his left, he can shoot with fletchings taken from the right wing.  If, on the other hand, the wind comes in from his right, he can shoot with left-handed fletchings.  Under such conditions arrows so fletched are more suitable and will not fall short as others not so fletched will do. The author also says that one should bend the rear end of the feathers in the direction to which they themselves incline, for if they are bent over backwards (i.e. as opposed to bellywise), they will cause the arrow to gad. If one spirals them too much, however, the arrow will fall short in its course. The best fletchings are tail-feathers.
 
-### iv
+### iv. Arrow Length
 
 Archers differ on the size of the arrow an archer should use. The correct measurement should be such that it will allow the archer at full draw comfortably to bring the head of the arrow to the distal phalanx of the thumb at the centre of the bow’s grip as the middle phalanx of the right index finger (*shahādah*) is brought right back to the lobe of the ear. The right elbow should be on a level with the shoulders, as also the hand grasping the bow. All should be on the same level (ie. in the horizontal plane), none of these parts being higher [or lower] than another. The optimum, then, is the length of the draw (*jadhb*) of which an archer is capable and which will at the same time permit a graceful appearance. The whole person should be evenly poised by which, [to repeat,] is meant that the right elbow, the shoulders and the left fist should be on the one level, none of these parts of the body being higher or lower than another.
 
 The length of the *maydāni* arrow in our time and country (i.e. Syria) is, in terms of the carpenter’s cubit, one and one-eighth cubits and one-half of a girar (30 in.). Such an arrow is called *tamām* (‘full length"). This measurement, of course, is intended for really medium men.  A tall man (with long arms) will have to have it longer, while a short one (with short arms) will be unable to bring it to full draw (*'ajaza ‘an istifā ihi*) and will in consequence have to have it shorter. The war arrow should be one *qirāṭ* (1.1 in.) less (i.e. than the standard *maydāni*).
 
-### v
+### v. Balance
 
 To find the correct balance (*awzān*, lit. ‘weights’; he means the correct position of the centre of gravity), first place the arrow across the left index finger [with the nock towards the palm of the hand] and balance it. When it is evenly poised like the beam of a balance, reduce the length of it by a fist [by grasping it with your left hand, your little finger being placed] at the fletching end. This is to be done without allowing any shift in the balance already established. Next, with another arrow you measure the distance from the nock (*kāz*) to the little finger and then, by reversing this gauge, measure the same distance from the arrowhead. If the point which was on the little finger now reaches the left index finger (*sabbābah*) - some say the middle finger - the arrow is correctly balanced (in other words, the centre of gravity should be half a fist, or slightly less, towards the head from the middle of the arrow). If [the measure] reaches beyond [the left index finger], the head is too heavy, while if it falls short, it is too light.
 
-### vi
+### vi. Nock
 
 The nock (*kāz*) should be of medium size, neither too small nor too big. The arrow for use with the *jarkh* should [easily fit into] the nut and neither shift about in it nor fit too tightly.
 
@@ -53,7 +53,7 @@ The more slender, or thinner, an arrow, the greater its velocity, whereas the th
 Arrows may be divided into two basic types: (a) the long arrow (*sahm ṭawil*, or collectively, *nushshāb*), measuring about 30 in. in length and designed for use with the hand bow, and (b) the short arrow (*sahm qaṣir*). Originally intended to be shot from the normal hand bow by means of an arrow-guide (*majrā, mijrāt*, on which see Ch. 26), the ‘short arrow’ amounted to what we should in fact call a dart. A term frequently applied by our author to darts is *nabl*  (singular: *nablah*), a word which he regularly uses also in the sense of ‘crossbow bolts’. Measuring about 16 in. or less, both darts and bolts were of a number of different kinds and appear to have been named according to the salient features of their design or performance, etc.
 
 
-### 1. Long Arrows
+### i. Long Arrows
 
 (a) *Yaghliq*, or *harbi*. This was the war arrow, the head of which was virtually a spike of square or triangular cross-section. This design was the most effective for the penetration of armour and mail. Although well made, it would have been a mass-produced article manufactured to a standard specification, unless specially ordered for persons of importance. Before an engagement the ordinary archer would have been equipped with a quiverful of selected arrows most suited to his needs, but, his quiver once emptied, he would have had to accept whatever the supply-train or arsenal had to offer.
 
@@ -67,7 +67,7 @@ Arrows may be divided into two basic types: (a) the long arrow (*sahm ṭawil*, 
 
 (e) *Ḥaydari*. In our view the term is suspect; it seems very probable that we should read *janwari* ‘animal, for usc against animals’, i.e. a hunting head.
 
-### 2. Short Arrows
+### ii. Short Arrows
 
 (a) *Darts*. References to these devices are frequent in Arab works on archery. Although they would appear to have lacked the weight to penetrate armour or mail, we can at least be sure that they were effective as a harassing device, especially against unprotected horses of enemy cavalry. Practical trials show that they are projected at a high velocity with a low trajectory. This factor makes for accuracy, and at short range they would certainly have been most unpleasant to face. At long range it would have been possible for massed archers to put down a barrage of such missiles as far as about 400 yards.
 
@@ -77,9 +77,9 @@ Arrows may be divided into two basic types: (a) the long arrow (*sahm ṭawil*, 
 
      From this last sentence it would seem that the long arrow was 4 spans long. As it measured 30 in., the span would be about 7.5 in.
 
-(b) *Crossbow bolts*. The relevant portions follow closely upon those concerned with darts. The specifications that are given relate to bolts for use with particular crossbows the detailed construction of which is not known to us. Those mentioned are (a) the *'aqqār* ‘murderer’, which, if the definitions of Cahen and Huuri are valid for the context, was a crossbow drawn by placing the feet on its limbs, and (b) the *rikāb* ‘stirrup’, which, as its name indicates, was the stirrup bow mentioned previously, as *qaws ar-rikāb*. The details may be summarized as follows:
+(b) *Crossbow bolts*. Manuscripts C & D group again supply some information. The relevant portions follow closely upon those concerned with darts. The specifications that are given relate to bolts for use with particular crossbows the detailed construction of which is not known to us. Those mentioned are (a) the *'aqqār* ‘murderer’, which, if the definitions of Cahen and Huuri are valid for the context, was a crossbow drawn by placing the feet on its limbs, and (b) the *rikāb* ‘stirrup’, which, as its name indicates, was the stirrup bow mentioned previously, as *qaws ar-rikāb*. The details may be summarized as follows:
 
-     Crossbow bolts (*nabl qaws ar-rifl*) should be the length of the distance from the (fore?) end of the grooved guide (*majrā*) along the top of the stock to the nut. (The length would have been in the order of 12 in.) For shooting at short ranges they should be 2 fingers shorter. In the case of the *‘aqqār* the (head of?) the shaft should be level with the breast of the stock (*ṣadr al-gaḍib*; i.e. presumably, the front end) for precision shooting and opposite the pin (*mismār*) for distance. For shooting at short range a bolt should have a socketed head (*bazlah*) of iron weighing 3 *dirhams* (142.8 gr.) with a shaft (*sahm*) of 6 *dirhams* (285.6 gr.). This is the right size for the *rikāb*. For the *‘aqqār*, on the other hand, the weight of the bolt head should be 31 *dirhams* (166.6 gr.) and the shaft (*khashab*) 7 *dirhams) (332.2 gr.). In D, it is held that an arrowhead with a tang driven into the shaft with glue and bound with sinews is stronger and more effective than a socketed head (which is always liable on impact to break the shaft at the shoulder of the socket) and will admit of great accuracy.
+     > Crossbow bolts (*nabl qaws ar-rifl*) should be the length of the distance from the (fore?) end of the grooved guide (*majrā*) along the top of the stock to the nut. (The length would have been in the order of 12 in.) For shooting at short ranges they should be 2 fingers shorter. In the case of the *‘aqqār* the (head of?) the shaft should be level with the breast of the stock (*ṣadr al-gaḍib*; i.e. presumably, the front end) for precision shooting and opposite the pin (*mismār*) for distance. For shooting at short range a bolt should have a socketed head (*bazlah*) of iron weighing 3 *dirhams* (142.8 gr.) with a shaft (*sahm*) of 6 *dirhams* (285.6 gr.). This is the right size for the *rikāb*. For the *‘aqqār*, on the other hand, the weight of the bolt head should be 31 *dirhams* (166.6 gr.) and the shaft (*khashab*) 7 *dirhams) (332.2 gr.). In D, it is held that an arrowhead with a tang driven into the shaft with glue and bound with sinews is stronger and more effective than a socketed head (which is always liable on impact to break the shaft at the shoulder of the socket) and will admit of great accuracy.
 
 ### 3. The Spinning Test
 
@@ -90,7 +90,6 @@ The technique described here is termed *idrār* by Ibn Sidah who says that, when
 ### 4. Weight of Long Arrows
 
 In our text nothing is said about this very important topic, but some information is offered in the C & D manuscripts. We summarize here some of the weights supposedly specified by the ever-quoted Ṭāhir al-Balkhi. The ranges given obviously refer to effective target ranges and not to maximum ranges. (In the first column the weights are those of the Baghdad standard, on which see Appendix 1.)
-
 
 === OH GOD FIX THIS WHEN FEELING LESS GRUMPY ===
 

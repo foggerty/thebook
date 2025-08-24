@@ -14,7 +14,7 @@ If you have mastered the art of following through with a forward and downward mo
 
 ## Trannslators’ comment
 
-### 1. General
+### i. General
 
 Basically, the arrow-guide is a simple piece of equipment designed to cnable the archer to draw an arrow inside the bow and therefore shoot arrows or darts that would otherwise be too short for his draw. Faris and Elmer, who were the first in modern times to discuss the nature of this interesting device, rightly consider it to be ‘one of the most important discoveries in modern toxophilitic research’ (*Arab Archery*, p. 174).
 
@@ -28,13 +28,13 @@ It is difficult to say precisely how much truth there is in the assertion that d
 
 The archer using a simple guide could quickly change to normal arrows whenever he wished.  In this connection it is worth noting that in existing Chinese quivers, for instance, there are often as many as four compartments to accommodate different types of arrow. Although we ourselves have found no mention of any similar practice among archers of the Middle East, we do not discount the possibility of its existence.
 
-### 2. Some Forms of Arrow-guide
+### ii. Some Forms of Arrow-guide
 
 We know of no surviving example of a Middle Eastern guide. The Koreans, however, used the same device, and a good Korean specimen is included in the Ingo Simon Collection, Manchester Museum, No. O.7728 (Pl. 17). Made from a length of bamboo about 0.5 in. in diameter, it is 28.5 in. long. Viewed in cross-section, it is slightly more than semicircular, and at the rear end there are, as can be seen in the plate, two holes through which a cord or thong was threaded for retaining in the archer's drawing hand. This article represents the guide in its most simple form. Locking in the usual way on both guide and dart, the archer drew both items together. When the string was loosed, the dart was driven down the guide which remained in the drawn position, held by the cord in the fingers of the right hand.
 
 According to *Arab Archery*, there were four kinds of guide: square, round, hexagonal, and octagonal (p. 126). How these compared, or whether they corresponded, with the first five listed by Ṭaybughā, it is impossible to say. That known as the ‘pen’ may have been so called because of its appearance, for we learn from *Arab Archery* that ‘the end of the guide which is toward the bowstring at the time of shooting should be slightly thinner than the other end and should also be pointed like a pen’. The Shape of the rear end of the Korean guide could be roughly described in the same terms. Some clue to the nature of the *jarād*, or ‘locust’, may, we suspect, be contained in Mardi’s description of the ḥusbān*, or ‘hailstone’. The latter was a tubular device accommodating a horn runner with stud-like projections riding in a slot on one side. Its missiles whose description agrees with that given elsewhere of ‘locusts’ (like ‘hailstones’, a descriptive term from which the guide in each case takes its name) were the length of the little finger. A number of them could be loaded, one after the other, through a hole near the rear end of the guide, which thus amounted to a breech-loading dart projector. When loosed, the runner ejected the darts, which, once discharged, we are told, scattered ‘like locusts’, Although small, light missiles of this kind can have had little penetrative power, we can imagine their nuisance value as a means of harassing unprotected horses or men.
 
-### 3. The ‘King-guide’
+### iii. The ‘King-guide’
 
 The original form of the ‘king-guide’ as described in our text is reasonably clear.  It was a tubular piece of equipment slotted on opposite sides. The slot in what would be the upper surface when the guide was in use had to be wide enough to admit a dart. That in the lower surface, on the other hand, needed only to be of sufficient width to permit the bowstring free passage.
 
@@ -44,7 +44,7 @@ The modified ‘king-guide’ evidently combined the idea of the original with t
 
 The stirrup which was incorporated in the modified ‘king-guide’ would have permitted a more powerful draw than any that could be achieved with the thumb, but the claim that it could do twice as much damage as the *jarkh* must be taken with a grain of salt. That it was effective for shooting *jarkh* bolts if handled by persons not guilty of ‘bad shooting, incompetence, and witlessness’ is probably nearer the truth.
 
-### 4. An Experimental Guide
+### iv. An Experimental Guide
 
 In the course of many experiments conducted both by ourselves and others the most effective guide of which we have had experience is one constructed by E. G. Heath whose interest and assistance we gratefully acknowledge. Made from well-seasoned beech, it is 31 in. long and rectangular in cross-section. The internal width of the channel is 0.5 in. and its depth a little less than 0.25 in. Practical experience has proved the measurements adequate. The rear end tapers ‘like a pen’, and a cord is fitted 1.5 in. from the tip. In accordance with one of the methods advocated in *Arab Archery* (p. 126) the cord is tied to a ring which fits on the ring finger during shooting.
 

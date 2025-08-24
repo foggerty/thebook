@@ -52,7 +52,7 @@ Bracing the highly reflexed Oriental bow can be difficult. Roughly C-shaped when
 
 Although reflexed composites will tolerate a surprising degree of flexure, any unfair stress or strain can easily result in breakage, and for this reason bracing demands great care, The object of any method is to exert equal pressure on the two siyahs as the grip is forced in the opposite direction.
 
-### 1. Ways of Bracing
+### i. Ways of Bracing
 
 So far as can be judged from Middle Eastern sources consulted by us, the ways of bracing a composite bow were far more numerous than our text might lead us to suppose. It was asserted by some authors that there were no less than one hundred, and a certain Muḥammad ibn al- Ḥasan al-Harawī even wrote a work in which he described one hundred and twenty - most of which, however, are said to have been repetitious and useless (*Arab Archery*, p. 29). While not proposing to follow al-Harawī's example, we nevertheless venture to illustrate the point by mentioning some methods not indicated in the preceding chapter. For convenience let us begin by comparing our ten with the twelve methods indicated in Arab Archery (pp. 30-37). These may be summarized as follows:
 
@@ -71,29 +71,29 @@ So far as can be judged from Middle Eastern sources consulted by us, the ways of
 
 One method to which there is no reference in our text, but which is described in manuscripts of the B group, is worthy of mention - due account being taken of some evident confusion between right and left. Holding one neck of the bow with its loop in place, the archer takes the other loop between his teeth. Passing the bow between his thighs, he lodges it beneath the left and applies his left hand to the neck that is free, firmly setting the neck in his right hand on the right thigh, The neck once steadily in place on that thigh, the archer takes the loop from his teeth with the right hand, exerts pressure with the left, and slips the string in the nock located in the neck that is pressed against the left thigh. The great advantage of this method is stated to lie in the fact that the archer may put a stronger limb beneath his thigh to reduce its strength and in this way balance the two limbs, albeit after several attempts. The method could also be used by a horseman.
 
-### 2. The Relative Ages of Bow and String
+### ii. The Relative Ages of Bow and String
 
 When referring to the age of a bow in relation to its string, Ṭaybughā may have in mind either the fitting of a completely new string to a bow or the changing of a used string from one bow to another. In a new string there is usually a small degree of stretch to be removed. Normally this should come out within a few seconds of fitting it to the braced bow, which should then be carefully watched lest a little too much stretch render it unstable. Should this happen, the string should be removed and shortened by adjustment of the loop-knots so that when it is fully stretched the length will be correct. Slightly more stretch can be expected to occur during the first few shots, after which the string should settle and no more adjustment be needed.
 
 It will be recalled that the bracing height, or distance between the grip and the string of a braced bow, must be constant. A small variation will affect both range and the direction in which the arrow leaves the bow. Slight though the effect may be, it is nevertheless sufficient to impair the.accuracy of the shot, and close attention is needed until the string is fully stretched and has been ‘shot in’, Since some stretch results from the tightening of newly tied loop knots, even a well-stretched string transferred from one bow to another might give a little if the loop-knots required adjustment as a result of difference in length between the two bows concerned.
 
-### 3. Aids to Bracing
+### iii. Aids to Bracing
 
 (a) *Kharkumān*. We do not know the exact form of this device, but there is almost no doubt that it was a bracing-board. The term is a loan word from the Persian compound *khar* + *kamān*.  The latter presents no difficulty; it is the regular word for ‘bow’. The former has several meanings of which the most apt in this instance would appear to be ‘a bridge’ as for a stringed instrument.  The bracing device would consist of a board with a bridge, or central upright support, which would be at right angles to the grip of the bow when raised in bracing. The support would be absolutely rigid and the top padded to avoid damage to the grip. Such a device could not be carried around by an archer, but it would be reasonable to expect its inclusion in the equipment of baggage-trains, arsenals, and bowyers’ workshops.
 
-(b) *Barshaq*. This term - also from Persian - appears to denote an appliance amounting to little more than a kind of binding to secure the string to the *siyah*. It is defined in manuscript a, as ‘a strap or cord about one and a half spans (about 11 in.) in length. Once it was tied at the ends, the bow could be inserted, the purpose being to hold the weak limb’. The exact details of its application are uncertain, but it seems from this description to have been a kind of loop which could be slipped over the styah and tightened in some way.
-
+(b) *Barshaq*. This term - also from Persian - appears to denote an appliance amounting to little more than a kind of binding to secure the string to the *siyah*. It is defined in manuscript a, as ‘a strap or cord about one and a half spans (about 11 in.) in length. Once it was tied at the ends, the bow could be inserted, the purpose being to hold the weak limb’. The exact details of its application are uncertain, but it seems from this description to have been a kind of loop which could be slipped over the styah and tightened in some way.\
+\
 If one limb of a bow were unstable, there would be some advantage in securing the string to that limb for the purpose of bracing and retaining it until the bow settled. It could be that the *barshaq* was so used, and that upon its removal the bow was immediately fit for use. Alternatively, it might have been applied and left awhile to correct a fault when it would have been inopportune to light a fire to remove some slight distortion by the application of heat.
 
 A number of devices for correcting faults in bows are known to have existed, but here is not the place to accord them the space that would be required by a detailed discussion.
 
-### 4. Defects in a Bow
+### iv. Defects in a Bow
 
 Of the two major defects that bracing may reveal, the first is weakness in the neck. Because of the form and shape of the bow, the neck has a natural tendency to lateral displacement. Its inherent stiffness normally militates against this, but if any weakness develops, it can occur. At best there will be slight lateral displacement of the neck so that its mid-line will not lie in the same plane as that of the string. When a braced bow is sighted from one end to the other, the string should appear to bisect the bow along its entire length. If, however, the neck is displaced it will not do so. Should side-warping of this kind not be detected and the bow be drawn, the defective limb will be subjected to a most severe twisting strain and possibly break.
 
 If the worst happens, the neck will twist violently round when the bow is braced, the string will slip past it, and the bow spring back to its unbraced form or capsize. Apart from the risk of damage to the bow, such an occurrence can have unpleasant consequences for the user, who may be struck with some force by one of the *siyahs* as it flies back. Hence the warnings given by our author to the archer to keep a firm grip on the bow until he is sure it is stable and has settled to the string.
 
-### 5. Heat Treatment of Bows
+### v. Heat Treatment of Bows
 
 Once a twist has developed in the limb of a bow, it may force the neck out of line with the results already described, and even if it does not do so, unfair strain will be thrown on to the bow. Before bracing a composite bow, the archer should therefore assure himself of its soundness in this respect. To test it, he should hold it by one of its ends and align the two *siyahs*. If, when viewed from end to end, they are in the same plane, the bow may be braced. If, on the other hand, they appear to cross each other, the defect must first be remedied,
 
@@ -101,7 +101,7 @@ Provided that the distortion is not excessive, correction presents little diffic
 
 The curvature of the two limbs can be balanced in the same way. If imbalance is present and cannot be corrected by the simple application of pressure after bracing, the stiffer limb must be warmed before bracing. The amount of heat required and the time allowed for the bow to warm are largely a matter of judgement based on experience, but with a little practice the technique is not difficult to master.
 
-### 6. The Mould
+### vi. The Mould
 
 If the distortion in a bow is excessive, it may not be possible to remedy the defect simply by heat and manipulation, and in these circumstances one has to resort to more forcible means such as the use of a mould. We do not know the nature of the mould used by the Mamelukes, but, whatever its form, such a device would only be found in a baggage-train, arsenal, or craftsman's workshop. One kind of mould with which we are familiar is the Ottoman *destgāh*. Basically, it is a board in which a number of slots are cut to grip different parts of the bow. The bow would be warmed as for simple heat treatment, and the offending section placed in the appropriate slot. The archer or bowyer could then apply a very strong twist, which, as our author points out, must nevertheless be done carefully and adroitly. Whatever the form of mould used by the Mamelukes, the principle must have been the same as that of the *destgāh*, even though the device itself may have been more or less elaborate. There is a suggestion in our text that heat may have been applied while the bow was in the mould as the archer is warned not to burn the bow. This could be taken to imply that the bow was strapped to the mould after the application of a correcting twist, then heated rather more strongly, allowed to cool in the mould, and finally removed,
 

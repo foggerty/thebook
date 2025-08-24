@@ -6,9 +6,9 @@ Texts (emended where necessary):
 
 [*Nushshāb* is a collective term applied to arrows complete with wood, fletchings, and head. Each type has a name of its own. The singular of *nushshāb* is *nushshābah*. *Nushshāb* are also called *sihām* (singular: *sahm*), a term covering arrows of all kinds. The wood is called *qidḥ*, the head *naṣl*, the fletchings *qudhadh*, of which the singular is *qudhdhah*. The *fūg* is the nock into which the string fits and which is called *kāz* in Turkish.]
 
-[C: The bulges on each side of the nock are called *sharkhāni* (singular: *sharkh*). The nock sinew is called *uṭrah* (frame, cuticle’) by the Arabs, and the part from the base of the nock to the place where the fletchings begin is termed *farāwan* (? : *farāzān*) (a).
+[C: The bulges on each side of the nock are called *sharkhāni* (singular: *sharkh*). The nock sinew is called *uṭrah* (frame, cuticle’) by the Arabs, and the part from the base of the nock to the place where the fletchings begin is termed *farāwan* (? : *farāzān*) (*a*).
 
-The fine part on which the feathers are set is called *ḥaqw* (‘waist’) (b), and the thread that is laid over the end of them is called *sharijah* (c). The portion of the arrow which runs from below the fletchings to the middle of the shaft is called the *matn* (‘body, main part’) (d) or *kulyatāni*: (‘Kidneys’) (e), this portion being the thickest part of it. From this portion to the arrowhead there is what is termed the *ṣadr* (‘breast’), or foreshaft (f). The sinews at the arrowhead are known as *riṣāf* (singular: *raṣafah*). (g)]
+The fine part on which the feathers are set is called *ḥaqw* (‘waist’) (*b*), and the thread that is laid over the end of them is called *sharijah* (*c*). The portion of the arrow which runs from below the fletchings to the middle of the shaft is called the *matn* (‘body, main part’) (*d*) or *kulyatāni*: (‘Kidneys’) (*e*), this portion being the thickest part of it. From this portion to the arrowhead there is what is termed the *ṣadr* (‘breast’), or foreshaft (*f*). The sinews at the arrowhead are known as *riṣāf* (singular: *raṣafah*). (*g*)]
 
 [D: The socket (*madkhal*) of the arrowhead is the front end, or head (*ra’s*), of the arrow. (h)]
 

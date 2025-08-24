@@ -2,7 +2,7 @@
 
 Although there are many kinds of bow, there are basically only two: the hand bow (*gaws yad*) and the crossbow (*qaws rijl*).
 
-### i
+### Hand bows
 
 There are many kinds of hand bow. There is the old [Beduin] Arab bow, which they used to make of *nab'* (*Grewia poplifolia*) and also of *shawhaṭ*, which is the same as *murrãn* (*Cornus mas*).  This bow was made either of one stave or two [jointed together]. The ancient Arab poet says:
 
@@ -30,7 +30,7 @@ Analysis of the length of the bow should be in the following measurements: the u
 
 Flight bows (*qisiyy as-sabq*) should have short limbs, long necks, and speed of recovery (*[sur'at] at-tarjih*). The way to string bows of this type is first to straighten out the curvature of tbe neck and *dustār* on each side (i.e. by retracting the *siyahs* from the reflexed position) and then to flex [simultaneously] and to the same degree the centre of each limb. For every ten *ratls* (18.5 kg., 40.7 lb.) of bow weight there should be one *dirham’s* weight (3.08 grams, 47.6 grains) of silk for the string, such material being raw, wound silk that is new and extremely strong. Such is the information that we have on the subject.
 
-### ii
+### Crossbows
 
 Crossbows are of different types. The Franks, for instance, have the *jarkh*, the Maghrebis (North Africans) the *laqshah*, the Persians and Turks the *zanbūrak* and Islam (the Mamelukes?) the *bandūg*. Crossbows of this type (*or* ‘the last-mentioned type’; the text is not clear) are the most useful for land-forces. For naval operations, on the other hand, the most useful type is that made of yew (*taqs*). The limb of this weapon should be made of two opposing staves (i.e. presumably, one of two halves of a split length is reversed and joined to the other), and its stock should be of boxwood or orange.
 
@@ -42,9 +42,9 @@ If it so happens that the archer can only get a bow that is too thin in the hand
 
 So far as the power of the bow is concerned, authorities on archery are agreed that the skill of the archer entirely depends upon his using a bow that is within the limits of his own strength and physical power. In time past archers have only been concerned with those points on which they differed and prided themselves, namely, technique and grouping (*jam*'), without anyone ever mentioning so much as a word about the strength of the bow. Nevertheless, it is said that one should not shoot with a bow unless it is less powerful than himself and that no one ever shot with a bow that was even a fraction too strong for him without its revealing his faults and incapacity, doing him harm, ruining his shooting, and emboldening his rival without his knowing it.
 
-## Translator's Comment
+## Translators' Comment
 
-There is a striking omission in the preceding text: our author offers no glossary of the terminology applicable to the anatomy of the bow, such as is to be found, for example, in *Arab Archery*, pp. 13-16. In the C * D groups of manuscripts the subject is discussed, but we suspect the relevant section to have been drawn from some other literary source and inserted for the sake of completeness, Since we have reason to doubt whether *all* the terms listed were valid for the time and place with which we are here concerned - indeed some may well have been unknown to Ṭaybughā - we relegate them to Appendix 2.
+There is a striking omission in the preceding text: our author offers no glossary of the terminology applicable to the anatomy of the bow, such as is to be found, for example, in *Arab Archery*, pp. 13-16. In the C & D groups of manuscripts the subject is discussed, but we suspect the relevant section to have been drawn from some other literary source and inserted for the sake of completeness. Since we have reason to doubt whether *all* the terms listed were valid for the time and place with which we are here concerned - indeed some may well have been unknown to Ṭaybughā - we relegate them to Appendix 2.
 
 ### Old Arab Bows
 
@@ -100,7 +100,7 @@ From our text, as it stands in the A & B manuscripts, one is apt to conclude mer
 
 Our author says nothing whatever about the painting of bows, but in the D manuscript, there is an addendum to the text giving instructions for the painting of bows with *ṣandarūs* - presumably, sandarac, a colourless resin from the tree of that name. The directions may be summarized as follows:
 
-Mix any desired colour with liquid sandarac, Apply and allow to dry off. Next, apply a varnish of pure sandarac and dry off. Now coat the surface with strong (? text uncertain) ox-gall. Apply paint of another colour to give, for instance, white on black, or red on green, or blue on red, and then place in the hot sun. When appropriate, sprinkle carefully with wine vinegar to bring up the colours in the design and dry off. Next wash off the gall and dry. Now apply sandarac by itself and leave. If desired, apply another colour in similar fashion.
+> Mix any desired colour with liquid sandarac, Apply and allow to dry off. Next, apply a varnish of pure sandarac and dry off. Now coat the surface with strong (? text uncertain) ox-gall. Apply paint of another colour to give, for instance, white on black, or red on green, or blue on red, and then place in the hot sun. When appropriate, sprinkle carefully with wine vinegar to bring up the colours in the design and dry off. Next wash off the gall and dry. Now apply sandarac by itself and leave. If desired, apply another colour in similar fashion.
 
 ### Dimensions of Bows
 
@@ -156,7 +156,7 @@ Another type of crossbow - possibly a later development - required the use of on
 
 Because of the relative instability of nomenclature and technical and semantic developments, it would be unwise to be dogmatic about the meaning of certain terms used by our author in connection with crossbows. Some information on Middle Eastern crossbows and arbalests may be derived from Reinaud, Huuri, Cahen, and others, but there is insufficient technical detail to enable us to determine their construction.
 
- * *Jarkh*: From Ch. 16 and glosses in CD it is clear that, so far as our author is concerned, this was the stirrup bow. It shot a bolt.
+ * *Jarkh*: From Ch. 16 and glosses in manuscripts C & D it is clear that, so far as our author is concerned, this was the stirrup bow. It shot a bolt.
 
  * *Zanbūrak*: ‘little wasp’. What meaning the term had for our author we cannot say. It appears, at some stage or another, to have been a weapon which shot a strong, heavy bolt of the same name closely resembling the Western quarrel.
 

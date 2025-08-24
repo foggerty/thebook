@@ -2,10 +2,9 @@
 
 ## MANUSCRIPTS (Move to beginning?)
 
-In the introduction we have described the British Museum codex on which this work is based and, in general terms, defined and discussed the various groups of MSS used to control, correct, or otherwise improve the text and add to our knowledge of its subject matter. Restricting ourselves to bare essentials, we now give particulars about individual MSS, the groups into which we have placed them, and the meaning of the symbols by which we refer to them.  Further information about them can be found ín sources indicated in parentheses following the indication of date, and, in the case of the Istanbul MSS, the reader should consult Ritter, Zs/., XVIII, 1929, pp. 137 ff.
+In the introduction we have described the British Museum codex on which this work is based and, in general terms, defined and discussed the various groups of manuscripts used to control, correct, or otherwise improve the text and add to our knowledge of its subject matter. Restricting ourselves to bare essentials, we now give particulars about individual manuscripts, the groups into which we have placed them, and the meaning of the symbols by which we refer to them.  Further information about them can be found ín sources indicated in parentheses following the indication of date, and, in the case of the Istanbul manuscripts, the reader should consult Ritter, Zs/., XVIII, 1929, pp. 137 ff.
 
-1324Before proceeding to details we draw special attention to the following point: in the case of groups A, C, and D, the unqualified usc of the letter assigned to the group indicates that it denotes all MSS within thar group. Its meaning in the case of the B group will be explaincd when we come to it.
-
+1324Before proceeding to details we draw special attention to the following point: in the case of groups A, C, and D, the unqualified usc of the letter assigned to the group indicates that it denotes all manuscripts within that group. Its meaning in the case of the B group will be explaincd when we come to it.
 
 A Al: British Museum, Add, 23489. No date, but probably early fifteenth century, if not end of fourteenth, (Catalogus codicum manuscriptorum orientalium . . . Pars secunda..., Londini, 1846 (-1871), pp. 667-68. Fox descriptions,
 
@@ -13,7 +12,7 @@ A Al: British Museum, Add, 23489. No date, but probably early fifteenth century,
 
 At: Cambridge University Library. MS Qq.240 (7). Date: 886/1481. (E. G. Browne, A Hand-List of the Muhammadan Manuscripts, etc., Cambridge, 1900, p. 127.) This is a badly written and defective copy, apparently transcribed from the same source as At and frequently more word-perfect, but containing more or less the same lacunae as their common source. It becomes very defective towards the end.
 
-1326 a o: Istanbul, Aya Sofya, 2902 mük, [=i]. Date: 802/1400, (Ritter, op. Cit., p. 139. See also above, p. xxxvii.)  B To save space we quote only the two main representatives of this group (see B, below) unless there is complete unanimity in all MSS or unless there is some special reason for doing otherwise (e.g. because B! is at variance with B7). It should be noted that, unlike A, C, and D, B does not denote all MSS of the group, This is either so termed er, where appropriate, indicated by Bb. The following expedients are adopted:
+1326 a o: Istanbul, Aya Sofya, 2902 mük, [=i]. Date: 802/1400, (Ritter, op. Cit., p. 139. See also above, p. xxxvii.)  B To save space we quote only the two main representatives of this group (see B, below) unless there is complete unanimity in all manuscripts or unless there is some special reason for doing otherwise (e.g. because B! is at variance with B7). It should be noted that, unlike A, C, and D, B does not denote all manuscripts of the group, This is either so termed er, where appropriate, indicated by Bb. The following expedients are adopted:
 
 
 B denotes B'B* b s bibib?b! (abbr. b!)
@@ -59,7 +58,7 @@ Cf, A*, 1a-2b; a, rb-22; B!, rb-2a; B?, 4b-52; b!, rb; b", 1b-2b; bì, 1b-2a; b*
 1335 CHAPTER 1 3a-10b
 
 
-Cf. A*, 2b-12b; a, 2a-9b; B!, 237b; B*, a-10a; bi, rb-5b; b*, 2b-r1b; b, 2a-5b; bf, 89b-932; b, rb-4a. In the various MSS there are textual differences which cannot be discussed here.
+Cf. A*, 2b-12b; a, 2a-9b; B!, 237b; B*, a-10a; bi, rb-5b; b*, 2b-r1b; b, 2a-5b; bf, 89b-932; b, rb-4a. In the various manuscripts there are textual differences which cannot be discussed here.
 
 13361. For the Muslim, archery, like all human activity, must be motivated by religion. Hence, in order to serve the ends of his Islamic conscience a religious case is shaped in support of word and deed. Material similar to, and in some cases identical with, that presented by our author is to be found in other treatises, Cf., for example, Arab A PP. 3-9, 24-25; Hein, Isl, XIV, 1925, pp. 294, 300, 303, 312-13, 317, 319-29. Cf. Klopsteg, pp. 12-13 I14-16.
 
@@ -68,7 +67,7 @@ Cf. A*, 2b-12b; a, 2a-9b; B!, 237b; B*, a-10a; bi, rb-5b; b*, 2b-r1b; b, 2a-5b; 
 1337 CHAPTER 2 192-202
 
 
-Cf. A*, 23a-243; a, 11b-r2a; B!, rsb-16a; B7, 17a, 14b (folios disarranged); b!, 10a-r1a; b*, 24a-25b; b*, gb- rob; bi, 9075-982; b, 7b-8b.  1. These five points are not expressly stated, but implied in the verse with which the commentary is opened in our text. As in A'a, the opening is abrupt. In all other MSS the commentary is more smoothly introduced with subject matter of a little more genera! nature.
+Cf. A*, 23a-243; a, 11b-r2a; B!, rsb-16a; B7, 17a, 14b (folios disarranged); b!, 10a-r1a; b*, 24a-25b; b*, gb- rob; bi, 9075-982; b, 7b-8b.  1. These five points are not expressly stated, but implied in the verse with which the commentary is opened in our text. As in A'a, the opening is abrupt. In all other manuscripts the commentary is more smoothly introduced with subject matter of a little more genera! nature.
 
 1338 CHAPTER 3 20a-25b
 
@@ -100,9 +99,9 @@ ro. According to D, the hand bow is preferable because it has the support of Pro
 1344ir. Reading dina haylihi, not dina hilah, both of which are contemplated by our scribe (A!, 252, line 5).
 
 
-CHAPTER 4 25b-294 Cf. At, 31b-36b; a, 17a-202; BY, 200-242; B*, 208-224; b', 13b-155; b?, 31b- 36a; b*, 12b-14b; bt, rooa—roib; b, Lra-13a.  On bowstrings, see also Hein, Isl., XV, pp. 1-8, Kiopsteg, pp. 54-59; and Arab Archery, pp. 94-102.  1. The reading of a, supplying, in our view, a lacuna in A which in the absence of this one word reads ‘it is called “the Persian” ", In other MSS chillah is either spclied differently (e.g. B'bt*: jila} or has been corrupted. 2. From the text it is not clear whether glue was used in the Persian string. It is certainly not mentioned, and in a there i$ no mention of glue in connexion with either string. Cathayan string is there said to be ‘made of raw, wound silk with a little wax’ (x72). This reading, however, is exceptional. Some form of binding agent would certainly be needed, be it glue or wax, or, a5 in the case of Ottoman and Sino-Tatar strings, thread or twine bound around the strands, otherwise the string would become inextricably tangled when removed from the bow.  3. ‘A thin string is better for the flight bow because it increases cast... but it requires mastery of shooting, for unless the loose is clean, the arrow will flirt and lose range’ (Klopsteg, p. 55. Cf. Hein, 4:3., XV, p. 3). 4. Reading yusadda (B) for yushadda (A*, 26b, line 6).  s. According to C, the raps were held in a container of some kind or other and hung from the string by a hook.  Before each extra ratí was added the hook and container were removed. 6. Ct. D.  7. Tbe material is given in aC as hemp (cf. D) ot linen.  $. Reading twa-s-sahm khums al-watr (aB) for wa-s-sahm khams bi-I-tatr (A), 27b, line 2), The A text is cleariy corrupt and should be restored by reference to a. ‘Arrow’ as a translation of sahm is here technically inappropriate.  The word can mean ‘stave’ and in this context it must denote what is nowadays termed the ‘prod’, i.e, the stave or lathe which constitutes the actual bow as opposed to the stock Camüd).  9. In B, et al., *oa-s-salm , . . al-roatr’ is not immediately followed by a description of the method determining the lenath of the crossbow string, which is deferred until the end of the chapter and is phrased somewhat differently: ‘The way to determine the length of the string for a jarkh and similar weapons is to ascertain first the length of the bow from nock to nock . . . and then to fx twa pegs into a wall, putting a distance equivalent to five times the length of the bow between the two. You next twist the resulting string lengthwise in the appropriate manncr into four strands and knot the two loops at each end,’ Cf. a, 18b.  ro. Reading asaddu (or, perhaps, ahdā) for asda (A}, 27b, line 8) and ashda (A*) and various other corrupt readings
+CHAPTER 4 25b-294 Cf. At, 31b-36b; a, 17a-202; BY, 200-242; B*, 208-224; b', 13b-155; b?, 31b- 36a; b*, 12b-14b; bt, rooa—roib; b, Lra-13a.  On bowstrings, see also Hein, Isl., XV, pp. 1-8, Kiopsteg, pp. 54-59; and Arab Archery, pp. 94-102.  1. The reading of a, supplying, in our view, a lacuna in A which in the absence of this one word reads ‘it is called “the Persian” ", In other manuscripts chillah is either spclied differently (e.g. B'bt*: jila} or has been corrupted. 2. From the text it is not clear whether glue was used in the Persian string. It is certainly not mentioned, and in a there i$ no mention of glue in connexion with either string. Cathayan string is there said to be ‘made of raw, wound silk with a little wax’ (x72). This reading, however, is exceptional. Some form of binding agent would certainly be needed, be it glue or wax, or, a5 in the case of Ottoman and Sino-Tatar strings, thread or twine bound around the strands, otherwise the string would become inextricably tangled when removed from the bow.  3. ‘A thin string is better for the flight bow because it increases cast... but it requires mastery of shooting, for unless the loose is clean, the arrow will flirt and lose range’ (Klopsteg, p. 55. Cf. Hein, 4:3., XV, p. 3). 4. Reading yusadda (B) for yushadda (A*, 26b, line 6).  s. According to C, the raps were held in a container of some kind or other and hung from the string by a hook.  Before each extra ratí was added the hook and container were removed. 6. Ct. D.  7. Tbe material is given in aC as hemp (cf. D) ot linen.  $. Reading twa-s-sahm khums al-watr (aB) for wa-s-sahm khams bi-I-tatr (A), 27b, line 2), The A text is cleariy corrupt and should be restored by reference to a. ‘Arrow’ as a translation of sahm is here technically inappropriate.  The word can mean ‘stave’ and in this context it must denote what is nowadays termed the ‘prod’, i.e, the stave or lathe which constitutes the actual bow as opposed to the stock Camüd).  9. In B, et al., *oa-s-salm , . . al-roatr’ is not immediately followed by a description of the method determining the lenath of the crossbow string, which is deferred until the end of the chapter and is phrased somewhat differently: ‘The way to determine the length of the string for a jarkh and similar weapons is to ascertain first the length of the bow from nock to nock . . . and then to fx twa pegs into a wall, putting a distance equivalent to five times the length of the bow between the two. You next twist the resulting string lengthwise in the appropriate manncr into four strands and knot the two loops at each end,’ Cf. a, 18b.  ro. Reading asaddu (or, perhaps, ahdā) for asda (A}, 27b, line 8) and ashda (A*) and various other corrupt readings
 
-1345in other MSS.  t1. B.  12. B.  13. The text of At (29a, lines 5-6) is corrupt by reason of a lacuna. The sense, however, can be restored by reference
+1345in other manuscripts.  t1. B.  12. B.  13. The text of At (29a, lines 5-6) is corrupt by reason of a lacuna. The sense, however, can be restored by reference
 
 to B, et al.
 
@@ -157,7 +156,7 @@ I5. D. Herea long head is recommended for armour-piercing purposes. It should no
 
 could in fact make the steel brittle.
 
-1358The reading of A! (32a, line 6) is at-ta'álig ash-shVf (V2y. None of our MSS offers a reading that is really
+1358The reading of A! (32a, line 6) is at-ta'álig ash-shVf (V2y. None of our manuscripts offers a reading that is really
 
 intelligible to us, We conjecture ta‘dlig (or, less probably, ta‘alif) a5-5uft (or, as-sift) ‘appendages (or, "encasings")
 
@@ -189,7 +188,7 @@ intelligible to us, We conjecture ta‘dlig (or, less probably, ta‘alif) a5-5u
 
 30. Reading ikhtalafa aqwal ar-rumat (B) for the corrupt ikh. migdàr ar-r, (A, 34a, line 6).
 
-136631. The author expresses himself badly in Arabic, but other MSS show that this is the sense. In D a rule of thumb is given: "To form a rough idea of the correct length of an arrow, the arrowhead may be put under the archer's armpit. What he then does is to stretch out his arm along the arrow, and if the middle finger reaches the end of the nock it is right for size."
+136631. The author expresses himself badly in Arabic, but other manuscripts show that this is the sense. In D a rule of thumb is given: "To form a rough idea of the correct length of an arrow, the arrowhead may be put under the archer's armpit. What he then does is to stretch out his arm along the arrow, and if the middle finger reaches the end of the nock it is right for size."
 
 32. Specified as Egypt and Syria in a. Cf. also CD.
 
@@ -273,12 +272,12 @@ The various aspects of technique discussed in this and the following seven chapt
 
 C£. At, 53b-562; a, 30b-32a; B', 34b-36a; B*, 29b-31a; bt, 22b-232; b*, s1b-53b; b*, zob-213; b, ro7a-r6$a;
 
-1386 b, 195-202.  See Arab Archery, pp. 40-42, Hein, Isl, XV, pp. 67-68, Klopsteg, pp. 96-97; cf. Tabgrah, s0b-soa; Wadih, 28b, 36b, 42b, etc. à i. CD.  2. Implied in A, but expressed in most other MSS,
+1386 b, 195-202.  See Arab Archery, pp. 40-42, Hein, Isl, XV, pp. 67-68, Klopsteg, pp. 96-97; cf. Tabgrah, s0b-soa; Wadih, 28b, 36b, 42b, etc. à i. CD.  2. Implied in A, but expressed in most other manuscripts.
 
 
 zuo NULES AND KEFERENCES
 
-1387 3. D. In these two MSS the archer is at this point directed next to strike the shaft against the grip and to catch it with his left index finger and thumb. Ct. C.
+1387 3. D. In these two manuscripts the archer is at this point directed next to strike the shaft against the grip and to catch it with his left index finger and thumb. Ct. C.
 
 4. CD. Cf. Arab Archery, P- 41.
 
@@ -294,7 +293,7 @@ zuo NULES AND KEFERENCES
 1390 Cf, A, 56a-oa; a, 33b-35b; B!, 362-39a; B!, 312-332; b3, 23b-25a; b*, 53-532; b?, 21a-22b; b*, IO082-ro9b; $, 20b-22a, See Arab Archery, PP. 19-23, 43-46; Hein, Isl, XV, Pp. 64-68; Klopsteg, PP. 94-96; cf. Tabsirah, 593—642;
 
 
-2. In all other MSS the sentence ends at "lock". Our author does not express himself clearly, and the translation could well be, ‘This is the correct way to form the lock of ‘69’ upon which archers are agreed.’
+2. In all other manuscripts the sentence ends at "lock". Our author does not express himself clearly, and the translation could well be, ‘This is the correct way to form the lock of ‘69’ upon which archers are agreed.’
 
 13913. Reading al-warr (Ata, et al.) for the corrupt af-gatos (A1, 445, line 8).
 
@@ -338,7 +337,7 @@ Cf. Hein, Jsl., XV, p. 70; Klopsteg, p. 99.
 1400 $3 AY
 
 
-one of at-Tabari’s teachers and is mentioned as such by his pupil in the Wadih (sSa-b; ist., 44a-b), Although the name is corrupt in both these MSS—as presumably also in Berlin 5538, for Hein calls him al-Fazari (/sl., XIV, P. 300)—there can be no doubt that his name is as stated by us, since we are specifically told in our MSS that it derives from the name of a place on the marches of Khorasan in territory ‘contiguous with the land of the Turks’. The place in question is undoubtedly Faravah, originally a frontier station (ribdt) and now Kizil Arvat in Turkmenistan on the Transcaspian railway, In spelling the name of the man ‘al-Qarawi’ and that of the place “Qarawah’, the scribe of the Wadik, Ist., is only one diacritical point away from accuracy, Ar-Tabari speaks of his mentor in glowing terms as an unrivalled master who instructed him in the teachings of Tahir’s school, In the absence of precise dutes, we can say only that he flourished at some period during the thirteenth century.  9. Whether these form part of what al-Farawi said is not clear,
+one of at-Tabari’s teachers and is mentioned as such by his pupil in the Wadih (sSa-b; ist., 44a-b), Although the name is corrupt in both these manuscripts—as presumably also in Berlin 5538, for Hein calls him al-Fazari (/sl., XIV, P. 300)—there can be no doubt that his name is as stated by us, since we are specifically told in our manuscripts that it derives from the name of a place on the marches of Khorasan in territory ‘contiguous with the land of the Turks’. The place in question is undoubtedly Faravah, originally a frontier station (ribdt) and now Kizil Arvat in Turkmenistan on the Transcaspian railway, In spelling the name of the man ‘al-Qarawi’ and that of the place “Qarawah’, the scribe of the Wadik, Ist., is only one diacritical point away from accuracy, Ar-Tabari speaks of his mentor in glowing terms as an unrivalled master who instructed him in the teachings of Tahir’s school, In the absence of precise dutes, we can say only that he flourished at some period during the thirteenth century.  9. Whether these form part of what al-Farawi said is not clear,
 
 1401 NOTES AND REFERENCES 201 CHAPTER r2 49a-52b
 
@@ -447,7 +446,7 @@ NOTES AND REFERENCES 203
 
 3$. The holder of a Mameluke office introduced by Baybars (Ayalon, BSOAS, XVI, 1954, p. 69). Originally re- crutted—during the Circassian period, at any rate—from military amirs of the second or third class, this officer was charged with responsibility for the game-bird enclosures and the royal hunt (see Popper, Egypt and Syria, p. 94).
 
-142636. In our text the plea for God's mercy (rarhim) which usually follows the mention of a deceased person includes the horse. If the fact is at all significant, it would seem to indicate the horse archer’s attachment to his mount.  In all other MSS, the zarkim is restricted to the person. It is probably a casc of deliberate correction prompted by religious susceptibility.
+142636. In our text the plea for God's mercy (rarhim) which usually follows the mention of a deceased person includes the horse. If the fact is at all significant, it would seem to indicate the horse archer’s attachment to his mount.  In all other manuscripts, the zarkim is restricted to the person. It is probably a casc of deliberate correction prompted by religious susceptibility.
 
 37. D.
 
@@ -520,13 +519,13 @@ B: ‘to coo! and settle’. Correction by heat is evidently assumed.
 
 204 NOTES AND REFERENCES
 
-1443 13. This is unquestionably the sense of the ungrammatical hadhihi s-sifatani th-thaldthah (A?) which reflects a colloquialism (cf, ba'di yomayn taldta ‘in a few days’ time’). Given the context, hadkihi i-sfat ath-thalathah (At, 79, line 8) is unacceptable and has ied to all kinds of confusion in other MSS.
+1443 13. This is unquestionably the sense of the ungrammatical hadhihi s-sifatani th-thaldthah (A?) which reflects a colloquialism (cf, ba'di yomayn taldta ‘in a few days’ time’). Given the context, hadkihi i-sfat ath-thalathah (At, 79, line 8) is unacceptable and has ied to all kinds of confusion in other manuscripts.
 
-I4. At this point a goes on: “flexes the bow with both hands together and braces. This method is more suited to a highly reflexed bos. If unsuccessful with it, he shouid set the grip evenly under both knees fand procced to flex with both hands together. In this way the obscurity of this sentence which has led to confusion in other MSS is dispelled,
+I4. At this point a goes on: “flexes the bow with both hands together and braces. This method is more suited to a highly reflexed bos. If unsuccessful with it, he shouid set the grip evenly under both knees fand procced to flex with both hands together. In this way the obscurity of this sentence which has led to confusion in other manuscripts is dispelled,
 
 144415. B.
 
-16, Sce Dozy, Suppl, I, 860. From the Persian barshak, this word occurs in the MSS with different spellings and vocalizations, e.g. barshag, barsag, baghsaq, baghshaq, etc.
+16, Sce Dozy, Suppl, I, 860. From the Persian barshak, this word occurs in the manuscripts with different spellings and vocalizations, e.g. barshag, barsag, baghsaq, baghshaq, etc.
 
 144517. B.
 
@@ -534,7 +533,7 @@ I4. At this point a goes on: “flexes the bow with both hands together and brac
 
 144619. B.
 
-20. The term saysarah is lacking in Bbb. These MSS merely indicate that the loops should be made of bowstring or leather after the fashion of the loop of a string.
+20. The term saysarah is lacking in Bbb. These manuscripts merely indicate that the loops should be made of bowstring or leather after the fashion of the loop of a string.
 
 144721. B—in preference to ‘as you would in drawing the stirrup crossbow’ (A}, 81b, line 3).
 
@@ -551,7 +550,7 @@ Cf. A*, 99a-10ca is incomplete (see n. 2 below); a, 68a—69a; B?, 66b-67b; B®,
 
 14503. Reading az-saghawdan (B3, er al.) for ar-raghawan (A!, 83a, line 4).
 
-4. Conjecturing at-turs for al-qaws (A), 83a, line 8) in spite of the unanimity of all MSS.
+4. Conjecturing at-turs for al-qaws (A), 83a, line 8) in spite of the unanimity of all manuscripts.
 
 1451 CHAPTER 19 83b-86b
 
@@ -591,14 +590,14 @@ NOTES AND REFERENCES 205
 
 1459 “illet ve-‘uyiid which Hein, from his translation ‘faults’, cvidently regards as synonymous (dsf, XV, p. 237).
 
-. Aa. B: iarbid; b!: tazbid; b*: tazyid. Other MSS in b are cither not vocalized or ilegible. The reading of Aa is most likely correct, the words immediately following taznid (sc. wa-garb4 i-watr li-z-zind) being intended to explain ít (A', 87a, line 9). More than once the author uses wa (‘and’) in the explanatory sense of ‘or’.
+. Aa. B: iarbid; b!: tazbid; b*: tazyid. Other manuscripts in b are cither not vocalized or ilegible. The reading of Aa is most likely correct, the words immediately following taznid (sc. wa-garb4 i-watr li-z-zind) being intended to explain ít (A', 87a, line 9). More than once the author uses wa (‘and’) in the explanatory sense of ‘or’.
 
 1460. In A min madi" r-rish should follow kasarahu (A+, 87b, line 8) and al-ibhám min mawdi ! r-rish be deleted from the first line of the next folio (582). :
 
 
 7. al-'agd, or less probably, al-‘ugad ‘the phalanges’.
 
-1461 8. The MSS are divided between fag ‘nock and mufawwag meaning, presumably, ‘the point in the nock against which the string should be lodged’. The latter permits an interpretation consistent with the facts of practical experience.
+1461 8. The manuscripts are divided between fag ‘nock and mufawwag meaning, presumably, ‘the point in the nock against which the string should be lodged’. The latter permits an interpretation consistent with the facts of practical experience.
 
 9. aB.
 
@@ -717,7 +716,7 @@ I5. Or, perhaps: ‘whose nock has been removed’, The Arabic is ambiguous,
 1486 NOTES AND REFERENCES 207
 
 
-16. In Bbb this section follows that dealing with arrow-guides (out Ch. 26), which is placed immediately after that on nockless arrows. Both in content and presentation the version contained in these MSS differs from ours.  Because of textual corruption and certain differences in wording in the various MSS the following rendering is based on a composite text:
+16. In Bbb this section follows that dealing with arrow-guides (out Ch. 26), which is placed immediately after that on nockless arrows. Both in content and presentation the version contained in these manuscripts differs from ours.  Because of textual corruption and certain differences in wording in the various manuscripts the following rendering is based on a composite text:
 
 1487 On Shooting Iron Pellets with a Hand Bow
 

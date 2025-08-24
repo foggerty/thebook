@@ -28,27 +28,22 @@ Weapons of war must be exactly suited to the members of those who use them. Sinc
 
 ## Translators’ comment
 
-### 1. Basic Considerations
+### i. Basic Considerations
 
 This useful chapter summarizes the teaching expounded earlier in the work and introduces the reader to certain important aspects of advanced technique. The novice, once having mastered the basic methods in which they has been trained, is ready to proceed to the development of an individual style of shooting. The pattern of progression is as valid today as it was in the time of Ṭaybughā. When first learning to shoot, the beginner experiences a sense of awkwardness and is more often than not confused by attempts to memorise all the various details essential to sound performance. With practice most points become a matter of automatic behaviour, and when some degree of proficiency has been attained, the need for certain minor variations will be felt. The novice should be encouraged to satisfy this need under the watchful eye of a competent master who will prevent them from developing some radical error which at a later stage it might be difficult to correct. A good master thoroughly familiar with all possible variations should quickly perceive his pupils’ problems and advise them to take up certain styles calculated to bring them to a mastery of their art.
 
 The need for variations arises almost entirely from the physical characteristics of the individual archer, and, as Ṭaybughā so rightly observes, no two men are exactly alike. Basically, it is not unreasonable to consider, as Ṭaybughā does, the two extremes, between which limits wide variations can be found.
 
-### 2. The Draw
+### ii. The Draw
 
 In shooting a bow the archer has what amounts to a foresight formed by the combination of the arrow's point and the side of the bow. The manner in which this sight is used depends on whether one aims ‘inside’ the bow or ‘outside’, but in either case there is a definite object to be aligned with the target. A trained archer may not be conscious of what they are doing, and it may even be said that alignment of sight should be a reflex operation. Since there is no backsight, it is essential, for the attainment of constant direction, that the tail of each and every arrow always be drawn to the same point. If the point is allowed to vary, the line of the arrow in relation to the line of sight will also vary, and shooting will of necessity be erratic.
 
 The modern archer positively ‘anchors' - to use the accepted technical term - the drawing hand either under the chin or against the side of the mouth according to adopted technique.  There are many variations, but what is essential and common to all is that the archer should feel the drawing hand firmly pressed into place in the chosen position. This method of anchoring is relatively modern and has been successfully developed over the last century or so. By contrast, there is the traditional Japanese technique whereby the drawing hand is brought back beyond the head and roughly above the point of the right shoulder. In this case there is no positive lodgment of the hand. A constant position can nevertheless be achieved by the shaft’s lightly touching against the cheek, and with practice an unvarying length of draw is attainable. The Mameluke technique with which we are here concerned seems to be more akin to the Japanese than to that of the modern Western archer. In other words, there appears to be no anchor as understood by the latter. However, that may be, ‘anchor’ is a conventent term to apply to the position of the drawing hand at the moment of loosing, and for this reason we shall use it in the present context in that sense.
 
 
-### 3. Anchoring
+### iii. Anchoring
 
-===Begin indentation===
-
-‘Drawyng to the eare he [Homer] prayseth greatly, whereby men shoote both stronger and longer: drawynge therefore to the eare is better than to drawe at the breste... Holdynge must not be longe, for it bothe putteth a bowe in jeopardy, & also marrcth a mans shoote . . .’
- - Ascham, p. 105.
-
-===End indentation===
+> ‘Drawyng to the eare he [Homer] prayseth greatly, whereby men shoote both stronger and longer: drawynge therefore to the eare is better than to drawe at the breste... Holdynge must not be longe, for it bothe putteth a bowe in jeopardy, & also marrcth a mans shoote . . .’ (Ascham, p. 105).
 
 Drawing to the lobe of the ear is commended by the author of *Arab Archery* as a time-honoured practice compatible with accurate and effective shooting, and drawing to the white spot between the lobe of the car and the beard is declared to be almost as good (p. 51). Neither of these choices, however, he regards as the best. On the contrary, he advocates drawing to the end of the right jaw-bone and running the arrow along the lips or moustaches.
 
@@ -56,7 +51,7 @@ Whatever the options open to the individual, there is one rule from which the ar
 
 At the other extreme, the short man is advised to draw with the shaft at a level which would be roughly that of the tip of his nose. Since he is to stand or squat squarely, he can face the target directly, but this attitude will prevent him from setting his shoulders in line with the mark. It naturally follows that he must angle his left arm at the shoulder as he trains his bow on the target. Angling of the arm in this way will not only prevent him from exploiting his strength to the full as the tall man can do, but it will also affect his methed of gripping the handle over and above the degree to which it is already affected by adjustments necessitated by the physical dimensions of his hand. For the rest, the anchor-point of his drawing hand will be on, or near, the lobe of his ear.
 
-### 4. Terminology
+### iv. Terminology
 
 It needs pointing out that some manuscripts directly contradict others, and that some will have had textual corruption creep in (over multiple copies).  Not only that, but different authors used the same term but in a different sense, or simply misunderstood it entirely.  Finally, some terms have changed in usage or had their meaning extended over the years.
 

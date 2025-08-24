@@ -1,12 +1,9 @@
 * The plan....
 At some point, contact the publisher to get contact info for the authors' estates.  Then, contact the estates and erm, beg.
 
-- [-] Setup a build script.
-  - [X] 'Debug' vs release build?
-  - [ ] Make sure metadata is showing correctly.
+- [ ] Setup a build script.
   - [ ] Let Pandoc author know what ePub metadata like 'title' is being ignored by the compiler: [INFO] This document format requires a nonempty <title> element.
-  Defaulting to 'Acknowledgements' as the title.
-  To specify a title, use 'title' in metadata or --metadata title="...".
+  - [ ] Make sure metadata is showing correctly.
 - [-] PAIN
   - [X] Acknowledgements
   - [X] Preface to 1970 edition.
@@ -22,11 +19,13 @@ At some point, contact the publisher to get contact info for the authors' estate
   - [-] Chapter 4
     - [X] Text
     - [ ] Conversions
+    - [ ] Finish parts I was too frumpy to finish at the time.
   - [-] Chapter 5x
     - [X] Text
     - [ ] Conversions
   - [X] Chapter 6
-  - [X] Chapter 7
+  - [ ] Chapter 7
+    - [ ] Revise changes that I made towards the end, as I was probably grumpy and removing text to make it easier to edit.  There may be something of interest in the laboriously explained text that I culled.
   - [-] Chapter 8
     - [X] Text
     - [ ] Conversions
@@ -62,13 +61,17 @@ At some point, contact the publisher to get contact info for the authors' estate
     - [ ] Conversions
   - [X] Chapter 27
   - [X] Chapter 28
-  - [X] Appendix 1
+  - [ ] Appendix 1
+    - [ ] Text
+    - [ ] Conversions
   - [-] Appendix 2
     - [X] Text
     - [ ] Links to notes
+    - [ ] Make notes superscript
   - [-] Appendix 3
     - [X] Text
     - [ ] Links to notes
+    - [ ] Make notes superscript
   - [-] Appendix 4
     - [X] Text
     - [ ] Finger images
@@ -76,17 +79,16 @@ At some point, contact the publisher to get contact info for the authors' estate
   - [X] Appendix 6
   - [ ] Arabic English glossary
     - [ ] Script to find all terms, and add links from all chapters.
-- [ ] Lookup [[https://pandoc.org/MANUAL.html#epubs][ePub extras provided by Pandoc]], "index/forward" etc.
-- [ ] Styles
-  - [ ] Make a reasonable [[https://pandoc.org/MANUAL.html#epub-styling][.css file]].
-  - [ ] Page header / footer.
+- [ ] Make a minimal [[https://pandoc.org/MANUAL.html#epub-styling][.css file]].
+- [ ] Double-check pronunciation guide.
 - [ ] Run a spell check over everything, after having deleted custom dict.
-- [ ] Split out comments (again) and create a translation-only version.  Will still need some ilustrations re finger-lock etc.
-- [ ] New images, like, every-fucking-where.  Fuck.  Appendix 5 references plate 18 (reproduction of Taybgha's bow) and if I only include one set of pics, it needs to be this one.
+- [ ] New images, like, every-fucking-where.  Fuck.  Appendix 5 references plate 18 (reproduction of Taybgha's bow) and if I only include one set of pics, it needs to be this one.  Oh, and finger-counting.
 - [ ] Then, add notes (groan).
 - [ ] Ask Bede if he wants to join in, and either update based on more recent research, or add new findings to expand on what's already contained.
 - [ ] Publish.
+- [ ] (Optional) Split out comments (again) and create a translation-only version.  Will still need some ilustrations re finger-lock etc.
 - [ ] Videos?
+- [X] Lookup [[https://pandoc.org/MANUAL.html#epubs][ePub extras provided by Pandoc]], "index/forward" etc.
 - [X] The original title can be translated as "Essential Archer for beginners" or "Essential Archery For The Fighting Archer, Or All That the Toiler Desires." Use this!
 - [X] Add the errata.
 - [X] Replace all MSS with "manuscripts".

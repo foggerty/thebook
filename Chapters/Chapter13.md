@@ -18,33 +18,31 @@ The loose should be accomplished with a backward punch (*laksah*), or thrust, of
 
 Although our author, in common with others who deal with the details of shooting technique, breaks down its various aspects into constituents, it is important to note that in practice the actions which go into the making of a shot are essentially indivisible, for each action merges with the next to form a rhythmic whole. On paper this fact is perhaps nowhere more strikingly illustrated than in the foregoing chapter, in which the reader will have observed the extent to which the loose involves the draw.
 
-### Essentials of the Loose
+### i. Essentials of the Loose
 
 Mastery of the loose is ‘the consummation of shooting . . . and the life of the whole art depends on it’ (Acker, *Japanese Archery*, p. 68). The hand must not go forward with the string (‘creep’), and the loose must be clean and unvarying, for if accuracy is to be achieved, the archer must know as exactly as he can how the arrow will leave his bow. If the loose is not clean, deflection can result. A clean loose is more easily achieved than a consistent one. According to accepted classification, the loose can be either fast or slow, but the type actually employed is of less consequence than consistency. A fast, or sharp, loose will increase the velocity of an arrow and is therefore preferable to a slow, or sluggish, loose, which, as might be conjectured, gives a slower flight. It is easy to understand, therefore, how higher or lower flight, as the case may be, will result from an inconsistent loose and how such a fault can be responsible for wider variations in flight than any other single factor.
 
 Variations in the loose from the thumb-lock result from two main causes: firstly, variations in the pressure of the thumb tip against the middle finger and hence in the degree of tension in the muscles of the thumb, and secondly, variations in the pressure of the index finger on the thumb-nail and the manner in which it is released.
 
-### Disengagement of the Drawing Hand
+### ii. Disengagement of the Drawing Hand
 
 With a thumb-lock, effective accomplishment of the type of loose with which we are concerned depends on clean and rapid disengagement of the thumb from the string. It will be noted that our author speaks not of a simultaneous disengagement of thumb and index finger, but of a rapid sequence. This advice is also that of Muṣṭafā Kāni who is, however, somewhat more explicit: ‘. . . the right index finger should be released, then the thumb. Both movements, however, should follow one upon the other so rapidly that an onlooker cannot see, nor the shooter distinguish, the separate actions . . . If the finger and thumb are opened simultaneously the string will emit an “undesirable” twang, the thumb-nail and the end of the index finger will be injured, and the flight affected’. According to aṭ-Ṭabari, it was the practice of Abū Hāshim to open the middle finger along with the thumb and index finger.
 
 The *farkah*. One problem connected with the thumb-lock is that the string, when loosed, is liable to catch the tip of the index finger. Although the blow may be so slight as to inflict no injury, it will nevertheless cause some deflection of the string as it travels forward and, correspondingly, some change, however small, in the direction of the arrow as it leaves the bow.  By means of the *farkah*, or ‘twist’, the index finger could be swept clear of the string. That this was indeed its purpose is evident, for practical trials extending over a number of years have shown the distinct merit of this technique. Both Abū Hāshim and Ṭāḥir al-Balkhī are said by aṭ-Ṭabarī to have used the *farkah* when loosing. Ishāq ar-Raffā', on the other hand, preferred a ‘straight’ (smustatoi) disengagement without any twist at all.
 
-### Forms of Loose - from the preceding chapter.
+### iii. Forms of Loose - from the preceding chapter.
 
-#### The *mukhtalas* (‘snatched’)
-
+#### In the preceding chapter
+(a) **The *mukhtalas* (‘snatched’)**\
 From correct use of this method the archer would derive the advantage of a somewhat faster loose than the *sākin* (‘held’) would permit. The consequent increase in the velocity of his arrow would add to its range in flight shooting and to its penetrative power as a missile in war. Exposure to the danger of creeping would be minimal, but liability to errors and variations of draught would be an unavoidable hazard. Furthermore, because of the slight extra thrust taken by the arrow, even the most fractional deviation from perfection in the accomplishment of the loose would cause it to flirt. Hence its unsuitability for target shooters and beginners.
 
-#### The *sākin* (‘held’)
-
+(b) **The *sākin* (‘held’)**\
 Basically, this is the form of loose employed by the modern target archer of the Western world. Although it gives a slightly slower release than the *mukhtalas*, the hold at full draw, if properly executed, makes for a consistent draught and enables the shooter to achieve greater stability and take more careful aim, It therefore offers the advantages of ‘greater accuracy, and a steadier flight’, and it is understandable why it should be advocated as ‘the first method of release to be learned by a novice’.
 
-#### The *mafrūk*
-
+(c) **The *mafrūk***\
 The sense of Taybugha’s remark that there were said to be three forms of loose, viz. the *mukhtalas*, the *sākin* and the *mafrūk*, is not entirely clear. The implication could be either that he had heard of, but was not himself familiar with, or did not approve of, a loose termed *mafrūk*, or that that term was applicable not to a form of loose in the strictest sense, but rather to an extrinsic point of technique whereby a form of loose could, or should, be accomplished. To us the second of these alternatives seems the more plausible interpretation, for while it cannot be denied that instances of *mafrūk* as a term applicable to a form of loose in its own right can be cited (see below), there is nothing whatever in our text to suggest otherwise than that Ṭaybughā merely regarded a loose as *mafrūk*, or ‘twisted’, when accomplished with a *farkah*, or ‘twist’, in the sense already explained.
 
-### Forms of Loose - In *Arab Archery* and Muṣṭafā Kāni’s *Telbis*
+#### In *Arab Archery* and Muṣṭafā Kāni’s *Telbis*
 
 For reasons which will soon be apparent the observations of the authors of both these treatises merit consideration.
 
@@ -54,6 +52,6 @@ Muṣṭafā Kānīs vocabulary pertaining to the loose is substantially the sam
 
 Enough has been said to illustrate the dangers of equating the meanings of identical or similar technical terms occurring in the works of different authors separated by time, distance, or language, or all three.
 
-### The ‘Backward Punch’
+### iv. The ‘Backward Punch’
 
 By following our author’s advice to accomplish the loose with a ‘backward punch’ of his right elbow the archer will avoid not only any tendency to creep forward with the draw-hand, but also the equally undesirable fault known as the ‘forward loose’, by which is meant forward movement of the drawing hand at the instant of loosing. The forward loose, like creep, with which it may be combined, will result in loss of range and is therefore a serious error. The ‘backward punch’ will ensure that the shooter’s drawing hand will come back off the bowstring without his applying any forward movement to the arrow at the moment of release. The action must, however, be carried out with meticulous care and attention so that not even the slightest increase in draught results. To increase the draught in this way is a fault known in Western terminology as ‘snatching’.

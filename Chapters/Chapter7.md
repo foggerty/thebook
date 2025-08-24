@@ -12,7 +12,7 @@ Some add nocking and make the fundamentals six. This is the number we adopt for 
 
 ## Translators' Comment
 
-### 1. The Masters of Archery and the Great Masters
+### i. The Masters of Archery and the Great Masters
 
 A Persian ruler of the Sasanid dynasty, Bahrām Gūr, or Vahram V (A.D. 420-38), is frequently accorded a prominent position in archery literature. In the works of poets and illuminators (mainly Persian) his legendary feats as an archer and hunter are a commonplace. He is 'Bahrám, that great Hunter’ whose name is known to many through Fitzgerald's *Rubáiyát of Omar Khayyán*. In technical writings certain styles of shooting and points of technique are not infrequently ascribed to, or associated with, the Sasanid kings, and in this connection the names of Ardashir (Ardashir I, son of Papak, A.D. 226-41) and Khusraw (Chosroes I, A.D. 531-79) are to be found in addition to that of Bahrām Gūr.
 
@@ -28,13 +28,13 @@ As regards Ṭāhir al-Balkhi, the second half of his name links either him or h
 
 In aṭ-Ṭabari (‘of Ṭabaristān', a Persian province south of the Caspian) we have to do with Aḥmad ibn ‘Abd Allāh Muḥibb ad-Din aṭ-Ṭabari (d. 1295?) who was the author of *The Clear Book on Archery* (*Ktāb al-wāhiḥ fi r-ramy*, etc.) of which there are several extant manuscripts. He has no connection whatever with the great historian and scholar Abū Ja`far Muhammad ibn Jarir aṭ-Ṭabari (A.D. 839-923) as certain Muslim authors seem to think (e.g. Muṣṭafā Kāni in Hein, ibid., p. 299). From his own testimony we learn that he was trained in the teaching of Abū Hāshim by Muhammad ibn 'Isa s-Samar-qandi, in that of Ṭāhir al-Balkhi by ‘Abd ar-Rahmān al-Farāwi (‘of Farāwah’, now Kizil Arvat, Turkmenistan), and in that of Ishāq ar-Raffā by Abū Sa‘id al-Khwārizmi (‘of Khwārizm’, now Khiva, Uzbekistan).
 
-### 2. The Fundamentals of Archery
+### ii. The Fundamentals of Archery
 
-Taybugha's statement that there were differences of opinion regarding the number of fundamentals is amply borne out by what we have learned of the subject from several other Islamic manuals, In general the authors of these works go into much greater detail than does Ṭaybughā and deal not only with the ‘roots’, or fundamentals, but also with the ‘branches’ (*furū*), or secondary bases, of archery (e.g. *Arab Archery*, p. 17). An enumeration and discussion of conflicting views on the number and nature of these ‘roots and branches’ are beyond the scope of the present work. Nevertheless, we feel obliged to comment, firstly, that the fundamentals attributed by Ṭaybughā to Abū Hāshim and Ṭāhir do not wholly agree with those ascribed to them, for instance, by aṭ-Ṭabarī and the author of *Arab Archery* (whose information may well have been derived from the *Wāḍiḥ*) and, secondly, that our author makes no mention whatsoever of any views held on the subject by Isḥjāq.
+Taybugha's statement that there were differences of opinion regarding the number of fundamentals is amply borne out by what we have learned of the subject from several other Islamic manuals, In general the authors of these works go into much greater detail than does Ṭaybughā and deal not only with the ‘roots’, or fundamentals, but also with the ‘branches’ (*furū*), or secondary bases, of archery (e.g. *Arab Archery*, p. 17). An enumeration and discussion of conflicting views on the number and nature of these ‘roots and branches’ are beyond the scope of the present work. Nevertheless, we feel obliged to comment, firstly, that the fundamentals attributed by Ṭaybughā to Abū Hāshim and Ṭāhir do not wholly agree with those ascribed to them, for instance, by aṭ-Ṭabarī and the author of *Arab Archery* (whose information may well have been derived from the *Wāḍiḥ*) and, secondly, that our author makes no mention whatsoever of any views held on the subject by Isḥjāq.  The table blow
 
 The fundamentals ascribed to Isḥāq by aṭ-Ṭabari are:
 
-1. Standing to the mark (*al-initṣāb ilā l-`alāmah) so that it is in line with the left eye.
+1. Standing to the mark (*al-initṣāb ilā l-‘alāmah*) so that it is in line with the left eye.
 2. Bracing (*itār*), or stringing.
 3. Nocking.
 4. Clench.

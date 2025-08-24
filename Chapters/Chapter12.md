@@ -1,4 +1,4 @@
-# 12 - On sighting (*nazar*)
+# 12 - On sighting (*naẓar*)
 
 When sighting the mark, turn your eyes so that the lines of vision of both eyes merge and the two eyes become as one, and a single object is seen in the same way as it would be with one eye only.  The reason for this recommendation is that the use of both eyes gives a stronger vision. It is, however, apt to be attended by inequality of vision, and in most cases a person will see a single object in two different places or as two separate objects.  This indeed is what will happen when he views a distant object in line with some part of the raised hand; for in the majority of cases a person will, under such circumstances, see the object at which he is looking with a master eye (lit. ‘with one of his eyes having stronger vision than the other’).  [If the left eye is the master,] he will see his hand with his right eye to the left of the [object, while if the right eye is the master he will see it] with his left eye to the right [of the object.]  If, on the other hand, there is equality of vision in both eyes, he will aim with first one, and then the other, without the ability to co-ordinate, not knowing in his bewilderment where the true line of vision lies.  The knack lies in turning the eyes askant so that the line of vision of the one shifts into that of the other by bringing the pupil of the left eye into its exterior angle (*mu’akhkar*) and the pupil of ther right eye into its interior angle (*muqaddam*).  He can then aim with them bot as though with one eye.  Sighting of this kind is termed *akwal* (‘squint eyed’) and is particularly good.  It is a difficult technique to master, but for a horseman or a man in armour it is a valuable asset.  It is furthermore, the ancient for of sighting used by the Chosroes (i.e. the Sasanids, A.D. 226-651).
 
@@ -30,7 +30,7 @@ It goes without saying that the ability to aim is essential to accurate shooting
 
 It is more than likely that the range of methods known to Taybughā was far greater than the foregoing chapter may suggest. If he appears sparing with his knowledge, it is because of his concern with the needs of the warrior. Detetred, we suspect, by his intensely practical mind from burdening his readers with confusing prolixity, he restricts himself to what he personally regards as essential information. It is our intention, in commenting on what he has to say, to follow his example and to resist the temptation to assemble a wealth of material which, however interesting it may be, would only bewilder the general reader.
 
-### 1. Monocular and Binocular Sighting
+### i. Monocular and Binocular Sighting
 
 Modern teaching, like that of Taybughā, favours the use of both eyes in aiming, but nevertheless allows the closing of one if the archer finds the binocular method too difficult.
 
@@ -38,7 +38,7 @@ To the hunter, binocular vision is very necessary for judging range, for if one 
 
 The 'askant', or ‘squinting’, method of binocular aiming of which Taybughā thinks so highly is mentioned by the author of Arab Archery (p. 53) who does not however share his enthusiasm for it: ‘This type of aiming ... by some is supposed to be the best... In the opinion of the author, however, it is the worst and most faulty and possesses the greatest margin of error; for if the archer should close one eye and open the other and aim with it by sighting obliquely, and then should close the eye which he had left open and open the one which was closed and should aim with it, he would realize that the aim of the two eyes in this position is never the same.  How, then, could aim taken by this method be accurate?” Taybughā, however, to whom this method was obviously suited, does not assert its universal value. In fact, he clearly confines it to persons with ‘equality of vision in both eyes’.
 
-### 2. Sighting from the Side of the Bow
+### ii. Sighting from the Side of the Bow
 
 Under this head we are concerned with the lateral aspect of aim as opposed to the vertical which is related to range.
 
@@ -63,6 +63,6 @@ A point not to be overlooked is that if the left eye is the master eye and the a
 
 The Japanese draw roughly as far back as the point of the right shoulder and consider that the ideal aim is achieved with the left edge of the bow running through the centre of the target. If this cannot be done, the bow may be displaced either to the right so that the target may be viewed well to the left of the bow, or to the left so that the target is obscured by the bow as viewed by the right eye.
 
-## Gauging Elevation and Direction
+### iii. Gauging Elevation and Direction
 
 In *Arab Archery*, pp. 55-56, Taybughā’s first two techniques are viewed as two variations of the method used by archers who faced the target directly.  His third technique, on the other hand, is given as one of two variations of the method used by archers who faced the target obliquely. It is recommended for warfare on the grounds that the bow could be concealed from the enemy while most of the draw was being made. When the arrowhead was a fist’s width away from full draw, it could be turned on the enemy. The second variation - not mentioned by Taybughā - differed only from the first in that aim was taken not only when the arrow had been drawn to within a fist’s width from its head, but also at the very beginning of the draw. Taybughā does not appear, however, to have shared the view that it was the ‘best method and . . . suitable for all purposes’.

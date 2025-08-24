@@ -52,23 +52,23 @@ For shooting pellets one may also make a steel or copper guide (*mijāt*) of a s
 
 ## Translators’ comment
 
-### 1. Awkward Shots
+### i. Awkward Shots
 
 Shooting from ground level at an enemy in a well is much the same as engaging a target in a comparable position from the top of a fortress. That the archer found himself more frequently in the second of the situations visualized by the author, we need hardly doubt. The need to shoot at a target immediately beneath the walls of a fortress could arise at any time during a siege, and fortresses were normally designed in such a way that archers could engage anyone at the foot of the walls from projecting towers. Where blind spots existed, however, the method indicated in the text — an extension of the *jarmakī* technique - could obviously be applied to great effect. To shoot a bow directly downwards and retain one’s balance by any other normal means is almost impossible
 
 In circumstances such as those visualized it would, one may think, be easier to drop a rock or the like on one’s foe, but it must be remembered that while many a warrior would have his bow with him and be in a position to take immediate action, he might lose precious moments in finding or handling a suitable stone.
 
-### 2. Grouping of Arrows
+### ii. Grouping of Arrows
 
 In the literature and legends of many countries there are stories of almost incredible shots achieved by archers, and in modern times some remarkable shots have indeed been made. Such feats, however, may be regarded as isolated cases representing the perfect shot out of many thousands made. In our text, on the other hand, we have a rare and important guide to the standard of accuracy expected of every archer. They are required to group arrows within a circle roughly 3 feet in diameter at 75 yards. The ability to do this with wooden shafts and without the aid of a sighting device such as can be fitted to a bow by the modern archer demands a very high standard of accuracy and bespeaks a well-trained and experienced archer. It is nevertheless within the reach of anyone who will practise with diligence.
 
-### 3. The ‘Short *Ulki*’
+### iii. The ‘Short *Ulki*’
 
 In the absence of any explanation of the ‘short *ulki*’ it is essential first to determine the meaning of the noun. Registered by Dozy in his *Supplément*, *ulki* is defined there as ‘a kind of military exercise’. The definition could, and should, have been a little more precise, for Reinaud — Dozy’s authority - although unable to determine the exact nature of what he took to be some form of military exercise, clearly appreciated that the word was connected with archery and leaves the impression that he thought it had to do with a target of some kind or other.  That Reinaud was not far from the truth we can now confirm from the evidence of a passage in the manuscripts of the C group in which we read: ‘. . . the full target (*al-hadaf at-tamām*) which is called the *ulki* in Turkish and is known as the long field (*al-maydān aṭ-ṭawīl) has a length of between 130 and 140 arm-spans, though it may sometimes be less . . ’. The *ulki*, then, was a target at a range of something in the order of 284-306 yards and possibly 284-328 yards, since the ‘long field’ with which it is said to have been synonymous is given elsewhere as between 130 and 150 arm-spans. It is almost certainly to be identified with the Turkish *ülkü* (‘target, goal’) which has been revived in the modern language in the sense of ‘an ideal, something to aim at’ (see Moran, Turkish-English Dictionary, s.v.).
 
 The ‘short *ulki*’ must obviously have been a target at short range. How short it actually was we cannot say for certain, but, as we shall presently see, it could reasonably be considered to have been somewhere in the region of 75 yards.
 
-### 4. Trajectory
+### iv. Trajectory
 
 The sections concerned with the height attained by an arrow on its way to the target and the time it should take to reach it are closely related and reflect a basically sound scientific approach to an important problem, however elementary the recommended methods of solving it may be.
 
@@ -80,7 +80,7 @@ The method of assessing velocity by shooting under a rope stretched across the m
 
 There are a number of unknown factors, but if we start with a shaft of the standard length, a probable path of the arrow through the air can be predicted with reasonable accuracy (Klopsteg, Archery : The Technical Side, pp. 122-27 and 236-45). The height of the rope across the centre of the range would be about 8 feet (though we must allow for a margin on either side because the measurement is based on human stature which is variable). Given the data suggested, it will be found that a man, kneeling or squatting, must discharge his arrow at not less than 180 f.p.s. if it is to hit a target on the ground at 75 yards with a trajectory not excecding 8 feet in height. The time of flight would be about 1.25 seconds. This standard represents a minimum requirement, and adherence to it would ensure that bows of adequate power were used by archers for warfare. To us this seems the most practical explanation of the ‘short *ulki*’ test. The method would certainly afford a more accurate means of assessing flight than what amounts to a rough and ready calculation of time by counting between loose and hit.
 
-### 5. Dexterity and Rate of Shooting
+### v. Dexterity and Rate of Shooting
 
 In terms intelligible to the modern reader the standard of rapidity the author sets for the archer is the ability to discharge 3 arrows in about 1.5 seconds. This is a fast time, and one’s first reaction is surprise that such a high standard, which few, if any, Western archers of today could attain, should be expected of the general run of Mameluke archers. It is nevertheless an attainable standard as is evident from the achievement, in modern times, of Saxton Pope who did succeed on a number of occasions in shooting 7 arrows in 8 seconds (Elmer, Target Archery, Pp. 428-30).
 
@@ -90,19 +90,19 @@ In contemporary military science the rate of projection of missiles, when multip
 
 That 3 arrows could in fact be regularly shot in about 1.5 seconds we do not question; we only regret that we are not told exactly how the arrows should be held in order to shoot with such alacrity.
 
-### 6. Razor-arrows
+### vi. Razor-arrows
 
 In a medieval battle vast number of arrows would be shot, and archers naturally gathered all they could during a lull in readiness for further action. To deny the enemy the use of one’s own arrows while maintaining the ability to use those shot by him commends itself as a military tactic.
 
 The effectiveness of the razor-arrow may be questioned since the average archer might reasonably be expected to examine any arrow he had picked up in order to ensure that it was sound before storing it in his quiver. Nevertheless, it is easy to visualize the odd occasion when such a device might be effective. For instance, an archer desperate for arrows in the heat of battle and harassed by some marksman from whom he could not allow his eyes to stray for more than a fleeting moment might be put out of action with a razor-arrow snatched up in haste.
 
-### 7. Nockless Arrows
+### vii. Nockless Arrows
 
 In trials we have experienced some difficulty in retaining the nockless arrow firmly in the tube attached to the bowstring. With practice it might be possible to develop a surer hold. At all events, this kind of arrow commends itself as a more effective stratagem than the razor-arrow.
 
 In *Arab Archery* (p. 133) we find mention of the ring fitted to the bowstring to take the tapered tail of an arrow, but nothing is said of either the *julbah* or the razor device. On the other hand, mention is made of another contrivance known as the *biūn*. This was a ring loosely fitted to the string with a nail-like projection designed for insertion into a hole previously drilled into the tail of a nockless arrow, by which means it could then be shot.
 
-### 8. Incendiaries
+### viii. Incendiaries
 
 In his treatment of the pellets and the egg the author has such difficulty with his Arabic that he fails to make himself completely clear, and the first few lines of the text admit of more than one interpretation. In our judgement, the idea he is trying to convey is that red-hot pellets may be used alone, but that they are more effective if used in conjunction with some inflammable material. He then goes on to illustrate how this can best be done, By means of the funnel-shaped device that he describes, the narrow end of which evidently fitted over the fore-shaft of an arrow, the heated pellet and incendiary egg could be transformed into a blazing projectile when shot. The insertion of the pellet must, it seems to us, have preceded the insertion of the egg, the latter fitting into the bigger end. Hence our proposed emendation of the text. For this form of arson the archer would require the assistance of a loader.
 

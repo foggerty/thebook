@@ -16,7 +16,7 @@ Because of his desire to develop a suitable technique, *aṭ-Ṭabari* [who was 
 
 ## Translators’ Comment
 
-### 1. The Schools of Archery
+### i. The Schools of Archery
 
 From a comparison of some of the more important treatises relevant to the subject it is apparent that, in Islamic archery literature generally, there are discrepant versions of the teachings of Abū Hāshim, Ṭāhir, and Isḥāq. In particular, the account of their systems contained in the foregoing chapter is at variance with that of aṭ-Ṭabari as transmitted in his *Kitāb al-wāḍiḥ*, which, incidentally, as the source of many of the ascriptions appearing in *Arab Archery*, accounts for some points of difference between that work and this.
 
@@ -30,7 +30,7 @@ With the crystallization of theoretical teaching into three systems, it would se
 
 The four schools, or systems (*madhāhib*), of archery based on allegiance to the teaching of a Master (*imām*) are strikingly reminiscent of the four orthodox schools (*madhāhib*) of Islamic law, each perpetuating the doctrine of a Master (*imām*) and his disciples. Since the systems of our text are, as already indicated, not those described by aṭ-Ṭabari, we may well suspect that the respectable framework of orthodoxy underpinned by time-honoured names is being used as a cloak for the promulgation of what is either the author's own teaching or teachings reflecting current practice.
 
-### 2. At-Tabari’s Technique
+### ii. At-Tabari’s Technique
 
 If we discount the misleading matter of discrepant ascriptions, the practice of aṭ-Ṭabarī as laconically recorded in our text does not, so far as the record goes, fundamentally diverge from that described in the *Wāḍiḥ*. The only major difference concerns his grasp on the bow which was, from what he himself says, intermediate and not oblique as stated above. Although the two manuscripts do not wholly agree, that of Istanbul being more corrupt than that of the British Museum, we nevertheless venture the following account of his methods:
 

@@ -6,54 +6,54 @@ An archer does not merit the title and status of master (*ustādh*) until be is 
 
 Of these, *twenty* are *points of tension*:
 
-In the right arm there are *eight*:
-1. The little finger;
-2. The ring-finger;
-3. The middle finger;
-4. The thumb;
-5. The wrist;
-6. The elbow;
-7. The upper arm;
+In the right arm there are *eight*:\
+1. The little finger;\
+2. The ring-finger;\
+3. The middle finger;\
+4. The thumb;\
+5. The wrist;\
+6. The elbow;\
+7. The upper arm;\
 8. The muscle in the upper part of the forearm.
 
-In the *left arm* there are *six*:
-1. The little finger;
-2. The ring-finger;
-3. The middle finger;
-4. The wrist;
-5. The elbow;
+In the *left arm* there are *six*:\
+1. The little finger;\
+2. The ring-finger;\
+3. The middle finger;\
+4. The wrist;\
+5. The elbow;\
 6. The muscle in the lower part of the forearm.
 
-In the *body* there are *six*:
-1. The right flank;
-2. The right shoulder;
-3. & 4. Each of the shoulder-blades;
-5. The spinal column;
+In the *body* there are *six*:\
+1. The right flank;\
+2. The right shoulder;\
+3. & 4. Each of the shoulder-blades;\
+5. The spinal column;\
 6. The belly.
 
 *Eleven* are *points of relaxation*:
 
-In the *right arm* there are *two*:
-1. The index finger;
+In the *right arm* there are *two*:\
+1. The index finger;\
 2. The middle sinew of the forearm.
 
-In the *left arm* there are *three*:
-1. The index finger;
-2. The thumb;
+In the *left arm* there are *three*:\
+1. The index finger;\
+2. The thumb;\
 3. The head of the forearm (i.e. the carpal, or wrist, end of the radius).
 
-In the *body* there are *four*:
-1. The left shoulder;
-2. The left side;
-3. The waist;
+In the *body* there are *four*:\
+1. The left shoulder;\
+2. The left side;\
+3. The waist;\
 4. The neck.
 
-In the *head* there are *two*:
+In the *head* there are *two*:\
 1. & 2, The lips.
 
-Three are points of stillness:
-1. The heart;
-2. &3, the eyes.
+Three are points of *stillness*:\
+1. The heart;\
+2. Both eyes.
 
 If a state of relaxation supervenes in any point of tension, or a state of tension in any point of relaxation, the archer will find that certain faults and injuries follow according to the nature of his error. Thus, if tension at any point in the left arm is allowed to lapse into relaxation, pain in the palm of the hand and blistering ('*aqr*) of the fingers can result. Slashing of the bow-hand (*infitāg al-qabdah*) and distressing contusion of the wrist (*taznid*) arise from the same fault which, apart from causing the bowstring to strike the wrist, also reduces the range of the arrow.
 

@@ -18,7 +18,7 @@ In battle you can put your shield over your forearm, fasten it to it, and advanc
 
 Strict adherence to the Arabic text would require our chapter to be entitled ‘On Standing and Sitting Before the Target’, but, as none of the manuscripts of the A group deals with the second of these two subjects, we have excluded ‘and Sitting’ from our English title. The subject will be taken up in section 2 below.
 
-### 1. Standing
+### i. Standing
 
 The oblique, frontal, and intermediate positions are discussed in *Arab Archery*, pp. 81-84, where they are said to have been the positions of Abū Hāshim, Ṭāḥir, and Isḥāq, respectively:
 
@@ -28,7 +28,7 @@ The oblique, frontal, and intermediate positions are discussed in *Arab Archery*
 
 (c) *The intermediate position*. This is said to combine the advantages of the other two without having the disadvantages of either. It is advocated as the best standing position for warfare and other purposes.
 
-### 2. Sitting
+### ii. Sitting
 
 In the terminology of Arabic-speaking archers ‘sitting’ (*julūs*) seems to denote almost any posture that is not standing or lying, In many contexts it is best translated as ‘squatting’.
 

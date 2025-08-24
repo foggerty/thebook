@@ -4,14 +4,14 @@ In conformity with modern scholarly practice Arabic words and phrases are transl
 
 ## Short Vowels
 
-*a* is pronounced as in *pat*
-*i* is pronounced as in *pit*.
+*a* is pronounced as in *pat*.\
+*i* is pronounced as in *pit*.\
 *u* is pronounced as in *put*.
 
 ## Long Vowels
 
-*ā* is pronounced as in *far*.
-*ī* is pronounced as ee in *sheet*.
+*ā* is pronounced as in *far*.\
+*ī* is pronounced as ee in *sheet*.\
 *ñ* is pronounced as in *lunar*.
 
 ## Consonants
@@ -28,9 +28,9 @@ In conformity with modern scholarly practice Arabic words and phrases are transl
 
 *th* is pronounced as in *thing*.
 
-(*'*) is the glottal stop, or a catch of the breath, such as that replacing the t in Cockney, Glaswegian, and Mancunian pronunciations of *water* (wa'er), *butter* (bu'er), etc, It is the sound we hear after *n* in an *ice cream* which, if pronounced without the glottal stop, gives us a nice cream,
+(*’*) is the glottal stop, or a catch of the breath, such as that replacing the t in Cockney, Glaswegian, and Mancunian pronunciations of *water* (wa'er), *butter* (bu'er), etc, It is the sound we hear after *n* in an *ice cream* which, if pronounced without the glottal stop, gives us a nice cream,
 
-(*`*) is a strong guttural peculiar to Arabic and not unlike a forceful glottal stop (*'*) articulated in the depths of the throat. It is *not* a vowel.
+(*‘*) is a strong guttural peculiar to Arabic and not unlike a forceful glottal stop (*'*) articulated in the depths of the throat. It is *not* a vowel.
 
 *Doubled Consonants*. These should be pronounced as such. Thus, *tt* must be pronounced not as in *better*, but as the two *ts* in *cat tails*, and *shsh* as in *dish shelf*.
 
