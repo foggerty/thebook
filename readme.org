@@ -13,19 +13,15 @@ At some point, contact the publisher to get contact info for the authors' estate
   - [X] Introduction
   - [X] Chapter 1
   - [X] Chapter 2
-  - [-] Chapter 3
-    - [X] Text
-    - [ ] Conversions
+  - [X] Chapter 3
   - [-] Chapter 4
     - [X] Text
     - [ ] Conversions
-    - [ ] Finish parts I was too frumpy to finish at the time.
-  - [-] Chapter 5x
+  - [-] Chapter 5
     - [X] Text
     - [ ] Conversions
   - [X] Chapter 6
-  - [ ] Chapter 7
-    - [ ] Revise changes that I made towards the end, as I was probably grumpy and removing text to make it easier to edit.  There may be something of interest in the laboriously explained text that I culled.
+  - [X] Chapter 7
   - [-] Chapter 8
     - [X] Text
     - [ ] Conversions

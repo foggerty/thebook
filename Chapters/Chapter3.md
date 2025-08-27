@@ -82,7 +82,7 @@ The dimensions of what our author considered to be the best of Syrian Mameluke b
 
 The craftsman, then, shaped and assembled the components of the wooden core. Having regard to the rigidity required in the grip and *siyahs*, on the one hand, and to the flexibility demanded of the *dustārs*, on the other, he could use different woods for different sections. Our author indicates that work on the core was carried out in the autumn, a time of the year when the cooler weather and higher humidity would retard the setting-rate of the glue and give adhesion superior to that obtainable in the hot, dry summer.
 
-While the glue was setting, the horn strips with which the belly would be lined could be sawn and prepared. Water-buffalo and certain types of goat and antelope could provide suitable material for the purpose. Since the horn of European cattle tends to split into thin layers when subjected to stress, it would not meet the needs of the Oriental composite bow. In dissected bows the horn has been found to taper in thickness from between 1/2 in. (1.27 cm.) and 1/4 in. (0.64 cm.) at the grip to half the amount at the centre of the *dustār*. Continuing to taper, it ends a little way past the joint between the siyah and the *dustar*. The thickness depends to some extent on the proposed weight of the finished bow.
+While the glue was setting, the horn strips with which the belly would be lined could be sawn and prepared. Water-buffalo and certain types of goat and antelope could provide suitable material for the purpose. Since the horn of European cattle tends to split into thin layers when subjected to stress, it would not meet the needs of the Oriental composite bow. In dissected bows the horn has been found to taper in thickness from between 0.5 in. (1.27 cm.) and 0.25 in. (0.64 cm.) at the grip to half the amount at the centre of the *dustār*. Continuing to taper, it ends a little way past the joint between the siyah and the *dustar*. The thickness depends to some extent on the proposed weight of the finished bow.
 
 Next, the horn was glued to the belly of the core, To ensure maximum adhesion, the two surfaces were usually scored to increase the surface area exposed to the glue. The horn was firmly bound to the core, care being taken not to press out too much of the glue in the process, The reflex of the bow was controlled by a cord tied between the two tips, and at this stage it was held in the form of a shallow ‘C’. For the glue to dry thoroughly about three months would be needed, after which sinew could be applied in warmer weather. Warmth would be essential, for on a cold day sinew is very difficult to handle and, if affixed under such conditions, would almost certainly make for a poor bow. Hence the stipulation in our text that work of this kind should be undertaken in spring.
 
@@ -107,17 +107,17 @@ Our author says nothing whatever about the painting of bows, but in the D manusc
 The measurements given for parts of the bow are summarized below. Those for the grip do not include the tapered portions fitting into the dustars.
 Column 1 shows the normal measurements as given by our author, whereas column 2 shows the variations which he records.
 
-|                | 1         | 2         |
-|----------------|-----------|-----------|
-| Upper *siyah*  | 6.55 in.  | 5.73 in.  |
-| Upper *dustār* | 16.36 in. | 16.40 in. |
-| Grip           | 4.91 in.  | 4.91 in.  |
-| Lower *dustār* | 15.82 in. | 16.23 in. |
-| Lower *siyah*  | 6.27      | 5.46 in.  |
-|----------------|-----------|-----------|
-| TOTAL          | 49.91 in. | 48.73 in. |
+|                | 1                     | 2                     |
+|----------------|-----------------------|-----------------------|
+| Upper *siyah*  | 6.55 in., 16.64 cm.   | 5.73 in., 14.56cm.    |
+| Upper *dustār* | 16.36 in., 41.56 cm.  | 16.40 in., 41.66cm    |
+| Grip           | 4.91 in., 12.48 cm.   | 4.91 in., 12.48 cm.   |
+| Lower *dustār* | 15.82 in., 40.17 cm.  | 16.23 in., 41.2 cm.   |
+| Lower *siyah*  | 6.27 in., 15.94 cm.   | 5.46 in., 13.87 cm.   |
+|----------------|-----------------------|-----------------------|
+| TOTAL          | 49.91 in., 126.78 cm. | 48.73 in., 123.78 cm. |
 
-It will be noticed that the author gives the total length of the bow shown in column I as 50.2 in., so there would appear to be some minor discrepancy in the figures. For all practical purposes, however, the difference is negligible.
+It will be noticed that the author gives the total length of the bow shown in column 1 as 50.2 in./127.5 cm., so there would appear to be some minor discrepancy in the figures. For all practical purposes, however, the difference is negligible.
 
 The lower limb of Ṭaybughā's Syrian bow was shorter than the upper, and, although this characteristic is found in other designs, most composite bows from the Middle East that have so far been examined have limbs of equal length - an advantage in that they could be used either way up.
 
@@ -125,24 +125,24 @@ Compared with those of existing bows, our author's *siyahs* seem very short and 
 
 To illustrate these differences, we have drawn up a table of detailed measurements made from a selection of existing bows. It should, however, be noted that since it is usually very difficult to decide exactly where one section ends and another begins, the table below may contain minor errors.
 
-| Bow            | *Siyahs* (from nock) | *Dustars* | Grip     | Total  (nock to nock) |
-|----------------|----------------------|-----------|----------|-----------------------|
-| Bashkir        | 12.0 in.             | 9.9 in.   | 4.25 in. | 58.0 in.              |
-| Bashkir        | 10.5 in.             | 12.5 in.  | 5.0 in.  | 51.0 in.              |
-| Persian        | 10.0 in.             | 14.5 in.  | 5.0 in.  | 54.0 in.              |
-| Ottoman flight | 9.0 in.              | 9.5 in.   | 4.5 in.  | 41.5 in.              |
-| Indian         | 9.0 in.              | 11.5 in.  | 5.0 in.  | 46.0 in.              |
-| Indian         | 9.5 in.              | 13.0 in.  | 5.0 in.  | 50.0 in.              |
-| Indian         | 9.25 in.             | 11.5 in.  | 4.0 in   | 45.5 in.              |
-| Indian         | 9.75 in.             | 12.5 in.  | 4.o in.  | 48.5 in.              |
+| Bow            | *Siyahs* (from nock) | *Dustars*          | Grip              | Total  (nock to nock) |
+|----------------|----------------------|--------------------|-------------------|-----------------------|
+| Bashkir        | 12.0 in./30.48 cm.   | 9.9 in./25.15 cm.  | 4.25 in./10.8 cm. | 58.0 in./147.31       |
+| Bashkir        | 10.5 in./26.67 cm.   | 12.5 in./31.75 cm. | 5.0 in./12.7 cm.  | 51.0 in./129.54 cm.   |
+| Persian        | 10.0 in./25.4 cm.    | 14.5 in./36.83 cm. | 5.0 in./12.7 cm.  | 54.0 in./137.16 cm.   |
+| Ottoman flight | 9.0 in./22.86 cm.    | 9.5 in./24.14 cm.  | 4.5 in./11.43     | 41.5 in./105.41       |
+| Indian         | 9.0 in./22.86 cm.    | 11.5 in./29.21     | 5.0 in./12.7 cm.  | 46.0 in./116.84 cm.   |
+| Indian         | 9.5 in./24.14 cm.    | 13.0 in./33.02 cm. | 5.0 in./12.7 cm.  | 50.0 in./127 cm.      |
+| Indian         | 9.25 in./23.5 cm.    | 11.5 in./29.21     | 4.0 in./10.16 cm. | 45.5 in./115.57       |
+| Indian         | 9.75 in./24.77       | 12.5 in./31.75     | 4.0 in./10.16 cm. | 48.5 in./123.19 cm.   |
 
-The Khorasanian bow to which our text refers would at the most have been only 37 in. long, which is short even by comparison with the Ottoman flight bow.
+The Khorasanian bow to which our text refers would at the most have been only 37 in./93.98 cm. long, which is short even by comparison with the Ottoman flight bow.
 
 The following additional information occurs in one of the D manuscripts, and is of some interest:
 
 > ‛They (sc. the Turks, Persians and Iraqis) divide the bow into half at the halfway mark on the grip so that whichever limb is the weaker is taken by them to be the shooting limb (i.e. the upper). The Khorasanians do not believe in applying [too much] sinew to their bows . . . and accordingly use less of this material than any other. With the Iraqis, on the other hand, sinew and horn are used in equal proportions. This is because of climatic differences in these countries.  Experts say that if you are in a very hot country, you should soak the sinew with good, pure, well-prepared parchment glue because it gives moisture and suppleness suited to such a country and excessive heat...
 
-Specifications given by other authors cannot always be directly compared as they may refer to a bow of different design from that described in the present treatise. It is, however, interesting to record the observation of the author of the *Nihāyah* that the longest bow should be 12 *qabḍahs* (‘fists’, i.e. about 39 1/4 in.) and the shortest 8 *qabḍahs* (about 26 in.). The longest *siyahs* should, he adds, be 16 fingers (about 13 in.) and the shortest 10 fingers (about 8 in.). If our equivalent for the *qabḍah* is correct (see Appendix 1), the length of the bow must have been measured by a different method from that indicated by Ṭaybughā.  It may have been based on the shortest distance between the nocks or tips of the braced bow.
+Specifications given by other authors cannot always be directly compared as they may refer to a bow of different design from that described in the present treatise. It is, however, interesting to record the observation of the author of the *Nihāyah* that the longest bow should be 12 *qabḍahs* (‘fists’, i.e. about 39.26 in./99.71 cm.) and the shortest 8 *qabḍahs* (about 26 in./66.04). The longest *siyahs* should, he adds, be 16 fingers (about 13 in./33.02 cm.) and the shortest 10 fingers (about 8 in./20.32 cm.). If our equivalent for the *qabḍah* is correct (see Appendix 1), the length of the bow must have been measured by a different method from that indicated by Ṭaybughā.  It may have been based on the shortest distance between the nocks or tips of the braced bow.
 
 ### The Flight Bow
 
