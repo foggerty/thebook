@@ -10,7 +10,7 @@ There are differences of opinion on what constitutes the fundamentals of archery
 
 Some add nocking and make the fundamentals six. This is the number we adopt for the simple reason that a fundamental of anything is that which is indispensable to it, and, as nocking is indispensable to archery, it is therefore a fundamental. There are some who add stringing, but strictly speaking stringing is connected with the art of bow making because it requires a knowledge of how to adjust the bow, how to correct any distortions in its curvature (*taqwim i wijājihi*), and how to prepare strings.
 
-## Translators' Comment
+## Comment
 
 ### i. The Masters of Archery and the Great Masters
 

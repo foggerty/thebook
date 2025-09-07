@@ -14,7 +14,7 @@ In this position the archer has his Achilles’ tendons meeting, but parts his f
 
 In battle you can put your shield over your forearm, fasten it to it, and advance on the enemy sideways. When you eventually reach the spot where his arrows are falling, you drop on your knees with head down and hands on the ground and rotate your shield‘ over your head so that if the enemy shoots at you, none of his arrows will hit you. If one should hit, it will strike your shield.  If you are able to shoot at the enemy and so wish, you can nock and draw in that position without casting so much as a glance at him before bringing the arrow to full draw. You then raise your head, sight, and shoot. This is a very convenient manœuvre when one is engaged in siege operations against fortresses, cities, and the like.
 
-## Translators’ comment
+## Comment
 
 Strict adherence to the Arabic text would require our chapter to be entitled ‘On Standing and Sitting Before the Target’, but, as none of the manuscripts of the A group deals with the second of these two subjects, we have excluded ‘and Sitting’ from our English title. The subject will be taken up in section 2 below.
 

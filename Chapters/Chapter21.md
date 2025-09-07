@@ -162,7 +162,7 @@ The elimination of all these faults and their attendant ills can be achieved by 
 
 There is no mystery about this sort of thing, and so, for the sake of brevity, we have not always indicated the remedy for cach fault as it has arisen. All an archer need do is to follow faithfully the advice contained in our poem since it incorporates all the good advice he needs, and those who turn to it for guidance and put its counsels into practice will acquire nothing but good habits and immunity from the faults and injuries mentioned above. I have in fact only dealt with the subject by way of supplementing my commentary.
 
-## Translators’ comment
+## Comment
 
 ### i. The List of Faults and Injuries
 

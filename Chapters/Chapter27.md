@@ -32,7 +32,7 @@ While shooting is taking place, the archer should not look too much at his compa
 
 An archer's next step in his training must be to familiarise himself with the faults that bowmen experience in the matter of aim, hands and arms, alignment, loosing and locking, and to aquire a knowledge of defects in bows and arrows and an ability to distinguish good from bad. He should know how to heat a bow and how to adjust and repair it, how to straighten his arrows and correct the curve of his bow, and how to knot his bowstrings. He should also know how to eradicate a fault if one occurs and know the reason for the fault. When he has a knowledge, mastery, and understanding of such matters as well as skill and proficiency in shooting, and then, acquiring familiarity with the rules of wagering and legitimate shooting, is able to distinguish between what is permissible and what is not, is familiar with competition shooting and the rules and regulations for other archery contests - when, I say, he has a knowledge, mastery, and understanding of such matters, a man is then a full-fledged archer and can take his place as such among his fellows and share their fortunes and misfortunes. But even so, he will still not have a complete grasp of all there is to know about shooting, and he will never be too old to learn.  Authorities on archery say that, no matter how much knowledge of the art of shooting a man may acquire and no matter how long he lives, he will not achieve complete mastery.
 
-## Translators’ comment
+## Comment
 
 ### i. The Training of an Archer
 

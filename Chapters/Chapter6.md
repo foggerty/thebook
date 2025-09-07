@@ -6,7 +6,7 @@ There are many kinds of thumb-guard to suit individual tastes and purposes, Expe
 
 The golden rule for a thumb-guard is that it should be exactly the size of the thumb, neither bigger nor smaller. According to Ṭāhir, the use of a thick lip will increase cast (*aṭrad li-s-sahm*; in other words, be better for distance), but greater accuracy will be attained (e.g. in target shooting) by the use of a thin one. The best policy is to adhere to that to which one is accustomed.  If one has no particular habit in this respect, then it is better to follow the instructions which we have given above.
 
-## Translators' Comments
+## Comments
 
 It is regrettable that Taybugha should be so brief on such an important subject. The author of *Arab Archery* is much more informative and offers some interesting details on the making of horn and leather thumb-guards (pp. 123-24).
 

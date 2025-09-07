@@ -14,7 +14,7 @@ The system of Isḥāq ar-Raffā was a compromise between the two methods alread
 
 Because of his desire to develop a suitable technique, *aṭ-Ṭabari* [who was trained in all three systems] squatted in the same way as Isḥāq, adopted Ṭāhir’s grasp, braced and sighted after the fashion of Abū Hāshim, used a lock that was a compromise between that of Ṭāhir and that of Isḥāq and drew on the mouth after the manner of Isḥāq. . .  Aṭ-Ṭabarī is the author of the *Kitāb al-iḍāh* (for *K. al-wādiḥ*, ‘The Clear Book’).
 
-## Translators’ Comment
+## Comment
 
 ### i. The Schools of Archery
 

@@ -14,7 +14,7 @@ A number of advantages are to be gained from this technique: it will safeguard t
 
 The loose should be accomplished with a backward punch (*laksah*), or thrust, of the right elbow as though the archer were jabbing someone behind with his elbow. Some archers open out the forearm (frontispiece) as they loose. The first method, however, is safer and sounder, especially in combat and confined spaces [because injury can be caused (presumably either to oneself or to a fellow archer standing close by) if the forearm and fingers are opened out in a confined space]. To close the fingers after the loose is a better and more practical technique in battle.
 
-## Translators' comment
+## Comment
 
 Although our author, in common with others who deal with the details of shooting technique, breaks down its various aspects into constituents, it is important to note that in practice the actions which go into the making of a shot are essentially indivisible, for each action merges with the next to form a rhythmic whole. On paper this fact is perhaps nowhere more strikingly illustrated than in the foregoing chapter, in which the reader will have observed the extent to which the loose involves the draw.
 

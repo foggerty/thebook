@@ -24,7 +24,7 @@ To hit an enemy at some distance away, aim at his head [by elevating the upper l
 
 All that we have said so far depends for its success on a steady left hand, a firm hold on the grip, correct locking, alignment of both arms, correct sighting, presence of mind, a sound draw with the [right] elbow in the appropriate position, a clean release with tension in both elbows and, above all - for on this hinges everything else - imperturbability.
 
-## Translator's Comment
+## Comment
 
 It goes without saying that the ability to aim is essential to accurate shooting. Although it becomes intuitive with experience, the art is not easily acquired and is indeed unattainable until and unless the archer has complete control of their bow. Methods of aiming in Islamic manuals are numerous to the exhaustion of almost all possibilities. The individual, therefore, had to make choice of method. To some extent at least, the choice would appear to have been dictated by the size and design of their bow; for the doctrine that all sighting should be ‘external’ was, we are told, that of the users of the short Khorasanian bow, while the view that it should be all ‘internal’ was held by archers who used the ‘average longer bow’ (*Tabsirah*, 65a). The method selected would also depend to some degree on factors such as style and kind of shooting (target, hunting, war, etc.).
 

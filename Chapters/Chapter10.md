@@ -24,7 +24,7 @@ A straight lock (*al-istiwā*) will give a steadier draw, and an oblique (*at-ta
 
 The main principle behind these observations is that for every type of finger there is a particular lock, just as for every type of palm there is a particular grasp. The lock of Bahrām (*al-‘aqd al-Bahrāmi*), for example, involves lengthening the short, that is, the thumb, and shortening the long, that is, the right index finger. Chosroes’ lock (*al-‘aqd al-Khusrawāni*) is the reverse of that of Bahrām - it involves lengthening the long and shortening the short. [The lock may be varied, then, to suit the individual, but] the nock of the arrow may not be shortened [to suit the lock].  It is a great fault, so beware. (His meaning is: if as a result of the kind of lock which you adopt, you find the end of the nock pressing against any part of your thumb or index finger, you must not shorten the nock to remove this pressure, You must either take a different lock or accept the pressure.)
 
-## Translators' Comment
+## Comment
 
 ### i. The Lock: Terminology
 

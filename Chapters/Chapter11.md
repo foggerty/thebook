@@ -12,7 +12,7 @@ Correct use of the right elbow is the essence of a good draw, and maximum draugh
 
 It is reported that at-Tabari said, ‘'Abd ar-Rahmān al-Farāwi told me that there are ten points to effective shooting (*nikāyah*), of which nine lie in the attainment of maximum draught by a properly completed draw and only one in the archer’ (meaning, presumably, that a successful shot largely depends on the completion of a faultless draw). The completed draw (*wafā*) is one of three kinds: the lesser (*bidāyah*), the standard (*kifāyah*), and the greater (*nihāyah*).
 
-## Translators' Comments
+## Comments
 
 > ‘Drawynge well is the best parte of shootynge' (Ascham)
 

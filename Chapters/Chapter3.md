@@ -42,7 +42,7 @@ If it so happens that the archer can only get a bow that is too thin in the hand
 
 So far as the power of the bow is concerned, authorities on archery are agreed that the skill of the archer entirely depends upon his using a bow that is within the limits of his own strength and physical power. In time past archers have only been concerned with those points on which they differed and prided themselves, namely, technique and grouping (*jam*'), without anyone ever mentioning so much as a word about the strength of the bow. Nevertheless, it is said that one should not shoot with a bow unless it is less powerful than himself and that no one ever shot with a bow that was even a fraction too strong for him without its revealing his faults and incapacity, doing him harm, ruining his shooting, and emboldening his rival without his knowing it.
 
-## Translators' Comment
+## Comment
 
 There is a striking omission in the preceding text: our author offers no glossary of the terminology applicable to the anatomy of the bow, such as is to be found, for example, in *Arab Archery*, pp. 13-16. In the C & D groups of manuscripts the subject is discussed, but we suspect the relevant section to have been drawn from some other literary source and inserted for the sake of completeness. Since we have reason to doubt whether *all* the terms listed were valid for the time and place with which we are here concerned - indeed some may well have been unknown to Ṭaybughā - we relegate them to Appendix 2.
 

@@ -8,7 +8,7 @@ Take the nock of the arrow in the three appropriate fingers - the thumb, index f
 
 The business of nocking that has just been described should be executed with rapidity, which can only be acquired by repeating the operation time after time. Only constant practice will bring the experience required by the technique, for to nock speedily without looking at the operation is difficult and can only be achieved by repeated practice and constant training.
 
-## Translators' Comment
+## Comment
 
 Nocking is treated, to a greater or lesser extent, by different authors in different ways. Here is not the place to assemble all the material we have discovered on the subject and to enter into a comparative study. One or two points, however, do call for some comment, and for this purpose *Arab Archery* may be used to most advantage, It should be noted that, in order to avoid vexatious repetition of references, it is to pp. 40-42 of this work that we refer,
 

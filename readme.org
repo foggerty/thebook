@@ -14,52 +14,33 @@ At some point, contact the publisher to get contact info for the authors' estate
   - [X] Chapter 1
   - [X] Chapter 2
   - [X] Chapter 3
-  - [-] Chapter 4
-    - [X] Text
-    - [ ] Conversions
-  - [-] Chapter 5
-    - [X] Text
-    - [ ] Conversions
+  - [X] Chapter 4
+  - [ ] Chapter 5
+    - [ ] Table in comments/4.
   - [X] Chapter 6
   - [X] Chapter 7
-  - [-] Chapter 8
-    - [X] Text
-    - [ ] Conversions
+  - [X] Chapter 8
   - [X] Chapter 9
   - [X] Chapter 10
   - [X] Chapter 11
   - [X] Chapter 12
   - [X] Chapter 13
   - [X] Chapter 14
-  - [-] Chapter 15
-    - [X] Text
-    - [ ] Conversions
-  - [-] Chapter 16
-    - [X] Text
-    - [ ] Conversions
-  - [-] Chapter 17
-    - [X] Text
-    - [ ] Conversions
+  - [X] Chapter 15
+  - [X] Chapter 16
+  - [X] Chapter 17
   - [X] Chapter 18
-  - [-] Chapter 19
-    - [X] Text
-    - [ ] Conversions
+  - [X] Chapter 19
   - [X] Chapter 20
   - [X] Chapter 21
   - [X] Chapter 22
   - [X] Chapter 23
   - [X] Chapter 24
-  - [-] Chapter 25
-    - [X] Text
-    - [ ] Conversions
-  - [-] Chapter 26
-    - [X] Text
-    - [ ] Conversions
+  - [X] Chapter 25
+  - [X] Chapter 26
   - [X] Chapter 27
   - [X] Chapter 28
-  - [ ] Appendix 1
-    - [ ] Text
-    - [ ] Conversions
+  - [X] Appendix 1
   - [-] Appendix 2
     - [X] Text
     - [ ] Links to notes
