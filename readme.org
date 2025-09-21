@@ -41,26 +41,21 @@ At some point, contact the publisher to get contact info for the authors' estate
   - [X] Chapter 27
   - [X] Chapter 28
   - [X] Appendix 1
-  - [-] Appendix 2
-    - [X] Text
-    - [ ] Links to notes
-    - [ ] Make notes superscript
-  - [-] Appendix 3
-    - [X] Text
-    - [ ] Links to notes
-    - [ ] Make notes superscript
-  - [-] Appendix 4
-    - [X] Text
-    - [ ] Finger images
+  - [X] Appendix 2
+  - [X] Appendix 3
+  - [X] Appendix 4
   - [X] Appendix 5
   - [X] Appendix 6
   - [ ] Arabic English glossary
     - [ ] Script to find all terms, and add links from all chapters.
 - [ ] Make a minimal [[https://pandoc.org/MANUAL.html#epub-styling][.css file]].
-- [ ] Double-check pronunciation guide.
+- [ ] Images (minimum)
+  - [ ] Finger counting
+  - [ ] Arabic bow
+  - [ ] Foot positions
 - [ ] Run a spell check over everything, after having deleted custom dict.
-- [ ] New images, like, every-fucking-where.  Fuck.  Appendix 5 references plate 18 (reproduction of Taybgha's bow) and if I only include one set of pics, it needs to be this one.  Oh, and finger-counting.
 - [ ] Then, add notes (groan).
+- [ ] Add back in (feck..) "see page xyz" as links.
 - [ ] Ask Bede if he wants to join in, and either update based on more recent research, or add new findings to expand on what's already contained.
 - [ ] Publish.
 - [ ] (Optional) Split out comments (again) and create a translation-only version.  Will still need some ilustrations re finger-lock etc.

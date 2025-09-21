@@ -1,6 +1,6 @@
 # Notes and references
 
-## MANUSCRIPTS (Move to beginning?)
+## MANUSCRIPTS
 
 In the introduction we have described the British Museum codex on which this work is based and, in general terms, defined and discussed the various groups of manuscripts used to control, correct, or otherwise improve the text and add to our knowledge of its subject matter. Restricting ourselves to bare essentials, we now give particulars about individual manuscripts, the groups into which we have placed them, and the meaning of the symbols by which we refer to them.  Further information about them can be found ín sources indicated in parentheses following the indication of date, and, in the case of the Istanbul manuscripts, the reader should consult Ritter, Zs/., XVIII, 1929, pp. 137 ff.
 

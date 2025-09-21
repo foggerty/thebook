@@ -20,7 +20,7 @@ Do beware of impairing your own ability by seeing another hit the mark when you 
 
 > ‘If the qualities of a man arouse your admiration, then be him,
 >And you yourself will soon display those same qualities that you admire in him.
->To generous and noble deeds there is none to bar your way, if only you approach them."
+> To generous and noble deeds there is none to bar your way, if only you approach them."
 
 Another poet says:
 
